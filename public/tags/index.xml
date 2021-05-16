@@ -1,81 +1,144 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Chris Turner</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Chris Turner</description>
+    <title>Tags on Richard Lewis</title>
+    <link>https://www.gogorichie.com/tags/</link>
+    <description>Recent content in Tags on Richard Lewis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Sep 2020 03:53:00 +0100</lastBuildDate><atom:link href="https://www.gogorichie.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>css</title>
-      <link>https://example.com/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>first post</title>
+      <link>https://www.gogorichie.com/tags/first-post/</link>
+      <pubDate>Sun, 20 Sep 2020 03:53:00 +0100</pubDate>
       
-      <guid>https://example.com/tags/css/</guid>
+      <guid>https://www.gogorichie.com/tags/first-post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>https://example.com/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>hugo</title>
+      <link>https://www.gogorichie.com/tags/hugo/</link>
+      <pubDate>Sun, 20 Sep 2020 03:53:00 +0100</pubDate>
       
-      <guid>https://example.com/tags/html/</guid>
+      <guid>https://www.gogorichie.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>https://example.com/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>microsoft</title>
+      <link>https://www.gogorichie.com/tags/microsoft/</link>
+      <pubDate>Sun, 29 Dec 2019 23:53:00 +0100</pubDate>
       
-      <guid>https://example.com/tags/markdown/</guid>
+      <guid>https://www.gogorichie.com/tags/microsoft/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>privacy</title>
-      <link>https://example.com/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>vscode</title>
+      <link>https://www.gogorichie.com/tags/vscode/</link>
+      <pubDate>Sun, 29 Dec 2019 23:53:00 +0100</pubDate>
       
-      <guid>https://example.com/tags/privacy/</guid>
+      <guid>https://www.gogorichie.com/tags/vscode/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>shortcodes</title>
-      <link>https://example.com/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>JCI</title>
+      <link>https://www.gogorichie.com/tags/jci/</link>
+      <pubDate>Tue, 17 Oct 2017 15:43:51 -0500</pubDate>
       
-      <guid>https://example.com/tags/shortcodes/</guid>
+      <guid>https://www.gogorichie.com/tags/jci/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>text</title>
-      <link>https://example.com/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>PASS</title>
+      <link>https://www.gogorichie.com/tags/pass/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/text/</guid>
+      <guid>https://www.gogorichie.com/tags/pass/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>emoji</title>
-      <link>https://example.com/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>SQL</title>
+      <link>https://www.gogorichie.com/tags/sql/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/emoji/</guid>
+      <guid>https://www.gogorichie.com/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>projects</title>
-      <link>https://example.com/tags/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <title>sqlfamily</title>
+      <link>https://www.gogorichie.com/tags/sqlfamily/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/projects/</guid>
+      <guid>https://www.gogorichie.com/tags/sqlfamily/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T-SQL Tuesday</title>
+      <link>https://www.gogorichie.com/tags/t-sql-tuesday/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/t-sql-tuesday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>https://www.gogorichie.com/tags/conferences/</link>
+      <pubDate>Sat, 23 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salesforce</title>
+      <link>https://www.gogorichie.com/tags/salesforce/</link>
+      <pubDate>Sat, 23 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/salesforce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kapow</title>
+      <link>https://www.gogorichie.com/tags/kapow/</link>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/kapow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>https://www.gogorichie.com/tags/presentations/</link>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/presentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPA</title>
+      <link>https://www.gogorichie.com/tags/rpa/</link>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/rpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSIS</title>
+      <link>https://www.gogorichie.com/tags/ssis/</link>
+      <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/ssis/</guid>
       <description></description>
     </item>
     
