@@ -2,8 +2,6 @@
 title: "SQL Saturday 31 Wrapup"
 date: 2010-04-22
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["SQL", "sqlfamily", "pass"]
 ---
 

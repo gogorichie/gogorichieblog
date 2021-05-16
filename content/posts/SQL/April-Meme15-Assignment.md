@@ -2,8 +2,6 @@
 title: "April Meme 15 Assignment"
 date: 2012-04-10
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["Microsoft", "PASS", "SQL"]
 ---
 

@@ -2,8 +2,6 @@
 title: "Meme Monday: What SQLFamily Means To Me"
 date: 2011-11-25
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["SQL", "PASS"]
 ---
 

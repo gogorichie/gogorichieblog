@@ -2,8 +2,6 @@
 title: "Favorite Business Intelligence Blogs"
 date: 2010-10-12
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["SQL", "SSIS"]
 ---
 

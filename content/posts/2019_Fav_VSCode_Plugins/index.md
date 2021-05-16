@@ -3,7 +3,6 @@ title: "My Favorite VSCode Plugins Of 2019"
 date: 2019-12-29T23:53:00+01:00
 draft: false
 hideLastModified: true
-summary: "My Favorite VSCode Plugins Of 2019"
 tags: ["vscode", "microsoft"]
 ---
 ![SynthWave '84 theme](summary.jpg)

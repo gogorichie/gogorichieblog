@@ -2,8 +2,6 @@
 title: "Jaycees and Politics"
 date: 2011-08-08
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["JCI"]
 ---
 

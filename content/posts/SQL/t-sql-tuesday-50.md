@@ -2,8 +2,6 @@
 title: "T-SQL Tuesday 050: Automation, Get Work Done While Sleeping"
 date: 2014-01-14
 draft: false
-summary: ""
-summaryImage: "static/images/tsqltuesday.jpg"
 tags: ["SQL", "sqlfamily", "pass", "T-SQL Tuesday"]
 ---
 

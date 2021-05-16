@@ -2,8 +2,6 @@
 title: "SQL Saturday 119 Recap In 189 Words"
 date: 2012-06-07
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["PASS", "SQL"]
 ---
 

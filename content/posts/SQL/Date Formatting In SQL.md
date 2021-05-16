@@ -2,8 +2,6 @@
 title: "Date Formatting In SQL"
 date: 2010-03-19
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["SQL"]
 ---
 

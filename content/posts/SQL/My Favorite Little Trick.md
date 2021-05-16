@@ -2,8 +2,6 @@
 title: "T-SQL Tuesday 025 - My Favorite Little Trick"
 date: 2011-12-13
 draft: false
-summary: ""
-summaryImage: "static/images/tsqltuesday.jpg"
 tags: ["SQL", "sqlfamily", "pass", "T-SQL Tuesday"]
 ---
 

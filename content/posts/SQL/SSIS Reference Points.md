@@ -2,8 +2,6 @@
 title: "SSIS Reference Points"
 date: 2010-10-05
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["SQL"]
 ---
 

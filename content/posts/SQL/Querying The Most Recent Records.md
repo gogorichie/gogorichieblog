@@ -2,8 +2,6 @@
 title: "Querying The Most Recent Records"
 date: 2012-11-13
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["SQL"]
 ---
 

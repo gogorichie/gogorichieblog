@@ -2,8 +2,6 @@
 title: "Intro To Kapow Katalyst"
 date: 2012-11-28
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["Kapow", "RPA"]
 ---
 

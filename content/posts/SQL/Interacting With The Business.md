@@ -2,8 +2,6 @@
 title: "T-SQL Tuesday 13: Interacting With The Business"
 date: 2010-12-14
 draft: false
-summary: ""
-summaryImage: "static/images/tsqltuesday.jpg"
 tags: ["SQL", "sqlfamily", "pass", "T-SQL Tuesday"]
 ---
 

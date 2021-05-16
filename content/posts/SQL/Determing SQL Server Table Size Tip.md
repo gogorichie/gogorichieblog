@@ -2,8 +2,6 @@
 title: "Determing SQL Server Table Size Tip"
 date: 2010-05-17
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["SQL"]
 ---
 

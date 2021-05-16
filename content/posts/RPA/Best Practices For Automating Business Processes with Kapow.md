@@ -2,8 +2,6 @@
 title: "Best Practices For Automating Business Processes with Kapow"
 date: 2013-03-19
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["Presentations", "Kapow", "RPA"]
 ---
 

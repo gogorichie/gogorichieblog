@@ -2,8 +2,6 @@
 title: "Meme Monday 4-4-11"
 date: 2011-04-04
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["SQL", "sqlfamily", "pass"]
 ---
 

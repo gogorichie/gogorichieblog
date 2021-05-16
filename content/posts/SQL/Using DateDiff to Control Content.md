@@ -2,8 +2,6 @@
 title: "Using DateDiff to Control Content"
 date: 2010-10-20
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["SQL"]
 ---
 

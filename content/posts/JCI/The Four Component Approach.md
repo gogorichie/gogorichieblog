@@ -2,8 +2,6 @@
 title: "The Four Component Approach"
 date: 2013-01-02
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["JCI"]
 ---
 

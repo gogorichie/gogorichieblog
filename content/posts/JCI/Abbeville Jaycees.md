@@ -2,8 +2,6 @@
 title: "The Founding Of The Abbeville Jaycees"
 date: 2011-07-05
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["JCI"]
 ---
 

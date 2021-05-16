@@ -2,8 +2,6 @@
 title: "Why I Jaycee"
 date: 2017-10-17T15:43:51-05:00
 draft: false
-summary: "Celebrate why I jaycee"
-summaryImage: "1_3qE5VcOt73bth2YBbiZKNg.jpeg"
 tags: ["JCI"]
 ---
 ![Illinois Jaycees Member with IL Gov. Bruce Rauner & State Senator Charlie Meier](iljc1.jpeg)

@@ -2,8 +2,6 @@
 title: "Remember To Vote"
 date: 2011-03-10
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["JCI"]
 ---
 

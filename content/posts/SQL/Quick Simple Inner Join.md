@@ -2,8 +2,6 @@
 title: "Quick & Simple Inner Join"
 date: 2011-12-19
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["SQL"]
 ---
 

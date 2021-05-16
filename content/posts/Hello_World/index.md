@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2020-09-20T03:53:00+01:00
-draft: false
+draft: true
 hideLastModified: true
 summary: "First post using Hugo"
 summaryImage: "summary.jpg"

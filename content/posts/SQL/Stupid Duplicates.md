@@ -2,8 +2,6 @@
 title: "Stupid Duplicates Die Won’t You"
 date: 2010-07-24
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["SQL"]
 ---
 

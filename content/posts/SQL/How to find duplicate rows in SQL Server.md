@@ -2,8 +2,6 @@
 title: "How to find duplicate rows in SQL Server"
 date: 2008-06-10
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["SQL"]
 ---
 

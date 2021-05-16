@@ -2,8 +2,6 @@
 title: "Meme 15 Why Did I Start Blogging"
 date: 2011-12-15
 draft: false
-summary: ""
-summaryImage: ""
 tags: ["PASS", "SQL"]
 ---
 
