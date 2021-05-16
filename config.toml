@@ -1,39 +1,40 @@
-baseURL = "http://www.gogorichie.com/"
-languageCode = "en-us"
-title = "I'm Richard Lewis"
-description = "DevOps Consultant By Profession & Community Orginzer By Hobby"
-copyright = "Richard Lewis"
-theme = "ananke"
+baseURL = "https://www.gogorichie.com/"
+languageCode = "en-US"
+title = "Richard Lewis"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-124218898-1"
+theme = "hugo-sustain"
 
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+[permalinks]
+  post = "/:year/:month/:day/:slug"
 
 [params]
-  favicon = ""
-  site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = "https://www.facebook.com/RichardLewisJCI"
-  twitter = "https://twitter.com/gogorichie"
-  instagram = "https://www.instagram.com/gogorichie/"
-  youtube = ""
-  github = "https://github.com/gogorichie"
-  gitlab = ""
-  linkedin = "https://www.linkedin.com/in/gogorichie/"
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  rss = ""
+  avatar = "img/avataaars.png"
+  author = "Richard Lewis"
+  description = "DevOps Consultant By Profession & Community Orginzer By Hobby"
 
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
 
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/bg2.jpg"
-  recent_posts_number = 4
+[params.social]
+  Github        = "gogorichie"
+  Email         = "richard@gogorichie.com"
+  Twitter       = "gogorichie"
+  LinkedIn      = "gogorichie"
+  Facebook      = "RichardLewisJCI"
+  RSS           = "/blog/index.xml"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "About"
+  identifier = "About"
+  weight = 200
+  url = "/about/"
