@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I&#39;m Richard Lewis</title>
+    <link>http://www.gogorichie.com/</link>
+    <description>Recent content on I&#39;m Richard Lewis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 May 2021 22:49:37 -0500</lastBuildDate><atom:link href="http://www.gogorichie.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://www.gogorichie.com/posts/my-first-post/</link>
+      <pubDate>Sat, 15 May 2021 22:49:37 -0500</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/my-first-post/</guid>
+      <description>My first post using Hugo so this is the HelloWorld moment!
+I’ve been a developer for over 20 years… it’s hard to say and even harder for me to believe. Not only am I getting old but when you launch your first website when your 15 that 20-year mark creeps up mighty quickly.
+I think I’m going to like it here. But in the meantime, you can find me at gogorichie.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://www.gogorichie.com/posts/hello_world/</link>
+      <pubDate>Sun, 20 Sep 2020 03:53:00 +0100</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/hello_world/</guid>
+      <description>First post using Hugo</description>
+    </item>
+    
+    <item>
+      <title>The Unicorn Project</title>
+      <link>http://www.gogorichie.com/posts/the_unicorn_project/</link>
+      <pubDate>Sat, 19 Sep 2020 03:53:00 +0100</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/the_unicorn_project/</guid>
+      <description>First post using Hugo</description>
+    </item>
+    
+    <item>
+      <title>My Favorite VSCode Plugins Of 2019</title>
+      <link>http://www.gogorichie.com/posts/2019_fav_vscode_plugins/</link>
+      <pubDate>Sun, 29 Dec 2019 23:53:00 +0100</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/2019_fav_vscode_plugins/</guid>
+      <description>My Favorite VSCode Plugins Of 2019</description>
+    </item>
+    
+    <item>
+      <title>Why I Jaycee</title>
+      <link>http://www.gogorichie.com/posts/jci/why_i_jaycee/</link>
+      <pubDate>Tue, 17 Oct 2017 15:43:51 -0500</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/jci/why_i_jaycee/</guid>
+      <description>Celebrate why I jaycee</description>
+    </item>
+    
+    <item>
+      <title>T-SQL Tuesday 050: Automation, Get Work Done While Sleeping</title>
+      <link>http://www.gogorichie.com/posts/sql/t-sql-tuesday-50/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/t-sql-tuesday-50/</guid>
+      <description>It&amp;rsquo;s been a while since I&amp;rsquo;ve written a #tsql2sday post, but thought that this month&amp;rsquo;s topic was worthy of me hoping into the pool with the #sqlfamily. This month the subject is &amp;ldquo;Automation&amp;rdquo;. chosen by Hemanth D. (Blog | @SqlChow). If you want to read the opening post, please click the image above. I&amp;rsquo;m lover of software automation and been a fan since writing my first macro in Excel when I was in high school.</description>
+    </item>
+    
+    <item>
+      <title>DreamForce 2013 Wrapup</title>
+      <link>http://www.gogorichie.com/posts/dreamforce2013/</link>
+      <pubDate>Sat, 23 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/dreamforce2013/</guid>
+      <description>This year I made the trip to San Francisco for Salesforce&amp;rsquo;s annual DreamForce a five day conference that trumps all other conference. Every aspect of the event was amazing and WOW 120,000 attendees. The leadership speaker series, the trainings, the networking opportunities, and the parties were all great. My highlights and most memorable moments were getting to meet a couple of vendors that I only get to speak with on the phone including one who is located in France.</description>
+    </item>
+    
+    <item>
+      <title>Best Practices For Automating Business Processes with Kapow</title>
+      <link>http://www.gogorichie.com/posts/rpa/best-practices-for-automating-business-processes-with-kapow/</link>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/rpa/best-practices-for-automating-business-processes-with-kapow/</guid>
+      <description>Thanks for attending my session on best practices for automation business processes with Kapow at the 2013 Kapow.Wow User Summit. As promised in the session i wanted to share my slides for all.
+[office src=&amp;ldquo;https://skydrive.live.com/embed?cid=85BF2A35D22B167F&amp;amp;resid=85BF2A35D22B167F%216705&amp;amp;authkey=&amp;amp;em=2&amp;amp;wdAr=1.3118440779610194&amp;rdquo; width=&amp;ldquo;600&amp;rdquo; height=&amp;ldquo;480&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>The Four Component Approach</title>
+      <link>http://www.gogorichie.com/posts/jci/the-four-component-approach/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/jci/the-four-component-approach/</guid>
+      <description>The Jaycees as you all know by now is more than just a community service organization. Since the founding in 1915 it has held true to its primary purpose of building young leaders to tackle the challenges of tomorrow. In 2013 I will be servicing you as your State Membership Development vice President; the Member Development area encompasses four key components and all them vital. First Recruit since our organization is based on membership requirements it’s important that we replace those that no longer meet our requirements to be members.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started With Microsoft Access</title>
+      <link>http://www.gogorichie.com/posts/sql/getting-started-with-microsoft-access/</link>
+      <pubDate>Mon, 10 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/getting-started-with-microsoft-access/</guid>
+      <description>I&amp;rsquo;ve been using Microsoft Access since Access 97 it&amp;rsquo;s a very powerful tool is you use it right. You can use it for everything from personal Baseball card inventory control to managing home inventories; even fortune 500 companies use it to manage million dollar systems. As I said if you use it right it can be quite a powerful tool built on some amazing framework. Recently a friend who&amp;rsquo;s getting into access asked me if I could provide him some resources so that he can get better familiar with the tool.</description>
+    </item>
+    
+    <item>
+      <title>Intro To Kapow Katalyst</title>
+      <link>http://www.gogorichie.com/posts/rpa/intro-to-kapow-katalyst/</link>
+      <pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/rpa/intro-to-kapow-katalyst/</guid>
+      <description>This will be the first posting of a new category on my blog regard Kapow Software. Before I begin to discuss my usage experiences and technical information regarding Kapow Katalyst, I figure it would be good to give a little background about it. Kapow Katalyst is what known as a Web Data Aggregation Tool; these tools are used to capture data from websites for analytic&amp;rsquo;s purposes. Where Kapow excels is it allows you to complete your ETL process from a single execution aka a Robot.</description>
+    </item>
+    
+    <item>
+      <title>Querying The Most Recent Records</title>
+      <link>http://www.gogorichie.com/posts/sql/querying-the-most-recent-records/</link>
+      <pubDate>Tue, 13 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/querying-the-most-recent-records/</guid>
+      <description>Here’s another fun solution for you business intelligence people out there. Suppose you wanted to pull data that was updated in the last 15mins based on when a row was last. I&amp;rsquo;m sure there are many ways to accomplish this but I like to use the DATEADD() function in Microsoft SQL Server 2008. Below is the query using the AdventureWorks2008R2 database enjoy.
+SELECTI.ProductID,I.LocationID,I.Bin,I.Shelf,I.Quantity,P.ProductNumber,P.Name,I.ModifiedDateFROMAdventureWorks2008R2.Production.ProductInventoryASILEFTOUTERJOIN AdventureWorks2008R2.Production.ProductASPONI.ProductID=P.ProductIDWHERE(I.ModifiedDate&amp;gt;=REPLACE(CONVERT(VARCHAR(19),DATEADD(minute,-30,GETDATE()),120),&#39;-&#39;,&amp;lsquo;/&#39;))P.S. Before the query in the example will work on the AdventureWorks database you&amp;rsquo;ll need to update a couple of rows on the ProductInventory table.</description>
+    </item>
+    
+    <item>
+      <title>SQL Saturday 119 Recap In 189 Words</title>
+      <link>http://www.gogorichie.com/posts/sql/sql-saturday-119-recap-in-189-words/</link>
+      <pubDate>Thu, 07 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/sql-saturday-119-recap-in-189-words/</guid>
+      <description>So I&amp;rsquo;m about a month late or maybe three in writing my recap on the event so here goes. It was awesomeness !!!! 2012 marked my second SQL Saturday that I&amp;rsquo;ve attended and have to say it just keeps getting better. This year I was able to volunteer with registration which is an awesome way to meet all the attendees well at least most of them. Also I hooped into five awesome sessions &amp;ldquo;A Complete BI Solution in About an Hour!</description>
+    </item>
+    
+    <item>
+      <title>April Meme 15 Assignment</title>
+      <link>http://www.gogorichie.com/posts/sql/april-meme15-assignment/</link>
+      <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/april-meme15-assignment/</guid>
+      <description>Another #Meme 15 topic brought you by MVP Jason Strate (blog | twitter). This month topic &amp;ldquo;What are ten blogs that you think other SQL Server professionals should be following but might not be?&amp;quot; Coming up with a list of just 10 is harder than I thought narrowing it down to ten is just way to hard but i was able to do. The list I put together covers everyone from the newbie to SQL to the all-round DBA.</description>
+    </item>
+    
+    <item>
+      <title>Quick &amp; Simple Inner Join</title>
+      <link>http://www.gogorichie.com/posts/sql/quick-simple-inner-join/</link>
+      <pubDate>Mon, 19 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/quick-simple-inner-join/</guid>
+      <description>A business partner approached me the other day looking to share information with my company. Since parts numbers are recycled more often than lame jokes in my business one of the things we needed the business partner to provide was the brand of the part. The business partner said that this would be difficult to do since they were unfamiliar with linking data across tables in any manner. After understanding a little about the setup of the partner&amp;rsquo;s tables I taught them to design a view linking the two primary tables where the data could be seen together through a view.</description>
+    </item>
+    
+    <item>
+      <title>Meme 15 Why Did I Start Blogging</title>
+      <link>http://www.gogorichie.com/posts/sql/why-did-i-start-blogging/</link>
+      <pubDate>Thu, 15 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/why-did-i-start-blogging/</guid>
+      <description>This month&amp;rsquo;s Meme15 assignment and the first was chosen by Jason Strate (Blog|Twitter) he posed the assignment of writing about why do I blog and why I started.
+I started blogging back in 2003 just about a one year after launching Gogorichie.com, back then it was the social network of its time along with AIM and YIM. As me and my high school friends went off to college we stayed in contact via our blogs.</description>
+    </item>
+    
+    <item>
+      <title>T-SQL Tuesday 025 - My Favorite Little Trick</title>
+      <link>http://www.gogorichie.com/posts/sql/my-favorite-little-trick/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/my-favorite-little-trick/</guid>
+      <description>This month&amp;rsquo;s T-SQL Tuesday topic is from Allen White. He posed the question of what is my favorite little SQL trick. I can&amp;rsquo;t wait to see what tips the #SQLFamily write about. I discovered one of my favorite tricks last year, just a little background my first SQL version I started out administrating and developing on 8 years ago was SQL 2000 back then to get table statistics was no easy task.</description>
+    </item>
+    
+    <item>
+      <title>Meme Monday: What SQLFamily Means To Me</title>
+      <link>http://www.gogorichie.com/posts/sql/sqlfamily-means-to-me/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/sqlfamily-means-to-me/</guid>
+      <description>I saw this topic a few weeks back on @sqlrockstar&amp;rsquo;s site but never got around to writing a post.
+I&amp;rsquo;ve been in working on databases for about 6 years now a mixture of Access, SQL, Teradata, and MySQL. So when I saw the topic thoughts began to flow through my brain. What does the SQL Family mean to me?? it means that there is a network of people with the same interest, challenged by the same problems as me.</description>
+    </item>
+    
+    <item>
+      <title>Jaycees and Politics</title>
+      <link>http://www.gogorichie.com/posts/jci/jaycees-and-politics/</link>
+      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/jci/jaycees-and-politics/</guid>
+      <description>As Jaycee members we have a long history of driving change in our communities across the country and all through our grassroots skills and efforts. For example, when a group of young business men in the Los Angeles area were dissatisfied with their representation in congress they sought out a candidate and came across a young who was a Jaycee their first reaction was here is a young man who has been through the best training in the world.</description>
+    </item>
+    
+    <item>
+      <title>The Founding Of The Abbeville Jaycees</title>
+      <link>http://www.gogorichie.com/posts/jci/abbeville-jaycees/</link>
+      <pubDate>Tue, 05 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/jci/abbeville-jaycees/</guid>
+      <description>Over the weekend I read another chapter of the book Young Men Can Change The World. I came across another great story this one of how the Abbeville Jaycees was founded. The story was a recount of the adventure of at the time U.S. Jaycees National Vice President Robert E. Condon who at the age of 29 also held the position of civil defense commissioner for the greater New York metro area.</description>
+    </item>
+    
+    <item>
+      <title>Meme Monday 4-4-11</title>
+      <link>http://www.gogorichie.com/posts/sql/meme-monday-4-4-11/</link>
+      <pubDate>Mon, 04 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/meme-monday-4-4-11/</guid>
+      <description>First off shout out to Thomas Larock for coming up with this idea. Today’s meme is “Write a SQL blog post in 11 words or less”, and here is my entry: Write query. Syntax error. Search Google. run query again. Happy dance!!!! Some more shout outs to my favorite readings from last month: * Pinal Dave (blog | @pinaldave) * Brent Ozar (blog | @BrentO) * Thomas Larock (blog | @sqlrockstar) * BIDN (blog | @bidn)</description>
+    </item>
+    
+    <item>
+      <title>Remember To Vote</title>
+      <link>http://www.gogorichie.com/posts/jci/remember-to-vote/</link>
+      <pubDate>Thu, 10 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/jci/remember-to-vote/</guid>
+      <description>I was reading a section of a Book called Young Men Can Change The World the other day and wanted to share it with you. It told the story of group Jaycee members out in California who were so passionate with some the legislation being passed in their community that they put together a committee to find someone from their community to run for Representative. After months of searching they found a young Jaycee member who was a lawyer and encouraged him to run, with their support and determination not to lose he went on to win and get elected.</description>
+    </item>
+    
+    <item>
+      <title>T-SQL Tuesday 13: Interacting With The Business</title>
+      <link>http://www.gogorichie.com/posts/sql/interacting-with-the-business/</link>
+      <pubDate>Tue, 14 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/interacting-with-the-business/</guid>
+      <description>I come from a different world in my company, I’m not IT though I have formal training, I speak the lingo, and wear the uniform of Jeans, t-shirt, glasses and ton’s of geekieness in my swagger. I’m what they call Business Intelligence or better known as Shadow IT. Though i&amp;rsquo;m up front about what we do and the impact it has. In my company I’m the middle person between what the business thinks it wants and what it really needs long term.</description>
+    </item>
+    
+    <item>
+      <title>Using DateDiff to Control Content</title>
+      <link>http://www.gogorichie.com/posts/sql/using-datediff-to-control-content/</link>
+      <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/using-datediff-to-control-content/</guid>
+      <description>Last Friday I got a data request from a group asking for a report to be generated bi-hourly for customer request that were not responded to in a time span of two hours. So looking at the data I noticed that there were two columns that were time stamped one when the request was submitted and another when the request was completed, so this was easy I filtered out where the completed data was null and wrote a where statement using a Datediff syntax to breakdown the input date time stamp by hour and then subtracting two so my sql statement looks like the following example.</description>
+    </item>
+    
+    <item>
+      <title>Favorite Business Intelligence Blogs</title>
+      <link>http://www.gogorichie.com/posts/sql/favorite-business-intelligence-blogs/</link>
+      <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/favorite-business-intelligence-blogs/</guid>
+      <description>As I start to dive deeper into the Business Intelligence area I&amp;rsquo;ve started putting together a list of my favorite blogs covering this area, in no particular order.
+ http://www.bidn.com/ http://sqlbi.blogspot.com/ http://cwebbbi.spaces.live.com/ http://denglishbi.spaces.live.com/ http://bi-polar23.blogspot.com/ http://sqlserverbiblog.com/ http://shahfaisalmuhammed.wordpress.com/ http://tomislavpiasevoli.spaces.live.com/default.aspx http://bimatters.spaces.live.com/  </description>
+    </item>
+    
+    <item>
+      <title>SSIS Reference Points</title>
+      <link>http://www.gogorichie.com/posts/sql/ssis-reference-points/</link>
+      <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/ssis-reference-points/</guid>
+      <description>This is a shout out to my former team member learning about SSIS packages for the first time and getting ready to move from SQL 2000 to SQL 2008. Here’s some good reference points for how to do the basics. Now before you call me and ask what does SSIS stands it stands for SQL Server Integration Services. So below is a couple links that i found i think you may find helpful in your new adventure.</description>
+    </item>
+    
+    <item>
+      <title>Stupid Duplicates Die Won’t You</title>
+      <link>http://www.gogorichie.com/posts/sql/stupid-duplicates/</link>
+      <pubDate>Sat, 24 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/stupid-duplicates/</guid>
+      <description>So the other day my former team member call me asking for help. She had inserted the same data into a table three or more times and needed to get rid of them. For those of you with duplications and need to delete them here’s a little statement i came up with and gave her.
+DELETE FROM TBL_Employees
+WHERE (EmpID IN
+ (SELECT MAX(EmpID) AS Expr2
+ FROM TBL_Employees
+ GROUP BY FirstName</description>
+    </item>
+    
+    <item>
+      <title>Determing SQL Server Table Size Tip</title>
+      <link>http://www.gogorichie.com/posts/sql/determing-sql-server-table-size-tip/</link>
+      <pubDate>Mon, 17 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/determing-sql-server-table-size-tip/</guid>
+      <description>From time to time i run into problems of where some new table appears on m server and starts eating up all my space. Well i came across this blog posting a while back that does a great job of explaining how to determine the table sizes in a database in SQL 2000 it works in 2005 too. check it out and let me know what you think. http://www.mitchelsellers.com/blogs/articletype/articleview/articleid/121/determing-sql-server-table-size.aspx</description>
+    </item>
+    
+    <item>
+      <title>SQL Saturday 31 Wrapup</title>
+      <link>http://www.gogorichie.com/posts/sql/sql-saturday-31-wrapup/</link>
+      <pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/sql-saturday-31-wrapup/</guid>
+      <description>Earlier this month i attended my first SQL meetup called SQL Saturday #31 i&amp;rsquo;m not sure why it&amp;rsquo;s numbered 31 cause i realized they don&amp;rsquo;t go in order. But yeah so it was hosted in Elk Grove so it wasn&amp;rsquo;t to far away. I knew it was going to be a awesome day when i met this guy in the registration line who reads my site and learned a couple SQL tricks from it.</description>
+    </item>
+    
+    <item>
+      <title>Date Formatting In SQL</title>
+      <link>http://www.gogorichie.com/posts/sql/date-formatting-in-sql/</link>
+      <pubDate>Fri, 19 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/date-formatting-in-sql/</guid>
+      <description>I got a request for a report the other day so I built this massive 90 line SQL statement to pull all the data requested. So I sent off a copy of the data report and the guy tells me that he needs the date formatted (YYYYMMDD) instead of (YYYY-MM-DD-HHMMSS) and then he was like is that going to be a problem and I was like ha not really. Give me a moment and I&amp;rsquo;ll send you a simple.</description>
+    </item>
+    
+    <item>
+      <title>How to find duplicate rows in SQL Server</title>
+      <link>http://www.gogorichie.com/posts/sql/how-to-find-duplicate-rows-in-sql-server/</link>
+      <pubDate>Tue, 10 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/sql/how-to-find-duplicate-rows-in-sql-server/</guid>
+      <description>I ran into this problem the other day at work with duplicate rows while trying to merge data from two separate tables into the same table. I couldn&amp;rsquo;t remember so I just ran a quick search using Google and came across the solution on a Microsoft knowledge base page.
+col1 col2
+1 1 2
+ </description>
+    </item>
+    
+  </channel>
+</rss>

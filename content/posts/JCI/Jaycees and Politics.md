@@ -1,0 +1,10 @@
+---
+title: "Jaycees and Politics"
+date: 2011-08-08
+draft: false
+summary: ""
+summaryImage: ""
+tags: ["JCI"]
+---
+
+As Jaycee members we have a long history of driving change in our communities across the country and all through our grassroots skills and efforts. For example, when a group of young business men in the Los Angeles area were dissatisfied with their representation in congress they sought out a candidate and came across a young who was a Jaycee their first reaction was here is a young man who has been through the best training in the world. This particular Jaycee won their confidence and was elected to serve them in congress. He went on to serve his country as our nation's President. Here's another example of Jaycees and politics; Did you know Bill Clinton, Al Gore, Gerald Ford, Ralph Nader, Dick Chaney, Joe Biden and many more were all TOYA recipients? Still need more proof you say.... ever hear of the Young Republicans Party? Well it was founded by then Jaycees National President George H. Olmsted in 1932 after being called upon by US President Herbert Hoover who was looking for a way to get more young men out to vote and involved in politics. Speaking of getting out to vote did you know that [Get Out The Vote](http://www.usjaycees.org/index.php/government-involvement) is our very own national program for the Jaycees organization under the Government Involvement area? Which mean each chapter should and is encouraged to run a project to support this program. The easiest thing to do is to run a voter registration drive in your community at one of your town festivals or events. A toolkit can be downloaded from [http://www.usjaycees.org/index.php/government-involvement](http://www.usjaycees.org/index.php/government-involvement) and information on how you can best serve your local community can be found through your local County Clerks office.

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vscode on I&#39;m Richard Lewis</title>
+    <link>http://www.gogorichie.com/tags/vscode/</link>
+    <description>Recent content in vscode on I&#39;m Richard Lewis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Dec 2019 23:53:00 +0100</lastBuildDate><atom:link href="http://www.gogorichie.com/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Favorite VSCode Plugins Of 2019</title>
+      <link>http://www.gogorichie.com/posts/2019_fav_vscode_plugins/</link>
+      <pubDate>Sun, 29 Dec 2019 23:53:00 +0100</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/2019_fav_vscode_plugins/</guid>
+      <description>My Favorite VSCode Plugins Of 2019</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RPA on I&#39;m Richard Lewis</title>
+    <link>http://www.gogorichie.com/tags/rpa/</link>
+    <description>Recent content in RPA on I&#39;m Richard Lewis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://www.gogorichie.com/tags/rpa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices For Automating Business Processes with Kapow</title>
+      <link>http://www.gogorichie.com/posts/rpa/best-practices-for-automating-business-processes-with-kapow/</link>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/rpa/best-practices-for-automating-business-processes-with-kapow/</guid>
+      <description>Thanks for attending my session on best practices for automation business processes with Kapow at the 2013 Kapow.Wow User Summit. As promised in the session i wanted to share my slides for all.
+[office src=&amp;ldquo;https://skydrive.live.com/embed?cid=85BF2A35D22B167F&amp;amp;resid=85BF2A35D22B167F%216705&amp;amp;authkey=&amp;amp;em=2&amp;amp;wdAr=1.3118440779610194&amp;rdquo; width=&amp;ldquo;600&amp;rdquo; height=&amp;ldquo;480&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>Intro To Kapow Katalyst</title>
+      <link>http://www.gogorichie.com/posts/rpa/intro-to-kapow-katalyst/</link>
+      <pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gogorichie.com/posts/rpa/intro-to-kapow-katalyst/</guid>
+      <description>This will be the first posting of a new category on my blog regard Kapow Software. Before I begin to discuss my usage experiences and technical information regarding Kapow Katalyst, I figure it would be good to give a little background about it. Kapow Katalyst is what known as a Web Data Aggregation Tool; these tools are used to capture data from websites for analytic&amp;rsquo;s purposes. Where Kapow excels is it allows you to complete your ETL process from a single execution aka a Robot.</description>
+    </item>
+    
+  </channel>
+</rss>
