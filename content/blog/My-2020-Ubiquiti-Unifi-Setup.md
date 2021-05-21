@@ -3,8 +3,8 @@ title: 'My 2020 Ubiquiti Unifi Setup'
 description: ''
 date: 2021-05-20T23:05:31-05:00
 draft: false
-categories: [Home]
-tags: []
+categories: []
+tags: [Home]
 ---
 
 I've been using Ubiquiti products since late 2018 to improve the wireless experience of my wife in our townhouse. I came across the product line while trying to solve the problem of getting decent wire coverage across a 2500 Sq foot two-story townhouse. I tried mesh network products from Netgear, Google, and some other companies always with the same problem repeaters would fail, the handoff between access points was awful, and most importantly the quality of service was crap leaving my wife frustrated. After tons of YouTube videos and articles, I decided to go with the Ubiquiti Unifi product line with the long-term plan of upgrading my whole home network over two years to spread out the cost. The products aren't cheap, they last long and they have a great resell value as far tech hardware goes.
