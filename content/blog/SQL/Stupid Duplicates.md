@@ -1,5 +1,5 @@
 ---
-title: "Stupid Duplicates Die Won’t You"
+title: "Stupid Duplicates"
 date: 2010-07-24
 draft: false
 tags: ["SQL"]
