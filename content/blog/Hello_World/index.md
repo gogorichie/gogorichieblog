@@ -1,12 +1,15 @@
 ---
 title: "Hello World"
-date: 2020-09-20T03:53:00+01:00
-draft: true
+date: 2021-05-15T22:49:37-05:00
+draft: false
 hideLastModified: true
 summary: "First post using Hugo"
 summaryImage: "summary.jpg"
 tags: ["hugo", "first post"]
 ---
+
+![Hello World](summary.jpg)
+
 
 My first post using Hugo so this is the HelloWorld moment!
 
