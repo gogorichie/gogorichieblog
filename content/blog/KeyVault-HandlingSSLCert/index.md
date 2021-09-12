@@ -1,5 +1,5 @@
 ---
-title: "Notifications on Certicate Expiration Dates Using Azure Key Vault"
+title: "Notifications on Certificate Expiration Dates Using Azure Key Vault"
 date: 2021-09-12T11:45:53-05:00
 draft: false
 tags: ["Azure", "microsoft"]
