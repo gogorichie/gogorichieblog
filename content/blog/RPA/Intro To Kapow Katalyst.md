@@ -6,6 +6,8 @@ tags: ["Kapow", "RPA"]
 ---
 
 
-This will be the first posting of a new category on my blog regard Kapow Software. Before I begin to discuss my usage experiences and technical information regarding Kapow Katalyst, I figure it would be good to give a little background about it. Kapow Katalyst is what known as a Web Data Aggregation Tool; these tools are used to capture data from websites for analytic's purposes. Where Kapow excels is it allows you to complete your ETL process from a single execution aka a Robot. Robots can get pretty detailed in length and if you're reusing code across multiple robots you can insert snippets instead of rewriting the code. Check out the video below for more information regarding this product.
+This will be the first posting of a new category on my blog regard Kapow Software a Robotic Process Automation (RPA) tool. Before I begin to discuss my usage experiences and technical information regarding Kapow Katalyst, I figure it would be good to give a little background about it. Kapow Katalyst is a Web Data Aggregation Tool; these tools are used to capture data from websites for analytic's purposes. Where Kapow excels is it allows you to complete your ETL process from a single execution aka a Robot. Robots can get pretty detailed in length and if you're reusing code across multiple robots you can insert snippets instead of rewriting the code. Check out the video below for more information regarding this product.
 
-httpv://www.youtube.com/watch?v=1sIskVseM70
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1sIskVseM70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
