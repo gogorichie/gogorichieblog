@@ -7,7 +7,7 @@ tags: ["Azure", "microsoft"]
 ---
 
 
-Back in July fellow Azure blogger [Billy York](https://twitter.com/SCAutomation) wrote a [post](https://www.cloudsma.com/2021/07/monitor-ssl-cert-Azure-monitor/) about Monitoring SSL certificates with Azure monitor utilizing a standard test within App Insights. This is a really cool that Azure finally added this ability. I want to talk about an alternative less known method using Azure Key Vault certificate contacts and lifetime contacts.
+Back in July fellow Azure blogger [Billy York](https://twitter.com/SCAutomation) wrote a [blog post](https://www.cloudsma.com/2021/07/monitor-ssl-cert-Azure-monitor/) about Monitoring SSL certificates with Azure monitor utilizing a standard test within App Insights, it's really cool that Azure finally added this ability. I want to talk about an alternative less known method using Azure Key Vault certificate contacts and lifetime contacts.
 
 **What is Azure Key Vault?**
 ![](https://azure.microsoft.com/svghandler/key-vault/?width=600&height=315)
