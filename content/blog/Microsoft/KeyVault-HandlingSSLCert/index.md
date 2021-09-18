@@ -14,6 +14,7 @@ Back in July fellow Azure blogger [Billy York](https://twitter.com/SCAutomation)
 
 For those who are unfamiliar with The Azure service Azure Key Vault the fastest way to sum it up is that its a cloud service on Azure used for storing sensitive application information like tokens, passwords, API keys as well as TLS and SSL certificates used by resources on Azure or accessing Azure resources. The benefit of using a service like this is it will greatly reduce the risk of secrets being leaked accidentally. If you would like a more comprehensive overview of the service go to the [Azure Key Vault website](https://docs.microsoft.com/en-us/Azure/key-vault/general/).
 
+**How To Monitor Certificates**
 
 Ok so let’s say you’re storing your SSL certificates in a Azure Key Vault and you want a way to monitor the certificates expiration dates without having to use an additional service such as App Insights.
 
