@@ -13,7 +13,7 @@ theme = "hugo-sustain"
 [params]
   avatar = "img/20170225_171223.jpg"
   author = "Richard Lewis"
-  description = "DevOps Consultant By Profession & Community Orginzer By Hobby"
+  description = "DevOps Consultant By Profession & Community Organizer By Hobby"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
