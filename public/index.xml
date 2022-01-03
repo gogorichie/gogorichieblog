@@ -6,7 +6,54 @@
     <description>Recent content on Richard Lewis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 15 May 2021 22:49:37 -0500</lastBuildDate><atom:link href="https://www.gogorichie.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Dec 2021 23:53:00 +0100</lastBuildDate><atom:link href="https://www.gogorichie.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Favorite VSCode Plugins Of 2021</title>
+      <link>https://www.gogorichie.com/blog/microsoft/2021_fav_vscode_plugins/</link>
+      <pubDate>Wed, 29 Dec 2021 23:53:00 +0100</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/microsoft/2021_fav_vscode_plugins/</guid>
+      <description>2019 was a big year for me using VS Code before the beginning of the year I was still using Notepad++ along with Visual Studio as my daily IDE&amp;rsquo;s. But in January I tried to use VS Code every day for 30 days and I haven&amp;rsquo;t stopped and along the way, I also convinced a few of my Co-workers to convert over as well. I remember reading the 2018 Stack Overflow release their annual Developer survey results last December, one of the interesting things that I noticed was that VS Code had risen to the top as the Most Popular Development Environment among Developers and Admins with 35% of 75,398 respondents claiming to use it which is pretty cool for a tool-less than 5 years old.</description>
+    </item>
+    
+    <item>
+      <title>So Long Wordpress</title>
+      <link>https://www.gogorichie.com/blog/so-long-wordpress/</link>
+      <pubDate>Sun, 05 Dec 2021 17:41:00 -0600</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/so-long-wordpress/</guid>
+      <description>In July 2019 I officially stop using the WordPress CMS. It took me many years to realize all the things I loved about WordPress were also the same things but ultimately led me to leave the platform. I really loved the ability to customize The platform to my needs using any plugin I could possibly dream of or better find online and there are many options out there. I really loved the ability to post my intent that I saw fit and I mean over the years I’ve posted almost 3000 blog posts.</description>
+    </item>
+    
+    <item>
+      <title>Blogging with Hugo</title>
+      <link>https://www.gogorichie.com/blog/blogging-with-hugo/</link>
+      <pubDate>Sun, 05 Dec 2021 16:50:56 -0600</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/blogging-with-hugo/</guid>
+      <description>hugo new blog\blogging-with-hugo.md is where this blog post starts. how did i get to using hugo? it was partually out of nesscesity and
+hugo serve &amp;ndash;buildDrafts</description>
+    </item>
+    
+    <item>
+      <title>Notifications on Certificate Expiration Dates Using Azure Key Vault</title>
+      <link>https://www.gogorichie.com/blog/microsoft/keyvault-handlingsslcert/</link>
+      <pubDate>Sun, 12 Sep 2021 11:45:53 -0500</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/microsoft/keyvault-handlingsslcert/</guid>
+      <description>Back in July fellow Azure blogger Billy York wrote a blog post about Monitoring SSL certificates with Azure monitor utilizing a standard test within App Insights, it&amp;rsquo;s really cool that Azure finally added this ability. I want to talk about an alternative less known method using Azure Key Vault certificate contacts and lifetime contacts.
+What is Azure Key Vault? For those who are unfamiliar with The Azure service Azure Key Vault the fastest way to sum it up is that its a cloud service on Azure used for storing sensitive application information like tokens, passwords, API keys as well as TLS and SSL certificates used by resources on Azure or accessing Azure resources.</description>
+    </item>
+    
+    <item>
+      <title>My 2020 Ubiquiti Unifi Setup</title>
+      <link>https://www.gogorichie.com/blog/my-2020-ubiquiti-unifi-setup/</link>
+      <pubDate>Thu, 20 May 2021 23:05:31 -0500</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/my-2020-ubiquiti-unifi-setup/</guid>
+      <description>I&amp;rsquo;ve been using Ubiquiti products since late 2018 to improve the wireless experience of my wife in our townhouse. I came across the product line while trying to solve the problem of getting decent wire coverage across a 2500 Sq foot two-story townhouse. I tried mesh network products from Netgear, Google, and some other companies always with the same problem repeaters would fail, the handoff between access points was awful, and most importantly the quality of service was crap leaving my wife frustrated.</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://www.gogorichie.com/blog/hello_world/</link>
@@ -19,7 +66,7 @@
     <item>
       <title>My First Post</title>
       <link>https://www.gogorichie.com/blog/my-first-post/</link>
-      <pubDate>Sat, 15 May 2021 22:49:37 -0500</pubDate>
+      <pubDate>Fri, 15 Jan 2021 22:49:37 -0500</pubDate>
       
       <guid>https://www.gogorichie.com/blog/my-first-post/</guid>
       <description>My first post using Hugo so this is the HelloWorld moment!
@@ -28,21 +75,41 @@ I think I’m going to like it here. But in the meantime, you can find me at gog
     </item>
     
     <item>
-      <title>About Me</title>
+      <title>About Richard!</title>
       <link>https://www.gogorichie.com/about/</link>
       <pubDate>Fri, 23 Oct 2020 23:53:00 +0100</pubDate>
       
       <guid>https://www.gogorichie.com/about/</guid>
-      <description>20+ year IT veteran, with a background in process improvement through automation. I&amp;rsquo;ve had the privilege of working in Operations and Development areas of IT shops sizing from Startups to Fortune 500 companies. Along the way learning from the best while doing it. What drives me is my to passion to keep learning new things, help people through educating them on best practices and uses of new technologies, and contributing to a worthwhile cause.</description>
+      <description>20+ year IT veteran, with a background in process improvement through automation. Richard focuses on the practice of what is referred to as &amp;ldquo;DevOps&amp;rdquo; the practice of delivering high-quality software through the method of unioning people, processes, and products. Richard over his career has had the privilege of working in both Operations and Software Development areas of IT shops sizing from Startups to Fortune 500 companies. Along the way learning from the best while doing it.</description>
     </item>
     
     <item>
       <title>My Favorite VSCode Plugins Of 2019</title>
-      <link>https://www.gogorichie.com/blog/2019_fav_vscode_plugins/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/2019_fav_vscode_plugins/</link>
       <pubDate>Sun, 29 Dec 2019 23:53:00 +0100</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/2019_fav_vscode_plugins/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/2019_fav_vscode_plugins/</guid>
       <description>2019 was a big year for me using VS Code before the beginning of the year I was still using Notepad++ along with Visual Studio as my daily IDE&amp;rsquo;s. But in January I tried to use VS Code every day for 30 days and I haven&amp;rsquo;t stopped and along the way, I also convinced a few of my Co-workers to convert over as well. I remember reading the 2018 Stack Overflow release their annual Developer survey results last December, one of the interesting things that I noticed was that VS Code had risen to the top as the Most Popular Development Environment among Developers and Admins with 35% of 75,398 respondents claiming to use it which is pretty cool for a tool-less than 5 years old.</description>
+    </item>
+    
+    <item>
+      <title>Code Nation: The Future Of Tomorrow</title>
+      <link>https://www.gogorichie.com/blog/the-future-of-tomorrow/</link>
+      <pubDate>Sat, 19 Oct 2019 22:49:37 -0500</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/the-future-of-tomorrow/</guid>
+      <description>Part my role at Coyote involves me work with community orginzations. In early 2019 Coyote&amp;rsquo;s Software Development group became involved with Code Nation, an 501c3 organization based out of New York, which is focused on equipping students, in under-resourced high schools, with the skills, experiences, and connections that give them access to careers in technology.
+Code Nation’s approach is using a volunteer teaching corp of hundreds of professional web and software developers, that provide tuition-free coding courses and work-based learning programs to students of these under-resourced schools.</description>
+    </item>
+    
+    <item>
+      <title>The Daily Grind Guest Appearance</title>
+      <link>https://www.gogorichie.com/blog/daily-grind-interview/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/daily-grind-interview/</guid>
+      <description>Earlier this month I dropped by my friend Kelly Johnson&amp;rsquo;s podcast she is just starting up The Daily Grind Podcast check out our conversation as we talk about Pickleball, Jaycees, Software Conferences, and what i do as a Developer Advocate.
+Click here to subscribe</description>
     </item>
     
     <item>
@@ -56,10 +123,10 @@ I think I’m going to like it here. But in the meantime, you can find me at gog
     
     <item>
       <title>T-SQL Tuesday 050: Automation, Get Work Done While Sleeping</title>
-      <link>https://www.gogorichie.com/blog/sql/t-sql-tuesday-50/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/t-sql-tuesday-50/</link>
       <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/t-sql-tuesday-50/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/t-sql-tuesday-50/</guid>
       <description>It&amp;rsquo;s been a while since I&amp;rsquo;ve written a #tsql2sday post, but thought that this month&amp;rsquo;s topic was worthy of me hoping into the pool with the #sqlfamily. This month the subject is &amp;ldquo;Automation&amp;rdquo;. chosen by Hemanth D. (Blog | @SqlChow). If you want to read the opening post, please click the image above. I&amp;rsquo;m lover of software automation and been a fan since writing my first macro in Excel when I was in high school.</description>
     </item>
     
@@ -79,7 +146,7 @@ I think I’m going to like it here. But in the meantime, you can find me at gog
       
       <guid>https://www.gogorichie.com/blog/rpa/best-practices-for-automating-business-processes-with-kapow/</guid>
       <description>Thanks for attending my session on best practices for automation business processes with Kapow at the 2013 Kapow.Wow User Summit. As promised in the session i wanted to share my slides for all.
-[office src=&amp;ldquo;https://skydrive.live.com/embed?cid=85BF2A35D22B167F&amp;amp;resid=85BF2A35D22B167F%216705&amp;amp;authkey=&amp;amp;em=2&amp;amp;wdAr=1.3118440779610194&amp;rdquo; width=&amp;ldquo;600&amp;rdquo; height=&amp;ldquo;480&amp;rdquo;]</description>
+</description>
     </item>
     
     <item>
@@ -93,10 +160,10 @@ I think I’m going to like it here. But in the meantime, you can find me at gog
     
     <item>
       <title>Getting Started With Microsoft Access</title>
-      <link>https://www.gogorichie.com/blog/sql/getting-started-with-microsoft-access/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/getting-started-with-microsoft-access/</link>
       <pubDate>Mon, 10 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/getting-started-with-microsoft-access/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/getting-started-with-microsoft-access/</guid>
       <description>I&amp;rsquo;ve been using Microsoft Access since Access 97 it&amp;rsquo;s a very powerful tool is you use it right. You can use it for everything from personal Baseball card inventory control to managing home inventories; even fortune 500 companies use it to manage million dollar systems. As I said if you use it right it can be quite a powerful tool built on some amazing framework. Recently a friend who&amp;rsquo;s getting into access asked me if I could provide him some resources so that he can get better familiar with the tool.</description>
     </item>
     
@@ -106,71 +173,71 @@ I think I’m going to like it here. But in the meantime, you can find me at gog
       <pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>https://www.gogorichie.com/blog/rpa/intro-to-kapow-katalyst/</guid>
-      <description>This will be the first posting of a new category on my blog regard Kapow Software. Before I begin to discuss my usage experiences and technical information regarding Kapow Katalyst, I figure it would be good to give a little background about it. Kapow Katalyst is what known as a Web Data Aggregation Tool; these tools are used to capture data from websites for analytic&amp;rsquo;s purposes. Where Kapow excels is it allows you to complete your ETL process from a single execution aka a Robot.</description>
+      <description>This will be the first posting of a new category on my blog regard Kapow Software a Robotic Process Automation (RPA) tool. Before I begin to discuss my usage experiences and technical information regarding Kapow Katalyst, I figure it would be good to give a little background about it. Kapow Katalyst is a Web Data Aggregation Tool; these tools are used to capture data from websites for analytic&amp;rsquo;s purposes. Where Kapow excels is it allows you to complete your ETL process from a single execution aka a Robot.</description>
     </item>
     
     <item>
       <title>Querying The Most Recent Records</title>
-      <link>https://www.gogorichie.com/blog/sql/querying-the-most-recent-records/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/querying-the-most-recent-records/</link>
       <pubDate>Tue, 13 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/querying-the-most-recent-records/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/querying-the-most-recent-records/</guid>
       <description>Here’s another fun solution for you business intelligence people out there. Suppose you wanted to pull data that was updated in the last 15mins based on when a row was last. I&amp;rsquo;m sure there are many ways to accomplish this but I like to use the DATEADD() function in Microsoft SQL Server 2008. Below is the query using the AdventureWorks2008R2 database enjoy.
 SELECTI.ProductID,I.LocationID,I.Bin,I.Shelf,I.Quantity,P.ProductNumber,P.Name,I.ModifiedDateFROMAdventureWorks2008R2.Production.ProductInventoryASILEFTOUTERJOIN AdventureWorks2008R2.Production.ProductASPONI.ProductID=P.ProductIDWHERE(I.ModifiedDate&amp;gt;=REPLACE(CONVERT(VARCHAR(19),DATEADD(minute,-30,GETDATE()),120),&#39;-&#39;,&amp;lsquo;/&#39;))P.S. Before the query in the example will work on the AdventureWorks database you&amp;rsquo;ll need to update a couple of rows on the ProductInventory table.</description>
     </item>
     
     <item>
       <title>SQL Saturday 119 Recap In 189 Words</title>
-      <link>https://www.gogorichie.com/blog/sql/sql-saturday-119-recap-in-189-words/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/sql-saturday-119-recap-in-189-words/</link>
       <pubDate>Thu, 07 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/sql-saturday-119-recap-in-189-words/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/sql-saturday-119-recap-in-189-words/</guid>
       <description>So I&amp;rsquo;m about a month late or maybe three in writing my recap on the event so here goes. It was awesomeness !!!! 2012 marked my second SQL Saturday that I&amp;rsquo;ve attended and have to say it just keeps getting better. This year I was able to volunteer with registration which is an awesome way to meet all the attendees well at least most of them. Also I hooped into five awesome sessions &amp;ldquo;A Complete BI Solution in About an Hour!</description>
     </item>
     
     <item>
       <title>April Meme 15 Assignment</title>
-      <link>https://www.gogorichie.com/blog/sql/april-meme15-assignment/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/april-meme15-assignment/</link>
       <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/april-meme15-assignment/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/april-meme15-assignment/</guid>
       <description>Another #Meme 15 topic brought you by MVP Jason Strate (blog | twitter). This month topic &amp;ldquo;What are ten blogs that you think other SQL Server professionals should be following but might not be?&amp;quot; Coming up with a list of just 10 is harder than I thought narrowing it down to ten is just way to hard but i was able to do. The list I put together covers everyone from the newbie to SQL to the all-round DBA.</description>
     </item>
     
     <item>
       <title>Quick &amp; Simple Inner Join</title>
-      <link>https://www.gogorichie.com/blog/sql/quick-simple-inner-join/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/quick-simple-inner-join/</link>
       <pubDate>Mon, 19 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/quick-simple-inner-join/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/quick-simple-inner-join/</guid>
       <description>A business partner approached me the other day looking to share information with my company. Since parts numbers are recycled more often than lame jokes in my business one of the things we needed the business partner to provide was the brand of the part. The business partner said that this would be difficult to do since they were unfamiliar with linking data across tables in any manner. After understanding a little about the setup of the partner&amp;rsquo;s tables I taught them to design a view linking the two primary tables where the data could be seen together through a view.</description>
     </item>
     
     <item>
       <title>Meme 15 Why Did I Start Blogging</title>
-      <link>https://www.gogorichie.com/blog/sql/why-did-i-start-blogging/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/why-did-i-start-blogging/</link>
       <pubDate>Thu, 15 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/why-did-i-start-blogging/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/why-did-i-start-blogging/</guid>
       <description>This month&amp;rsquo;s Meme15 assignment and the first was chosen by Jason Strate (Blog|Twitter) he posed the assignment of writing about why do I blog and why I started.
 I started blogging back in 2003 just about a one year after launching Gogorichie.com, back then it was the social network of its time along with AIM and YIM. As me and my high school friends went off to college we stayed in contact via our blogs.</description>
     </item>
     
     <item>
       <title>T-SQL Tuesday 025 - My Favorite Little Trick</title>
-      <link>https://www.gogorichie.com/blog/sql/my-favorite-little-trick/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/my-favorite-little-trick/</link>
       <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/my-favorite-little-trick/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/my-favorite-little-trick/</guid>
       <description>This month&amp;rsquo;s T-SQL Tuesday topic is from Allen White. He posed the question of what is my favorite little SQL trick. I can&amp;rsquo;t wait to see what tips the #SQLFamily write about. I discovered one of my favorite tricks last year, just a little background my first SQL version I started out administrating and developing on 8 years ago was SQL 2000 back then to get table statistics was no easy task.</description>
     </item>
     
     <item>
       <title>Meme Monday: What SQLFamily Means To Me</title>
-      <link>https://www.gogorichie.com/blog/sql/sqlfamily-means-to-me/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/sqlfamily-means-to-me/</link>
       <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/sqlfamily-means-to-me/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/sqlfamily-means-to-me/</guid>
       <description>I saw this topic a few weeks back on @sqlrockstar&amp;rsquo;s site but never got around to writing a post.
 I&amp;rsquo;ve been in working on databases for about 6 years now a mixture of Access, SQL, Teradata, and MySQL. So when I saw the topic thoughts began to flow through my brain. What does the SQL Family mean to me?? it means that there is a network of people with the same interest, challenged by the same problems as me.</description>
     </item>
@@ -195,10 +262,10 @@ I&amp;rsquo;ve been in working on databases for about 6 years now a mixture of A
     
     <item>
       <title>Meme Monday 4-4-11</title>
-      <link>https://www.gogorichie.com/blog/sql/meme-monday-4-4-11/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/meme-monday-4-4-11/</link>
       <pubDate>Mon, 04 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/meme-monday-4-4-11/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/meme-monday-4-4-11/</guid>
       <description>First off shout out to Thomas Larock for coming up with this idea. Today’s meme is “Write a SQL blog post in 11 words or less”, and here is my entry: Write query. Syntax error. Search Google. run query again. Happy dance!!!! Some more shout outs to my favorite readings from last month: * Pinal Dave (blog | @pinaldave) * Brent Ozar (blog | @BrentO) * Thomas Larock (blog | @sqlrockstar) * BIDN (blog | @bidn)</description>
     </item>
     
@@ -213,47 +280,47 @@ I&amp;rsquo;ve been in working on databases for about 6 years now a mixture of A
     
     <item>
       <title>T-SQL Tuesday 13: Interacting With The Business</title>
-      <link>https://www.gogorichie.com/blog/sql/interacting-with-the-business/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/interacting-with-the-business/</link>
       <pubDate>Tue, 14 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/interacting-with-the-business/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/interacting-with-the-business/</guid>
       <description>I come from a different world in my company, I’m not IT though I have formal training, I speak the lingo, and wear the uniform of Jeans, t-shirt, glasses and ton’s of geekieness in my swagger. I’m what they call Business Intelligence or better known as Shadow IT. Though i&amp;rsquo;m up front about what we do and the impact it has. In my company I’m the middle person between what the business thinks it wants and what it really needs long term.</description>
     </item>
     
     <item>
       <title>Using DateDiff to Control Content</title>
-      <link>https://www.gogorichie.com/blog/sql/using-datediff-to-control-content/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/using-datediff-to-control-content/</link>
       <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/using-datediff-to-control-content/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/using-datediff-to-control-content/</guid>
       <description>Last Friday I got a data request from a group asking for a report to be generated bi-hourly for customer request that were not responded to in a time span of two hours. So looking at the data I noticed that there were two columns that were time stamped one when the request was submitted and another when the request was completed, so this was easy I filtered out where the completed data was null and wrote a where statement using a Datediff syntax to breakdown the input date time stamp by hour and then subtracting two so my sql statement looks like the following example.</description>
     </item>
     
     <item>
       <title>Favorite Business Intelligence Blogs</title>
-      <link>https://www.gogorichie.com/blog/sql/favorite-business-intelligence-blogs/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/favorite-business-intelligence-blogs/</link>
       <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/favorite-business-intelligence-blogs/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/favorite-business-intelligence-blogs/</guid>
       <description>As I start to dive deeper into the Business Intelligence area I&amp;rsquo;ve started putting together a list of my favorite blogs covering this area, in no particular order.
  http://www.bidn.com/ http://sqlbi.blogspot.com/ http://cwebbbi.spaces.live.com/ http://denglishbi.spaces.live.com/ http://bi-polar23.blogspot.com/ http://sqlserverbiblog.com/ http://shahfaisalmuhammed.wordpress.com/ http://tomislavpiasevoli.spaces.live.com/default.aspx http://bimatters.spaces.live.com/  </description>
     </item>
     
     <item>
       <title>SSIS Reference Points</title>
-      <link>https://www.gogorichie.com/blog/sql/ssis-reference-points/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/ssis-reference-points/</link>
       <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/ssis-reference-points/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/ssis-reference-points/</guid>
       <description>This is a shout out to my former team member learning about SSIS packages for the first time and getting ready to move from SQL 2000 to SQL 2008. Here’s some good reference points for how to do the basics. Now before you call me and ask what does SSIS stands it stands for SQL Server Integration Services. So below is a couple links that i found i think you may find helpful in your new adventure.</description>
     </item>
     
     <item>
       <title>Stupid Duplicates</title>
-      <link>https://www.gogorichie.com/blog/sql/stupid-duplicates/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/stupid-duplicates/</link>
       <pubDate>Sat, 24 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/stupid-duplicates/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/stupid-duplicates/</guid>
       <description>So the other day my former team member call me asking for help. She had inserted the same data into a table three or more times and needed to get rid of them. For those of you with duplications and need to delete them here’s a little statement i came up with and gave her.
 DELETE FROM TBL_Employees
 WHERE (EmpID IN
@@ -264,37 +331,37 @@ WHERE (EmpID IN
     
     <item>
       <title>Determing SQL Server Table Size Tip</title>
-      <link>https://www.gogorichie.com/blog/sql/determing-sql-server-table-size-tip/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/determing-sql-server-table-size-tip/</link>
       <pubDate>Mon, 17 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/determing-sql-server-table-size-tip/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/determing-sql-server-table-size-tip/</guid>
       <description>From time to time i run into problems of where some new table appears on m server and starts eating up all my space. Well i came across this blog posting a while back that does a great job of explaining how to determine the table sizes in a database in SQL 2000 it works in 2005 too. check it out and let me know what you think. http://www.mitchelsellers.com/blogs/articletype/articleview/articleid/121/determing-sql-server-table-size.aspx</description>
     </item>
     
     <item>
       <title>SQL Saturday 31 Wrapup</title>
-      <link>https://www.gogorichie.com/blog/sql/sql-saturday-31-wrapup/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/sql-saturday-31-wrapup/</link>
       <pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/sql-saturday-31-wrapup/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/sql-saturday-31-wrapup/</guid>
       <description>Earlier this month i attended my first SQL meetup called SQL Saturday #31 i&amp;rsquo;m not sure why it&amp;rsquo;s numbered 31 cause i realized they don&amp;rsquo;t go in order. But yeah so it was hosted in Elk Grove so it wasn&amp;rsquo;t to far away. I knew it was going to be a awesome day when i met this guy in the registration line who reads my site and learned a couple SQL tricks from it.</description>
     </item>
     
     <item>
       <title>Date Formatting In SQL</title>
-      <link>https://www.gogorichie.com/blog/sql/date-formatting-in-sql/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/date-formatting-in-sql/</link>
       <pubDate>Fri, 19 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/date-formatting-in-sql/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/date-formatting-in-sql/</guid>
       <description>I got a request for a report the other day so I built this massive 90 line SQL statement to pull all the data requested. So I sent off a copy of the data report and the guy tells me that he needs the date formatted (YYYYMMDD) instead of (YYYY-MM-DD-HHMMSS) and then he was like is that going to be a problem and I was like ha not really. Give me a moment and I&amp;rsquo;ll send you a simple.</description>
     </item>
     
     <item>
       <title>How to find duplicate rows in SQL Server</title>
-      <link>https://www.gogorichie.com/blog/sql/how-to-find-duplicate-rows-in-sql-server/</link>
+      <link>https://www.gogorichie.com/blog/microsoft/sql/how-to-find-duplicate-rows-in-sql-server/</link>
       <pubDate>Tue, 10 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/blog/sql/how-to-find-duplicate-rows-in-sql-server/</guid>
+      <guid>https://www.gogorichie.com/blog/microsoft/sql/how-to-find-duplicate-rows-in-sql-server/</guid>
       <description>I ran into this problem the other day at work with duplicate rows while trying to merge data from two separate tables into the same table. I couldn&amp;rsquo;t remember so I just ran a quick search using Google and came across the solution on a Microsoft knowledge base page.
 col1 col2
 1 1 2

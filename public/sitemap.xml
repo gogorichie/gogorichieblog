@@ -3,10 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.gogorichie.com/</loc>
-    <lastmod>2021-05-15T22:49:37-05:00</lastmod>
+    <lastmod>2021-12-29T23:53:00+01:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/blog/</loc>
-    <lastmod>2021-05-15T22:49:37-05:00</lastmod>
+    <lastmod>2021-12-29T23:53:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/microsoft/</loc>
+    <lastmod>2021-12-29T23:53:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/microsoft/2021_fav_vscode_plugins/</loc>
+    <lastmod>2021-12-29T23:53:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/</loc>
+    <lastmod>2021-12-29T23:53:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/vscode/</loc>
+    <lastmod>2021-12-29T23:53:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/blog/</loc>
+    <lastmod>2021-12-05T17:41:00-06:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/so-long-wordpress/</loc>
+    <lastmod>2021-12-05T17:41:00-06:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/blogging-with-hugo/</loc>
+    <lastmod>2021-12-05T16:50:56-06:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/azure/</loc>
+    <lastmod>2021-09-12T11:45:53-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/microsoft/keyvault-handlingsslcert/</loc>
+    <lastmod>2021-09-12T11:45:53-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/home/</loc>
+    <lastmod>2021-05-20T23:05:31-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/my-2020-ubiquiti-unifi-setup/</loc>
+    <lastmod>2021-05-20T23:05:31-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/ubiquiti/</loc>
+    <lastmod>2021-05-20T23:05:31-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/unifi/</loc>
+    <lastmod>2021-05-20T23:05:31-05:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/tags/first-post/</loc>
     <lastmod>2021-05-15T22:49:37-05:00</lastmod>
@@ -18,22 +57,28 @@
     <lastmod>2021-05-15T22:49:37-05:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/blog/my-first-post/</loc>
-    <lastmod>2021-05-15T22:49:37-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/</loc>
-    <lastmod>2021-05-15T22:49:37-05:00</lastmod>
+    <lastmod>2021-01-15T22:49:37-05:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/about/</loc>
     <lastmod>2020-10-23T23:53:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/tags/microsoft/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/2019_fav_vscode_plugins/</loc>
     <lastmod>2019-12-29T23:53:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/2019_fav_vscode_plugins/</loc>
-    <lastmod>2019-12-29T23:53:00+01:00</lastmod>
+    <loc>https://www.gogorichie.com/blog/the-future-of-tomorrow/</loc>
+    <lastmod>2019-10-19T22:49:37-05:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/tags/vscode/</loc>
-    <lastmod>2019-12-29T23:53:00+01:00</lastmod>
+    <loc>https://www.gogorichie.com/tags/fieldreport/</loc>
+    <lastmod>2019-10-19T22:49:37-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/work/</loc>
+    <lastmod>2019-10-19T22:49:37-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/podcast/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/daily-grind-interview/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/tags/jci/</loc>
     <lastmod>2017-10-17T15:43:51-05:00</lastmod>
@@ -53,7 +98,7 @@
     <loc>https://www.gogorichie.com/tags/t-sql-tuesday/</loc>
     <lastmod>2014-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/t-sql-tuesday-50/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/t-sql-tuesday-50/</loc>
     <lastmod>2014-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/tags/conferences/</loc>
@@ -80,31 +125,31 @@
     <loc>https://www.gogorichie.com/blog/jci/the-four-component-approach/</loc>
     <lastmod>2013-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/getting-started-with-microsoft-access/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/getting-started-with-microsoft-access/</loc>
     <lastmod>2012-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/blog/rpa/intro-to-kapow-katalyst/</loc>
     <lastmod>2012-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/querying-the-most-recent-records/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/querying-the-most-recent-records/</loc>
     <lastmod>2012-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/sql-saturday-119-recap-in-189-words/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/sql-saturday-119-recap-in-189-words/</loc>
     <lastmod>2012-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/april-meme15-assignment/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/april-meme15-assignment/</loc>
     <lastmod>2012-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/quick-simple-inner-join/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/quick-simple-inner-join/</loc>
     <lastmod>2011-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/why-did-i-start-blogging/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/why-did-i-start-blogging/</loc>
     <lastmod>2011-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/my-favorite-little-trick/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/my-favorite-little-trick/</loc>
     <lastmod>2011-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/sqlfamily-means-to-me/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/sqlfamily-means-to-me/</loc>
     <lastmod>2011-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/blog/jci/jaycees-and-politics/</loc>
@@ -113,40 +158,40 @@
     <loc>https://www.gogorichie.com/blog/jci/abbeville-jaycees/</loc>
     <lastmod>2011-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/meme-monday-4-4-11/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/meme-monday-4-4-11/</loc>
     <lastmod>2011-04-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/blog/jci/remember-to-vote/</loc>
     <lastmod>2011-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/interacting-with-the-business/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/interacting-with-the-business/</loc>
     <lastmod>2010-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/using-datediff-to-control-content/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/using-datediff-to-control-content/</loc>
     <lastmod>2010-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/favorite-business-intelligence-blogs/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/favorite-business-intelligence-blogs/</loc>
     <lastmod>2010-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/tags/ssis/</loc>
     <lastmod>2010-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/ssis-reference-points/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/ssis-reference-points/</loc>
     <lastmod>2010-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/stupid-duplicates/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/stupid-duplicates/</loc>
     <lastmod>2010-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/determing-sql-server-table-size-tip/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/determing-sql-server-table-size-tip/</loc>
     <lastmod>2010-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/sql-saturday-31-wrapup/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/sql-saturday-31-wrapup/</loc>
     <lastmod>2010-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/date-formatting-in-sql/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/date-formatting-in-sql/</loc>
     <lastmod>2010-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/sql/how-to-find-duplicate-rows-in-sql-server/</loc>
+    <loc>https://www.gogorichie.com/blog/microsoft/sql/how-to-find-duplicate-rows-in-sql-server/</loc>
     <lastmod>2008-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/categories/</loc>
