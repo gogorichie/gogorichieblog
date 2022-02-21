@@ -11,7 +11,7 @@
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
-    # Content-Security-Policy = ""
+    Content-Security-Policy = "gogorichie.com"
     # Content-Security-Policy-Report-Only = ""
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = geolocation=(self "https://www.gogorichie.com"), microphone=()
