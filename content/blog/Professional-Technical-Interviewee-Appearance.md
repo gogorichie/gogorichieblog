@@ -5,7 +5,6 @@ draft: false
 tags: ["Podcast"]
 ---
 
-![](http://www.kjfwi.org/index/wp-content/uploads/2020/09/DG-circle-logo-copy-297x300.jpg)
 
 A few months back had the opportunity to joined my friend Taylor Dorsett on his Podcast to talk about Professional Technical Interviews from a DevOps perspective. If you're interested in the DevOps space this is a great conversation to listen. Check it out [Professional Technical Interviewee with Taylor Dorsett](https://youtu.be/t7QUvYqGS8s).
 
