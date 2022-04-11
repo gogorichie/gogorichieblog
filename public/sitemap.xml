@@ -3,18 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.gogorichie.com/</loc>
-    <lastmod>2021-12-29T23:53:00+01:00</lastmod>
+    <lastmod>2022-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/blog/</loc>
-    <lastmod>2021-12-29T23:53:00+01:00</lastmod>
+    <lastmod>2022-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/podcast/</loc>
+    <lastmod>2022-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/professional-technical-interviewee-appearance/</loc>
+    <lastmod>2022-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/</loc>
+    <lastmod>2022-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/my-2021-ubiquiti-unifi-setup/</loc>
+    <lastmod>2022-01-20T23:05:31-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/home/</loc>
+    <lastmod>2022-01-20T23:05:31-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/ubiquiti/</loc>
+    <lastmod>2022-01-20T23:05:31-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/unifi/</loc>
+    <lastmod>2022-01-20T23:05:31-05:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/tags/microsoft/</loc>
     <lastmod>2021-12-29T23:53:00+01:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/blog/microsoft/2021_fav_vscode_plugins/</loc>
-    <lastmod>2021-12-29T23:53:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/</loc>
     <lastmod>2021-12-29T23:53:00+01:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/tags/vscode/</loc>
@@ -35,16 +53,7 @@
     <loc>https://www.gogorichie.com/blog/microsoft/keyvault-handlingsslcert/</loc>
     <lastmod>2021-09-12T11:45:53-05:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/tags/home/</loc>
-    <lastmod>2021-05-20T23:05:31-05:00</lastmod>
-  </url><url>
     <loc>https://www.gogorichie.com/blog/my-2020-ubiquiti-unifi-setup/</loc>
-    <lastmod>2021-05-20T23:05:31-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/ubiquiti/</loc>
-    <lastmod>2021-05-20T23:05:31-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/unifi/</loc>
     <lastmod>2021-05-20T23:05:31-05:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/tags/first-post/</loc>
@@ -73,9 +82,6 @@
   </url><url>
     <loc>https://www.gogorichie.com/tags/work/</loc>
     <lastmod>2019-10-19T22:49:37-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/podcast/</loc>
-    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/blog/daily-grind-interview/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>

@@ -13,3 +13,5 @@ hugo new blog\blogging-with-hugo.md is where this blog post starts. how did i ge
 
 hugo serve --buildDrafts
 
+hugo server -D
+

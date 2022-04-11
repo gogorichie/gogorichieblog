@@ -14,7 +14,7 @@ I ended the updates to my home network in 2020 in a good place and by that I mea
 
 1. Replacing my Nest cameras and doorbell
 2. Replace my USG-Pro-4 with a UDM-Pro and move the non-POE devices to that device's built-in 8 port switch.
-3. Replace the 8port POE switch and the 5 port USW Flex Mini with a 16 or 24 port POE switch.
+3. Replace the 8 port POE switch and the 5 port USW Flex Mini with a 16 or 24 port POE switch.
 
 **Iteration Four**
 
