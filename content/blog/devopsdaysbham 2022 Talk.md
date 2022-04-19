@@ -12,6 +12,6 @@ Thanks for attending my talk on LMAO Helps During Outages at [DevOps Days Birmin
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<iframe src="https://gogorichie-my.sharepoint.com/personal/richard_gogorichie_com/_layouts/15/Doc.aspx?sourcedoc={c99af524-c273-4942-84d6-5f353d224c10}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://gogorichie-my.sharepoint.com/personal/richard_gogorichie_com/_layouts/15/Doc.aspx?sourcedoc={c99af524-c273-4942-84d6-5f353d224c10}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="500" height="500" frameborder="0" scrolling="no"></iframe>
 {{< /rawhtml >}}
 
