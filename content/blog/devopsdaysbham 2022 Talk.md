@@ -12,6 +12,6 @@ Thanks for attending my talk on LMAO Helps During Outages at [DevOps Days Birmin
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<iframe src="https://onedrive.live.com/embed?cid=85BF2A35D22B167F&amp;resid=85BF2A35D22B167F%2149093&amp;authkey=AB6GdBOrF2tBaxk&amp;em=2&amp;wdAr=1.7777777777777777" width="500" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=85BF2A35D22B167F&amp;resid=85BF2A35D22B167F%2149093&amp;authkey=AB6GdBOrF2tBaxk&amp;em=2&amp;wdAr=1.7777777777777777" width="600" height="500" frameborder="0" scrolling="no"></iframe>
 {{< /rawhtml >}}
 
