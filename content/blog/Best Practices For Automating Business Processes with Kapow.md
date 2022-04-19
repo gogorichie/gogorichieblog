@@ -2,7 +2,7 @@
 title: "DevOps Days Birmingham Alabama 2022 Talk"
 date: 2022-04-19
 draft: false
-tags: ["Presentations", "DevOps", "DevOpsDays"]
+tags: ["Conference-Talks", "DevOps", "DevOpsDays"]
 ---
 
 Thanks for attending my talk on LMAO Helps During Outages at [DevOps Days Birmingham 2022](https://devopsdays.org/events/2022-birmingham-al/welcome/). As promised in the talk i wanted to share my slides for all. For those who missed my talk but stumbled across this post. My talk was about solving the problem of when your company has an outage but there is no need to sweat just remember to LMAO and you’ll get through it having a combination of logs, metrics, alerts, and an observability tool in place will help your company LOL through it.
