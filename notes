@@ -1,0 +1,2 @@
+hugo new \blog\new_post.md
+hugo serve --buildDrafts
