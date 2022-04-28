@@ -7,7 +7,7 @@ categories: []
 tags: ["Azure", "microsoft"]
 ---
 
-*A little disclaimer here these are notes from a demo on 4-28-22 sorry If This Doesn't make sense later.*
+*A little disclaimer here these are notes from a demo on 4-28-22 sorry if this doesn't make sense later.*
 
 **Overview:**
 
