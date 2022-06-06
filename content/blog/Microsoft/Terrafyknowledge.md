@@ -7,7 +7,7 @@ categories: []
 tags: ["Azure", "microsoft"]
 ---
 
-*A little disclaimer here these are notes from a demo on 4-28-22 sorry if this doesn't make sense later.*
+*A little disclaimer here, these are notes from a demo on 4-28-22 sorry if this doesn't make sense later.*
 
 **Overview:**
 
@@ -21,7 +21,7 @@ Azure Terrafy is a new tool currently in preview as of April 27th from Microsoft
 
 1. Update the Environment variables.
 ![Alt](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/envvars.JPG)
-1. type "aztfy" in your favorite IDE.
+1. type "aztfy" in your favorite IDE to confirm it working.
 ![Alt](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/aztfy.JPG)
   
 
@@ -31,7 +31,7 @@ Three use cases that come to mind  where this tool will be  useful.
 
 1. Working with a team that has no experience with IaC and allowing for them to build their ideal enviroment to the required standards before creating a terraform plan that parameterized, templated and applied to other environments
 1. Assisting a team with moving to IaC that may have hundreds of existing resources that might need to managed as Code going forward.
-1. Extracting the complex resource configurations such SQL MI or VM Scale Sets.
+1. Extracting a complex resource configurations such SQL MI or VM Scale Sets.
   
 
 **Demo:**
