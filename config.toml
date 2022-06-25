@@ -10,8 +10,8 @@ enableRobotsTXT = true
 
 [Author] # Used in authorbox
   name = "Richard Lewis"
-  bio = "DevOps Consultant By Profession & Community Organizer By Hobby"
-  avatar = "img/avataaars.png"
+  bio = "I'm DevOps Consultant focused on the Microsoft Azure platform. Been hacking hardware and code since '95. Set my 1st PC on fire at 8 got my A+ Cert at 15. I'm a Dev, BA, DBA, SysAdmin, TV Producer, Community Organizer & Motivational Speaker some days of the week."
+  avatar = "img/profile.png"
 
 [Params]
   description = "Richard Lewis's Personal blog about everything" # Site description. Used in meta description
@@ -20,7 +20,7 @@ enableRobotsTXT = true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
   readmore = false # Show "Read more" button in list if true
-  authorbox = false # Show authorbox at bottom of pages if true
+  authorbox = true # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
@@ -56,8 +56,8 @@ enableRobotsTXT = true
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
-  list = "left"  # Configure layout for list pages
-  single = false # Configure layout for single pages
+  list = false  # Configure layout for list pages
+  single = "right" # Configure layout for single pages
   # Enable widgets in given order
   widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
@@ -66,7 +66,7 @@ enableRobotsTXT = true
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = false # Enable counter for each category in "Categories" widget
-  tags_counter = false # Enable counter for each tag in "Tags" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget
 
 [Params.widgets.social]
   # Enable parts of social widget
@@ -97,4 +97,3 @@ enableRobotsTXT = true
   identifier = "Talks"
   weight = 3
   url = "/tags/conference-talks/"
-

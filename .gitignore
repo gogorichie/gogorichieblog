@@ -1,2 +1,4 @@
 /public
+public/
+themes
 .hugo_build.lock
