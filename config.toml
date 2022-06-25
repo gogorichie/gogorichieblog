@@ -1,40 +1,99 @@
 baseURL = "https://www.gogorichie.com/"
 languageCode = "en-US"
 title = "Richard Lewis"
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
+paginate = "5" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "gogorichie"
 googleAnalytics = "UA-124218898-1"
-theme = "hugo-sustain"
+enableRobotsTXT = true
 
-[permalinks]
-  post = "/:year/:month/:day/:slug"
 
-[params]
-  avatar = "img/20170225_171223.jpg"
-  author = "Richard Lewis"
-  description = "DevOps Consultant By Profession & Community Organizer By Hobby"
+[Author] # Used in authorbox
+  name = "Richard Lewis"
+  bio = "I'm DevOps Consultant focused on the Microsoft Azure platform. Been hacking hardware and code since '95. Set my 1st PC on fire at 8 got my A+ Cert at 15. I'm a Dev, BA, DBA, SysAdmin, TV Producer, Community Organizer & Motivational Speaker some days of the week."
+  avatar = "img/profile.png"
 
-  # Custom assets can be linked with their paths relative to static/
-  custom_css = []
-  custom_js  = []
+[Params]
+  description = "Richard Lewis's Personal blog about everything" # Site description. Used in meta description
+  copyright = "Gogorichie.com" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  schema = true # Enable Schema
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
+  mainSections = ["blog", "about"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # Change the format of dates
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
 
-[params.social]
-  Github        = "gogorichie"
-  Email         = "richard@gogorichie.com"
-  Twitter       = "gogorichie"
-  LinkedIn      = "gogorichie"
-  Facebook      = "RichardLewisJCI"
-  RSS           = "/blog/index.xml"
+  # DEPRECATED PARAMS
+  subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
+  highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
 
-## Main Menu
+[Params.style.vars]
+  highlightColor = "#0080FF" # Override highlight color
+
+  # Override font-family sets
+  # Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  # Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+
+[Params.logo]
+  image = "img/20170225_171223.jpg" # Logo image. Path relative to "static"
+  title = "Richard Lewis" # Logo title, otherwise will use site title
+  subtitle = "Ramblings From A Guy Who Works With Clouds" # Logo subtitle
+
+[Params.thumbnail]
+  visibility = false
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = false  # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+  # alternatively "ddg-search" can be used, to search via DuckDuckGo
+  # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "RichardLewisJCI"
+  twitter = "gogorichie"
+  instagram = "gogorichie"
+  linkedin = "gogorichie"
+  github = "gogorichie"
+  RSS   = "index.xml"
+
+[[Params.widgets.social.custom]]
+  title = "Sessionize"
+  url = "https://sessionize.com/gogorichie/"
+
+  ## Main Menu
 [[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
+  name = "Home"
+  weight = 1
+  identifier = "home"
+  url = "/"
 [[menu.main]]
   name = "About"
   identifier = "About"
-  weight = 200
+  weight = 2
   url = "/about/"
+[[menu.main]]
+  name = "Talks"
+  identifier = "Talks"
+  weight = 3
+  url = "/tags/conference-talks/"
