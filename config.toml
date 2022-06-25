@@ -96,4 +96,4 @@ enableRobotsTXT = true
   name = "Talks"
   identifier = "Talks"
   weight = 3
-  url = "/tags/conference-talks/"
+  url = "https://noti.st/rlewi17/"
