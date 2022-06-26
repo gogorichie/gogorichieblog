@@ -78,8 +78,8 @@ enableRobotsTXT = true
   RSS   = "index.xml"
 
 [[Params.widgets.social.custom]]
-  title = "Sessionize"
-  url = "https://sessionize.com/gogorichie/"
+  title = "Meetup Group"
+  url = "http://monitoringchicago.com/"
 
   ## Main Menu
 [[menu.main]]
