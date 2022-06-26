@@ -3,7 +3,7 @@ languageCode = "en-US"
 title = "Richard Lewis"
 paginate = "5" # Number of posts per page
 theme = "mainroad"
-disqusShortname = "gogorichie"
+disqusShortname = ""
 googleAnalytics = "UA-124218898-1"
 enableRobotsTXT = true
 
@@ -66,7 +66,7 @@ enableRobotsTXT = true
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = false # Enable counter for each category in "Categories" widget
-  tags_counter = true # Enable counter for each tag in "Tags" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
 
 [Params.widgets.social]
   # Enable parts of social widget
@@ -78,7 +78,7 @@ enableRobotsTXT = true
   RSS   = "index.xml"
 
 [[Params.widgets.social.custom]]
-  title = "Meetup Group"
+  title = "Chicago Monitoring Meetup Group"
   url = "http://monitoringchicago.com/"
 
   ## Main Menu

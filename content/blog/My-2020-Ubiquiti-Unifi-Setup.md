@@ -4,7 +4,7 @@ description: ''
 date: 2021-05-20T23:05:31-05:00
 draft: false
 categories: []
-tags: ["Home","Ubiquiti","Unifi"]
+tags: ["Home Network","Ubiquiti","Unifi"]
 ---
 
 I've been using Ubiquiti products since late 2018 to improve the wireless experience of my wife in our townhouse. I came across the product line while trying to solve the problem of getting decent wire coverage across a 2500 Sq foot two-story townhouse. I tried mesh network products from Netgear, Google, and some other companies always with the same problem repeaters would fail, the handoff between access points was awful, and most importantly the quality of service was crap leaving my wife frustrated. After tons of YouTube videos and articles, I decided to go with the Ubiquiti Unifi product line with the long-term plan of upgrading my whole home network over two years to spread out the cost. The products aren't cheap, they last long and they have a great resell value as far tech hardware goes.
@@ -31,4 +31,5 @@ My fiber connection enters house my in the garage so mounting the rack in the ga
 **Future Iterations**
 
 I'm quite happy right now with the network design as of now, I'm getting great network performance throughout my home. But I'm already planning for the future upgrades to my rack replace the 8port POE switch and the 5 port USW Flex Mini with a 16 or 24 port POE switch. I could really use the ports as also plan on moving toward the Unifi Protect product line and replacing my Nest cameras and doorbell. It looks like there are some great updates on the horizon for the Protect product line. I might even replace my USG-Pro-4 with a UDM-Pro and move the non-POE devices to that device's built-in 8 port switch.
+
 ![](https://img.community.ui.com/1248d56d-28f5-40f7-8033-b85fe16c42d7/stories/5595b8a8-66e8-40c5-92cc-0abb83a71cbc/bf935478-0a35-4b90-a6a8-f9679ef424b2)
