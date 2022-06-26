@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 summary: "First post using Hugo"
 summaryImage: "summary.jpg"
-tags: ["hugo", "first post"]
+tags: ["hugo"]
 ---
 
 ![Hello World](summary.jpg)
