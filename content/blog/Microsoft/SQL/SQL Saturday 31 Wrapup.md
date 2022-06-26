@@ -2,7 +2,7 @@
 title: "SQL Saturday 31 Wrapup"
 date: 2010-04-22
 draft: false
-tags: ["SQL", "sqlfamily", "PASS"]
+tags: ["SQL", "sqlfamily", "PASS", "Conferences"]
 ---
 
 
