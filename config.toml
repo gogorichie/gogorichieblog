@@ -10,7 +10,7 @@ enableRobotsTXT = true
 
 [Author] # Used in authorbox
   name = "Richard Lewis"
-  bio = "I'm DevOps Consultant focused on the Microsoft Azure platform. Been hacking hardware and code since '95. Set my 1st PC on fire at 8 got my A+ Cert at 15. I'm a Dev, BA, DBA, SysAdmin, TV Producer, Community Organizer & Motivational Speaker some days of the week."
+  bio = "I'm Sr. DevOps Consultant focused on the Microsoft Azure platform. Been hacking hardware and code since '95. Set my 1st PC on fire at 8 got my A+ Cert at 15. I'm a Dev, BA, DBA, SysAdmin, TV Producer, Community Organizer & Motivational Speaker some days of the week."
   avatar = "img/profile.png"
 
 [Params]
