@@ -1,6 +1,6 @@
 baseURL = "https://www.gogorichie.com/"
 languageCode = "en-US"
-title = "Richard"
+title = "Richard Lewis"
 paginate = "5" # Number of posts per page
 theme = "mainroad"
 disqusShortname = ""
@@ -48,7 +48,7 @@ enableRobotsTXT = true
 
 [Params.logo]
   image = "img/20170225_171223.jpg" # Logo image. Path relative to "static"
-  title = "Richard" # Logo title, otherwise will use site title
+  title = "Richard Lewis" # Logo title, otherwise will use site title
   subtitle = "Ramblings From A Guy Who Works With Clouds" # Logo subtitle
 
 [Params.thumbnail]
