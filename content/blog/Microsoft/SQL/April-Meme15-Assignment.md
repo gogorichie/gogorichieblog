@@ -5,7 +5,7 @@ draft: false
 tags: ["Microsoft", "PASS", "SQL"]
 ---
 
-![](http://mattvelic.com/wp-content/uploads/2011/12/meme15new.png) Another #Meme 15 topic brought you by MVP Jason Strate ([blog](http://www.jasonstrate.com/) | [twitter](http://twitter.com/#!/stratesql)). This month topic _"What are ten blogs that you think other SQL Server professionals should be following but might not be?"_ Coming up with a list of just 10 is harder than I thought narrowing it down to ten is just way to hard but i was able to do. The list I  put together covers everyone from the newbie to SQL to the all-round DBA.
+![](http://mattvelic.com/wp-content/uploads/2011/12/meme15new.png) Another #Meme 15 topic brought you by MVP Jason Strate ([Blog](http://www.jasonstrate.com/) | [twitter](http://twitter.com/#!/stratesql)). This month topic _"What are ten blogs that you think other SQL Server professionals should be following but might not be?"_ Coming up with a list of just 10 is harder than I thought narrowing it down to ten is just way to hard but i was able to do. The list I  put together covers everyone from the newbie to SQL to the all-round DBA.
 
 1.  [http://sqlchicken.com/sql-university/](http://sqlchicken.com/sql-university/) Great for the newbies and awesome reference points I hope this page never goes away.
 2.  [http://www.brentozar.com/](http://www.brentozar.com/) I loved Brent's old content from 2008 maybe it's because I work on SQL. 2000 and 2008 servers and probably will be for another five years. Must read the [take-over](http://www.brentozar.com/blitz/) posting !!!

@@ -1,6 +1,6 @@
 baseURL = "https://www.gogorichie.com/"
 languageCode = "en-US"
-title = "Richard Lewis"
+title = "Richard"
 paginate = "5" # Number of posts per page
 theme = "mainroad"
 disqusShortname = ""
@@ -14,7 +14,7 @@ enableRobotsTXT = true
   avatar = "img/profile.png"
 
 [Params]
-  description = "Richard Lewis's Personal blog about everything" # Site description. Used in meta description
+  description = "Richard's Personal blog about everything" # Site description. Used in meta description
   copyright = "Gogorichie.com" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
@@ -48,7 +48,7 @@ enableRobotsTXT = true
 
 [Params.logo]
   image = "img/20170225_171223.jpg" # Logo image. Path relative to "static"
-  title = "Richard Lewis" # Logo title, otherwise will use site title
+  title = "Richard" # Logo title, otherwise will use site title
   subtitle = "Ramblings From A Guy Who Works With Clouds" # Logo subtitle
 
 [Params.thumbnail]
