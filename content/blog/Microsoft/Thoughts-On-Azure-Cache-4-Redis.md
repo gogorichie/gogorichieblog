@@ -19,7 +19,7 @@ A particular use benefit over using a self-hosting version for data cache needs 
 
 Keep things to keep in mind about Azure Cache for Redis:
 
-1. It's easy to deploy from Infrastructure Engineer's perspective it can be deployed through Azure portal or your IaC tool of choice.
+1. It's easy to deploy from Infrastructure Engineer's perspective it can be deployed through Azure portal or your IaC tool of choice supporting deployment via Terraform, BiCep, ARM, etc.
 2. Caching using Azure Cache for Redis vs. self-hosted Redis has no impact on Developers as they will be able to call the cache the same way they would call any other cache option.
 3. Using Redis modules are still possible on the [Enterprise tiers](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview#service-tiers).
 4. Logging and Recommendations through Log Analytics Workspaces. A key feature of the Azure Cache for Redis highlighted in its documentation is as the usage grows the Microsoft Advisor service will identify performance issues and recommend solutions.
