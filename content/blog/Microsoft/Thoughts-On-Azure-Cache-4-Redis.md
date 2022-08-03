@@ -15,7 +15,7 @@ tags:
 
 Recently I took some time to revisit my learnings about Azure Cache for Redis I got first introduced to the service in 2018. I won't go into detail about what Redis is but you can check out this page about it to [learn more](https://redis.io/docs/about/). But instead i want to share my thoughts on using it on the Azure platform.
 
-A particular use benefit over using self-hosting version for data cache needs is it will allow a business to bring the frequently called data to the cloud so that the data can be called faster with higher availability. This is perfect for situations where you have a frequently queried data source stored within a private network with high latency and an even higher constraint on memory usage from on-prem servers.
+A particular use benefit over using a self-hosting version for data cache needs is it will allow a business to bring the frequently called data to the cloud so that the data can be called faster with higher availability. This is perfect for situations where you have a frequently queried data source stored within a private network with high latency and an even higher constraint on memory usage from on-prem servers.
 
 Keep things to keep in mind about Azure Cache for Redis:
 
@@ -23,6 +23,6 @@ Keep things to keep in mind about Azure Cache for Redis:
 2. Caching using Azure Cache for Redis vs. self-hosted Redis has no impact on Developers as they will be able to call the cache the same way they would call any other cache option.
 3. Using Redis modules are still possible on the [Enterprise tiers](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview#service-tiers).
 4. Logging and Recommendations through Log Analytics Workspaces. A key feature of the Azure Cache for Redis highlighted in its documentation is as the usage grows the Microsoft Advisor service will identify performance issues and recommend solutions.
-5. Cache can opportunity private link service to allow for network isolation.
+5. The Cache can be accessed can be isolated so it's hosted in the cloud but not available online when you use Azure Private Link which allows you to privately access services on the Azure platform as well as On-premises and peered networks while protecting against data leakage.
 
 A great place to learn more is https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/.
