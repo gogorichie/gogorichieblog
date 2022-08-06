@@ -4,7 +4,7 @@ description: ''
 date: 2022-06-05T20:21:20-05:00
 draft: false
 categories: []
-tags: ["Hugo","Blog", "Security"]
+tags: ["Hugo", "Security"]
 ---
 
 ![Alt](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/a-cert.jpg)
