@@ -8,7 +8,7 @@ tags: ["SQL"]
 
 I've been using Microsoft Access since Access 97 it's a very powerful tool is you use it right. You can use it for everything from personal Baseball card inventory control to managing home inventories; even fortune 500 companies use it to manage million dollar systems. As I said if you use it right it can be quite a powerful tool built on some amazing framework. Recently a friend who's getting into access asked me if I could provide him some resources so that he can get better familiar with the tool. Below is a list of resources I put together for him.
 
-![](http://www.gogorichie.com/wp-content/uploads/2012/12/121012_1537_GettingStar11.png)
+<!-- ![](http://www.gogorichie.com/wp-content/uploads/2012/12/121012_1537_GettingStar11.png) -->
 
 <span style="color: #4f81bd; font-size: 9pt;">**Northwind sample database relationship view**  
 </span>
