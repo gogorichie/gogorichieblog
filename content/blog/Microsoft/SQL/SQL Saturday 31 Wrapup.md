@@ -5,6 +5,8 @@ draft: false
 tags: ["SQL", "sqlfamily", "PASS", "Conferences"]
 ---
 
+![](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/sql_saturday_logo.png)
+
 
 ![In Wes Dumey building a data warehouse session](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/sqlsat31/87820832.jpg)
 
