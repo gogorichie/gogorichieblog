@@ -28,6 +28,9 @@ When not working Richard volunteers with an organization called [Junior Chamber 
 	<tbody>
 		<tr>
 			<td>
+	    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5a1e22e5-7112-460b-8a51-7b3530e5b9e7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+            </td>
+			<td>
             <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7488b720-2c15-46ea-ba22-a646e9351eaa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </td>
 			<td>
@@ -35,9 +38,6 @@ When not working Richard volunteers with an organization called [Junior Chamber 
             </td>
 			<td>
             <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b2c9ce7b-f2fd-427c-b9b5-7b8c8e9a7715" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-            </td>
-			<td>
-            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8295db72-7ce0-4041-8c7f-6a864a341393" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </td>
 		</tr>
 	</tbody>
