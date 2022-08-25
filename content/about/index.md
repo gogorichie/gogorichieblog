@@ -28,7 +28,10 @@ When not working Richard volunteers with an organization called [Junior Chamber 
 	<tbody>
 		<tr>
 			<td>
-	    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5a1e22e5-7112-460b-8a51-7b3530e5b9e7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2353f058-fa79-40bc-a58b-31319e145317" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+            </td>
+			<td>
+	        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5a1e22e5-7112-460b-8a51-7b3530e5b9e7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </td>
 			<td>
             <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7488b720-2c15-46ea-ba22-a646e9351eaa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
