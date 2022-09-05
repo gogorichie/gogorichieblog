@@ -59,7 +59,7 @@ enableRobotsTXT = true
   list = false  # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+  widgets = ["search", "recent", "image", "taglist", "social"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
   # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
@@ -67,6 +67,9 @@ enableRobotsTXT = true
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = false # Enable counter for each category in "Categories" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
+  img_src = "img/challenger-badge.jpeg"
+  img_alt = "Azure Synapse Influencer Challenger Badge"
+
 
 [Params.widgets.social]
   # Enable parts of social widget
