@@ -14,10 +14,7 @@ tags:
     - Apple
     - Blackberry
     - Blog
-    - Google
-    - Grooveshark
     - Microsoft
-    - Netflix
     - 'Windows Home Server'
 ---
 

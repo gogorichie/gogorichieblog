@@ -12,7 +12,6 @@ restapi_import_id:
     - 5b7e1e5a66c0f
 tags:
     - Blog
-    - Grooveshark
 ---
 
 So only my old AIM friends would get that title. But just last week [grooveshark.com](http://www.grooveshark.com) went through a full revamp of their website, switching from a flash based website to the new internet language of html5. Which seems to quickly becoming the standard. I’m excited about the switch for two reasons. First technically you can you use the site now on your iPad and iPhone in the near future. I’ve tried it on my iPad the other night and i got a notice saying my computer was not running flash and asked if i want to continue. Second you memory footprint used by the site will be significantly smaller. Check out the new site layout below in the picture and try it for yourself.
