@@ -4,7 +4,7 @@ title: 'My Top Ten WordPress Plugins'
 date: '2011-01-29T17:59:50+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/2011/01/my-top-ten-wordpress-plugins/'
+guid: 'https://www.gogorichie.com/2011/01/my-top-ten-wordpress-plugins/'
 permalink: /2011/01/29/my-top-ten-wordpress-plugins/
 restapi_import_id:
     - 5b7e1e5a66c0f

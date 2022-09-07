@@ -4,7 +4,7 @@ title: 'Bringing the T.K.O'
 date: '2011-09-05T09:43:26+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/2011/09/bringing-the-t-k-o/'
+guid: 'https://www.gogorichie.com/2011/09/bringing-the-t-k-o/'
 permalink: /2011/09/05/bringing-the-t-k-o/
 restapi_import_id:
     - 5b7e1e5a66c0f

@@ -4,7 +4,7 @@ title: 'A New Journey'
 date: '2012-09-05T09:37:58+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=1196'
+guid: 'https://www.gogorichie.com/?p=1196'
 permalink: /2012/09/05/new-journey/
 restapi_import_id:
     - 5b7e1e5a66c0f

@@ -4,7 +4,7 @@ title: 'My Fav 5 Windows Home Server Add-ins'
 date: '2009-11-12T07:09:00+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=660'
+guid: 'https://www.gogorichie.com/?p=660'
 permalink: /2009/11/12/my-fav-5-windows-home-server-add-ins/
 restapi_import_id:
     - 5b7e1e5a66c0f
@@ -13,7 +13,7 @@ tags:
     - 'Windows Home Server'
 ---
 
-The other day I was talking with a friend about my Windows Home Server configuration and thought I would post a little something about what addins I’m running or as the the title said my Fav 5. I like to keep my WHS[![image](http://www.gogorichie.com/wp-content/uploads/2009/11/image_thumb1.png "image")](http://www.gogorichie.com/wp-content/uploads/2009/11/image1.png) running light and simple so the addins I like to use take advantage of features already built into windows 2003 and don’t put any extra strain on the server. But I still like to play around from time to time with some extra stuff.
+The other day I was talking with a friend about my Windows Home Server configuration and thought I would post a little something about what addins I’m running or as the the title said my Fav 5. I like to keep my WHS[![image](https://www.gogorichie.com/wp-content/uploads/2009/11/image_thumb1.png "image")](https://www.gogorichie.com/wp-content/uploads/2009/11/image1.png) running light and simple so the addins I like to use take advantage of features already built into windows 2003 and don’t put any extra strain on the server. But I still like to play around from time to time with some extra stuff.
 
 1. <u>[uTorrent](http://www.whsplus.com/2009/04/13/utorrent/)</u>
   

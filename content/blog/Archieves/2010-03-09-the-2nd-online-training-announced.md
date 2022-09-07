@@ -4,7 +4,7 @@ title: 'The 2nd Online Training Announced'
 date: '2010-03-09T08:53:34+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=684'
+guid: 'https://www.gogorichie.com/?p=684'
 permalink: /2010/03/09/the-2nd-online-training-announced/
 restapi_import_id:
     - 5b7e1e5a66c0f

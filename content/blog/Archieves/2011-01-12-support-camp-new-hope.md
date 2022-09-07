@@ -4,7 +4,7 @@ title: 'Support Camp New Hope'
 date: '2011-01-12T11:55:29+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=897'
+guid: 'https://www.gogorichie.com/?p=897'
 permalink: /2011/01/12/support-camp-new-hope/
 aktt_tweeted:
     - '1'

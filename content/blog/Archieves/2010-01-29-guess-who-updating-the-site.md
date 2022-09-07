@@ -4,7 +4,7 @@ title: 'Guess Who Updating the site'
 date: '2010-01-29T08:22:00+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=664'
+guid: 'https://www.gogorichie.com/?p=664'
 permalink: /2010/01/29/guess-who-updating-the-site/
 restapi_import_id:
     - 5b7e1e5a66c0f

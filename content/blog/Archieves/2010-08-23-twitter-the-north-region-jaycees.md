@@ -4,7 +4,7 @@ title: 'Twitter & The North Region Jaycees'
 date: '2010-08-23T08:20:23+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/2010/08/twitter-the-north-region-jaycees/'
+guid: 'https://www.gogorichie.com/2010/08/twitter-the-north-region-jaycees/'
 permalink: /2010/08/23/twitter-the-north-region-jaycees/
 restapi_import_id:
     - 5b7e1e5a66c0f

@@ -4,7 +4,7 @@ title: 'Documenting Isn’t That Hard'
 date: '2010-09-30T16:52:26+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/2010/09/documenting-isnt-that-hard/'
+guid: 'https://www.gogorichie.com/2010/09/documenting-isnt-that-hard/'
 permalink: /2010/09/30/documenting-isnt-that-hard/
 restapi_import_id:
     - 5b7e1e5a66c0f

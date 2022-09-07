@@ -4,7 +4,7 @@ title: 'St. Judes &#038; Me'
 date: '2013-12-04T10:06:45+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=4223'
+guid: 'https://www.gogorichie.com/?p=4223'
 permalink: /2013/12/04/st-judes-me/
 restapi_import_id:
     - 5b7e1e5a66c0f

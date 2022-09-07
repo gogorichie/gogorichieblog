@@ -4,7 +4,7 @@ title: 'Nothing But Nets News Flash !!!!!!!!!!!!!!!!!!!!'
 date: '2011-11-02T18:34:57+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=1049'
+guid: 'https://www.gogorichie.com/?p=1049'
 permalink: /2011/11/02/nothing-but-nets-news-flash/
 restapi_import_id:
     - 5b7e1e5a66c0f

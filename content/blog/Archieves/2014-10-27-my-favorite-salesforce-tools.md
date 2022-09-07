@@ -4,7 +4,7 @@ title: 'My Favorite Salesforce Tools'
 date: '2014-10-27T07:38:07+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=4279'
+guid: 'https://www.gogorichie.com/?p=4279'
 permalink: /2014/10/27/my-favorite-salesforce-tools/
 restapi_import_id:
     - 5b7e1e5a66c0f
@@ -23,7 +23,7 @@ When i first dicovered Force.com Explorer my eyes lit up with joy. As a SQL user
 
 **[Data Loader](https://developer.salesforce.com/page/Data_Loader)**
 
-![](http://www.salesforce.com/us/developer/docs/dev_lifecycle/Content/images/dev_guides/dev_lifecycle/images/data_loader.jpg)
+![](https://www.salesforce.com/us/developer/docs/dev_lifecycle/Content/images/dev_guides/dev_lifecycle/images/data_loader.jpg)
 
 If you’ve ever needed to upload data to salesforce you’ve used this tool or at least seen it. It’s a must have when your learning how to push data to salesforce. Data Loader is a work horse desktop apps for uploading massive amounts of data to an object at once using CSV file or a ODBC connection. Since it was created by Salesforce it’s the tool Salesforce talks about in Salesforce documentation  ***(Cross Platform)***
 

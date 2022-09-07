@@ -4,7 +4,7 @@ title: 'What WordPress Plugins am I using in 2017?'
 date: '2017-11-01T16:31:01+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=4374'
+guid: 'https://www.gogorichie.com/?p=4374'
 permalink: /2017/11/01/what-wordpress-plugins-am-i-using/
 restapi_import_id:
     - 5b7e1e5a66c0f

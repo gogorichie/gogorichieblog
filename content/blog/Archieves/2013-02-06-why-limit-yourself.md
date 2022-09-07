@@ -4,7 +4,7 @@ title: 'Why Limit Yourself'
 date: '2013-02-06T11:41:39+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=4132'
+guid: 'https://www.gogorichie.com/?p=4132'
 permalink: /2013/02/06/why-limit-yourself/
 restapi_import_id:
     - 5b7e1e5a66c0f

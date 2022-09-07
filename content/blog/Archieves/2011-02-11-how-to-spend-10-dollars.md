@@ -4,7 +4,7 @@ title: 'How to spend 10 dollars'
 date: '2011-02-11T10:03:13+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=922'
+guid: 'https://www.gogorichie.com/?p=922'
 permalink: /2011/02/11/how-to-spend-10-dollars/
 aktt_tweeted:
     - '1'

@@ -4,7 +4,7 @@ title: 'Outstanding Young Farmers'
 date: '2011-05-13T10:48:00+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/2011/05/outstanding-young-farmers/'
+guid: 'https://www.gogorichie.com/2011/05/outstanding-young-farmers/'
 permalink: /2011/05/13/outstanding-young-farmers/
 restapi_import_id:
     - 5b7e1e5a66c0f

@@ -4,7 +4,7 @@ title: 'Scholarship Opportunities'
 date: '2011-04-08T10:16:47+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=1110'
+guid: 'https://www.gogorichie.com/?p=1110'
 permalink: /2011/04/08/scholarship-opportunities/
 restapi_import_id:
     - 5b7e1e5a66c0f

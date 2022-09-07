@@ -4,7 +4,7 @@ title: 'Nothing But Nets Fundraising Update'
 date: '2011-09-14T10:39:00+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/2011/09/nothing-but-nets-fundraising-update-2/'
+guid: 'https://www.gogorichie.com/2011/09/nothing-but-nets-fundraising-update-2/'
 permalink: /2011/09/14/nothing-but-nets-fundraising-update-2/
 restapi_import_id:
     - 5b7e1e5a66c0f

@@ -4,7 +4,7 @@ title: 'My Passion'
 date: '2012-11-20T14:37:07+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=1239'
+guid: 'https://www.gogorichie.com/?p=1239'
 permalink: /2012/11/20/my-passion/
 restapi_import_id:
     - 5b7e1e5a66c0f

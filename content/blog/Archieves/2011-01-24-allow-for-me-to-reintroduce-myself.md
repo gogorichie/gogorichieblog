@@ -4,7 +4,7 @@ title: 'Allow For Me To Reintroduce Myself'
 date: '2011-01-24T09:45:44+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/2011/01/allow-for-me-to-reintroduce-myself/'
+guid: 'https://www.gogorichie.com/2011/01/allow-for-me-to-reintroduce-myself/'
 permalink: /2011/01/24/allow-for-me-to-reintroduce-myself/
 restapi_import_id:
     - 5b7e1e5a66c0f

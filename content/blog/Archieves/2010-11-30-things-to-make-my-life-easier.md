@@ -4,7 +4,7 @@ title: 'Things to make my life easier'
 date: '2010-11-30T15:23:43+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/?p=768'
+guid: 'https://www.gogorichie.com/?p=768'
 permalink: /2010/11/30/things-to-make-my-life-easier/
 aktt_tweeted:
     - '1'

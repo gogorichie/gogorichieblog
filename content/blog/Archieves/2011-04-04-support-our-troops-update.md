@@ -4,7 +4,7 @@ title: 'Support Our Troops Update'
 date: '2011-04-04T10:49:00+00:00'
 author: gogorichie
 layout: post
-guid: 'http://www.gogorichie.com/2011/04/support-our-troops-update/'
+guid: 'https://www.gogorichie.com/2011/04/support-our-troops-update/'
 permalink: /2011/04/04/support-our-troops-update/
 restapi_import_id:
     - 5b7e1e5a66c0f
