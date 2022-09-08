@@ -11,7 +11,7 @@ aktt_tweeted:
 restapi_import_id:
     - 5b7e1e5a66c0f
 tags:
-    - Blackberry
+    - Blog
 ---
 
 Last week i got the new [Blackberry 8520 Curve](http://na.blackberry.com/eng/devices/blackberrycurve8500/) and i though I would write my first five things similar to ones did on the [blackberry blog site](http://blogs.blackberry.com/2009/07/the-first-5-things---andrey.html). Since i this my third blackberry I’ve got my steps setting up down pretty good.

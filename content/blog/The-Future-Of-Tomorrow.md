@@ -1,7 +1,7 @@
 ---
 title: "Code Nation: The Future Of Tomorrow"
 date: 2019-10-19T22:49:37-05:00
-tags: ["fieldreport", "work"]
+tags: ["work"]
 draft: false
 ---
 Part my role at Coyote involves me work with community orginzations. In early 2019 Coyote's Software Development group became involved with [Code Nation](https://codenation.org/), an 501c3 organization based out of New York, which is focused on equipping students, in under-resourced high schools, with the skills, experiences, and connections that give them access to careers in technology.
