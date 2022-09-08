@@ -2,7 +2,7 @@
 title: "DreamForce 2013 Wrapup"
 date: 2013-11-23 00:00:00
 draft: false
-tags: ["fieldreport", "Salesforce", "Conferences"]
+tags: [ "Salesforce", "Conferences"]
 ---
 
 

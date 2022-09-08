@@ -11,8 +11,6 @@ aktt_tweeted:
 restapi_import_id:
     - 5b7e1e5a66c0f
 tags:
-    - Apple
-    - Blackberry
     - Blog
     - Microsoft
     - 'Windows Home Server'

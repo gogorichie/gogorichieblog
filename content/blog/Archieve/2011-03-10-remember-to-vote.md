@@ -11,7 +11,6 @@ aktt_tweeted:
 restapi_import_id:
     - 5b7e1e5a66c0f
 tags:
-    - 'Government Involvement'
     - JCI
 ---
 
