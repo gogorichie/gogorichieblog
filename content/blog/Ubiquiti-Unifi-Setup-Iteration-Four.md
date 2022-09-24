@@ -39,4 +39,3 @@ My most lengthy phase to date had three main goals. First, replace my Nest camer
 **Future Iteration**
 
 The next iteration might be the beginning of the introduction of SFP+ modules and devices into my network. I'm starting to see some opportunities where might be able to push 10 Gbps and might ease some internal bandwidth restrictions for example I have an Unraid server and I would like to be able to read and write data as fast as possible from it. As well as swapping in more of the latest generation cameras and possibly smart flood lights around the exterior of my property.
-
