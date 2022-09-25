@@ -11,4 +11,3 @@ A few months back had the opportunity to joined my friend Taylor Dorsett on his 
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t7QUvYqGS8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
-

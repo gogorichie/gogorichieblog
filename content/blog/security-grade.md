@@ -19,7 +19,8 @@ I had never heard of [securityheaders.com](http://www.securityheaders.com) so th
 
 **What did I do to fix the errors?**
 
-So the website runs on the Hugo static website engine adding a content security policy to the header file isn't that simple or so I thought. I did a quick Google search and landed on a website detailing how to add security headers to a Hugo site hosted by Netlify https://www.tobiasmcvey.com/adding-security-headers-in-hugo-with-netlify-and-report-uri/. Following the writer's instructions and During my research into solving the problem I came across some useful sites:
-- Google has a great write up: https://developers.google.com/web/fundamentals/security/csp
-- OWASP has a great list of Secure header syntax: https://owasp.org/www-project-secure-headers/
-- Security headers quick reference list https://web.dev/security-headers/
+So the website runs on the Hugo static website engine adding a content security policy to the header file isn't that simple or so I thought. I did a quick Google search and landed on a website detailing how to add security headers to a Hugo site hosted by Netlify <https://www.tobiasmcvey.com/adding-security-headers-in-hugo-with-netlify-and-report-uri/>. Following the writer's instructions and During my research into solving the problem I came across some useful sites:
+
+- Google has a great write up: <https://developers.google.com/web/fundamentals/security/csp>
+- OWASP has a great list of Secure header syntax: <https://owasp.org/www-project-secure-headers/>
+- Security headers quick reference list <https://web.dev/security-headers/>
