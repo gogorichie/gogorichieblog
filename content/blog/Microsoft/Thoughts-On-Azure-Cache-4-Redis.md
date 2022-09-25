@@ -16,7 +16,7 @@ Recently I took some time to revisit Azure Cache for Redis I got first introduce
 
 A particular use benefit of using Azure Cache for Redis instead of the self-hosting version for data cache needs is it will allow a business to bring the frequently called data to the cloud so that the data can be called faster with higher availability. This is perfect for situations where you have a frequently queried data source stored within a private network with high latency and an even higher constraint on memory usage from on-prem servers.
 
-|![Distributed cache](https://azurecomcdn.azureedge.net/cvt-0575bb7a1cf68c8dbe5697224d85b9818047b8965b5b42e076e5aee4946f7128/images/page/services/cache/distributed-cache.png)|
+|![Distributed cache](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/distributed-cache.png)|
 |:--:|
 | *Architecture design of Azure Cache for Redis implemented for data caching* |
 
