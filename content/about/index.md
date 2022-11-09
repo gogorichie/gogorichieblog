@@ -50,4 +50,6 @@ When not working Richard volunteers with an organization called [Junior Chamber 
 
 You can find him regularly speaking and attending user groups in the greater Chicagoland area. He loves talking about Observability, Cloud Migration, DevOps Transformation battle stories among many other things.
 
-<a rel="me" href="https://mastodon.world/@gogorichie"></a>
+{{< rawhtml >}}
+I'm also on <a rel="me" href="https://mastodon.world/@gogorichie">Mastodon!</a>
+{{< /rawhtml >}}
