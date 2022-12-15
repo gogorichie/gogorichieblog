@@ -9,9 +9,7 @@ tags: ["Conference-Talks", "DevOps", "DevOpsDays"]
 ---
 I had the opportunity to attend another [DevOps Days Chicago](https://devopsdays.org/events/2022-chicago/welcome/) which is a regional conference focused on software development, IT infrastructure operations, and the intersection between them called DevOps. This was the fourth DevOps days I have attended, third in person, and first as a speaker. Speaking of which it’s good to be able to get back to a conference in person. I’m an extrovert so I love meeting new people and don’t get that really from virtual conferences. You’ll learn a lot, but I missed that one part when I was a Developer Advocate at Coyote are used to attend a lot of conferences and user group meetings, and 2020 kind of put a stop to that in many ways. It was great to see people in person. People I hadn’t seen in a long time like from a company I left 2 years ago or from local user groups and find out what they’re up to now and how their life has changed over the last few years. It was great meeting new and future business partners and hearing from the vendors about what makes their products different than others. Heck even one [TACO product vendors](https://itnext.io/spice-up-your-infrastructure-as-code-with-tacos-1a9c179e0783) gave away 100 bucks cash for looking at and testing their product in a demo environment.
 
-{{< rawhtml >}}
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally got to meet <a href="https://twitter.com/gogorichie?ref_src=twsrc%5Etfw">@gogorichie</a> in person! <a href="https://twitter.com/hashtag/devopsdays?src=hash&amp;ref_src=twsrc%5Etfw">#devopsdays</a> <a href="https://t.co/m24nxISFsx">pic.twitter.com/m24nxISFsx</a></p>&mdash; Tim Butler (@PDXTimB) <a href="https://twitter.com/PDXTimB/status/1572585762591502339?ref_src=twsrc%5Etfw">September 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{{< /rawhtml >}}
+{{< tweet user="PDXTimB" id="1572585762591502339" >}}
 
 
 |![Breakout Session Topic board](https://pbs.twimg.com/media/FdR31qiX0AIZQNE?format=jpg&name=4096x4096)|
@@ -37,10 +35,8 @@ One of the things I really like about the conference is continuous feedback oppo
 - Tool sprawl isn’t as important to people as how to document their existence, and where to find documentation internally.
 - I get to catch so many of the talks on YouTube or while traveling to these conferences but the one I thought was the most interesting was Learning from your organization's latest incident: How We Got Here it was presented by [Vanessa from Jeli](https://devopsdays.org/events/2022-chicago/program/vanessa-huerta-granda/).
 
-{{< rawhtml >}}
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Alert trauma is real. Manage them with monitoring and observability. Playbooks are your friends! <a href="https://twitter.com/gogorichie?ref_src=twsrc%5Etfw">@gogorichie</a> <a href="https://twitter.com/hashtag/DevOpsDays?src=hash&amp;ref_src=twsrc%5Etfw">#DevOpsDays</a> <a href="https://t.co/FyztGpej5b">pic.twitter.com/FyztGpej5b</a></p>&mdash; DevOpsDays Chicago (@devopsdaysChi) <a href="https://twitter.com/devopsdaysChi/status/1573014471387525120?ref_src=twsrc%5Etfw">September 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{{< /rawhtml >}}
 
-{{< rawhtml >}}
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The history of <a href="https://twitter.com/hashtag/IaC?src=hash&amp;ref_src=twsrc%5Etfw">#IaC</a> is long &amp; contains <a href="https://twitter.com/hashtag/beef?src=hash&amp;ref_src=twsrc%5Etfw">#beef</a> 🤌🏾 thank you <a href="https://twitter.com/Dixie3Flatline?ref_src=twsrc%5Etfw">@Dixie3Flatline</a> <a href="https://twitter.com/hashtag/DevOpsDays?src=hash&amp;ref_src=twsrc%5Etfw">#DevOpsDays</a> <a href="https://t.co/01vai7Ttua">pic.twitter.com/01vai7Ttua</a></p>&mdash; Richard Lewis (@gogorichie) <a href="https://twitter.com/gogorichie/status/1572965455740145664?ref_src=twsrc%5Etfw">September 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{{< /rawhtml >}}
+{{< tweet user="devopsdaysChi" id="1573014471387525120" >}}
+
+
+{{< tweet user="gogorichie" id="1572965455740145664" >}}
