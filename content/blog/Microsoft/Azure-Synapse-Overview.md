@@ -40,7 +40,7 @@ By using CI/CD in Azure Synapse, organizations can improve the reliability and c
 
 Overall, Azure Synapse is a powerful and flexible platform that can help organizations of all sizes manage and analyze their data. With its ability to handle large volumes of data, support a wide range of data sources, and focus on collaboration, Azure Synapse is a valuable addition to any organization's data management and analytics stack. It does come at a cost that varies depending on the specific features and capabilities that an organization uses. Azure Synapse includes a range of pricing options, including per-second pricing for data integration and data management workloads, and capacity-based pricing for enterprise data warehousing workloads. The cheapest I've got my sandbox to operate at is $5 USD per month so far.
 
-Below I've includes some useful links to help you learn more about Azure Synapse:
+Below I've included some useful links to help you learn more about Azure Synapse:
 
 - [Get Started with Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started).
 - [4 common analytics scenarios to build business agility](https://azure.microsoft.com/en-us/blog/4-common-analytics-scenarios-to-build-business-agility/).
