@@ -4,7 +4,7 @@ description: ""
 date: "2022-09-26T07:24:08-05:00"
 thumbnail: ""
 draft: false
-tags: ["Conference-Talks", "DevOps", "DevOpsDays"]
+tags: ["Conference-Talks", "DevOps", "DevOpsDays", "Conferences"]
 
 ---
 I had the opportunity to attend another [DevOps Days Chicago](https://devopsdays.org/events/2022-chicago/welcome/) which is a regional conference focused on software development, IT infrastructure operations, and the intersection between them called DevOps. This was the fourth DevOps days I have attended, third in person, and first as a speaker. Speaking of which it’s good to be able to get back to a conference in person. I’m an extrovert so I love meeting new people and don’t get that really from virtual conferences. You’ll learn a lot, but I missed that one part when I was a Developer Advocate at Coyote are used to attend a lot of conferences and user group meetings, and 2020 kind of put a stop to that in many ways. It was great to see people in person. People I hadn’t seen in a long time like from a company I left 2 years ago or from local user groups and find out what they’re up to now and how their life has changed over the last few years. It was great meeting new and future business partners and hearing from the vendors about what makes their products different than others. Heck even one [TACO product vendors](https://itnext.io/spice-up-your-infrastructure-as-code-with-tacos-1a9c179e0783) gave away 100 bucks cash for looking at and testing their product in a demo environment.
