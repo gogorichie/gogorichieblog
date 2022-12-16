@@ -20,7 +20,7 @@ I thought it was time to put together a little list of my favorite computer thin
 
 Hope you enjoy my list and post comments and share your thoughts
 
-[![](http://cultureslurp.com/wp-content/uploads/2009/10/grooveshark-search.jpg)](http://www.Evernote.com)**1)** [Evernote](http://www.Evernote.com) – I first found the app for my the iPad before i knew about the website. But it’s be came one of my favorites and there’s a desktop version and one for my blackberry too.
+[![](https:///cultureslurp.com/wp-content/uploads/2009/10/grooveshark-search.jpg)](http://www.Evernote.com)**1)** [Evernote](http://www.Evernote.com) – I first found the app for my the iPad before i knew about the website. But it’s be came one of my favorites and there’s a desktop version and one for my blackberry too.
 
 **2)** [Grooveshark](http://www.Grooveshark.com) – This is one awesome little music service no need to download the music or playlist you can stream it from anywhere. They even have a app for blackberry’s too.
 
@@ -30,7 +30,7 @@ Hope you enjoy my list and post comments and share your thoughts
 2. [Keynote](http://www.apple.com/iwork/keynote/) – I can make amazing presentations on it very quickly and wow the hell out of people.
 3. [RDP Lite](http://www.mochasoft.dk/iphone_rdp.htm) – in case i get inspired to do some real work from it and it’s free.
 
-**[![](http://smallbiztrends.com/wp-content/uploads/2009/11/Toggl-Time-Tracking.jpg)](http://www.toggl.com)4)** [Toggl](http://www.toggl.com) – I love this program it helps me manage my Jaycees development task and hours.
+**[![](https:///smallbiztrends.com/wp-content/uploads/2009/11/Toggl-Time-Tracking.jpg)](http://www.toggl.com)4)** [Toggl](http://www.toggl.com) – I love this program it helps me manage my Jaycees development task and hours.
 
 **5)** [Lifehacker](http://lifehacker.com/) – All around good reading and excellent tips
 
