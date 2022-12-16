@@ -24,7 +24,7 @@ Hope you enjoy my list and post comments and share your thoughts
 
 **2)** [Grooveshark](http://www.Grooveshark.com) – This is one awesome little music service no need to download the music or playlist you can stream it from anywhere. They even have a app for blackberry’s too.
 
-**3)** [![Click for more screenshots](http://www.mochasoft.dk/images/rdpipod1.gif)iPad](http://www.apple.com/ipad/) – Web browsing, video, music, and wide range of other things all in the palm of your hand.
+**3)** [![Click for more screenshots](https://www.mochasoft.dk/images/rdpipod1.gif)iPad](http://www.apple.com/ipad/) – Web browsing, video, music, and wide range of other things all in the palm of your hand.
 
 1. [Flipboard](http://www.flipboard.com/) – It’s like a magazine with my twitter and facebook feeds.
 2. [Keynote](http://www.apple.com/iwork/keynote/) – I can make amazing presentations on it very quickly and wow the hell out of people.
@@ -36,6 +36,6 @@ Hope you enjoy my list and post comments and share your thoughts
 
 **6)** [Google Doc’s](http://docs.google.com) – It’s like Microsoft Office but free and online.
 
-**7)** [Windows Home Server](http://www.microsoft.com/windows/products/winfamily/windowshomeserver/default.mspx) – Every need a file on your home pc while on the road? well this little thing can serve you up the files from anywhere anytime.
+**7)** [Windows Home Server](https://www.microsoft.com/windows/products/winfamily/windowshomeserver/default.mspx) – Every need a file on your home pc while on the road? well this little thing can serve you up the files from anywhere anytime.
 
-**8 )** [Google Chrome](http://www.google.com/chrome/intl/en/landing_chrome.html?hl=en) – it’s not just a another browser it’s one of the fastest ones out there and i like how fast it loads pages on my laptop and desktop.
+**8 )** [Google Chrome](https://www.google.com/chrome/intl/en/landing_chrome.html?hl=en) – it’s not just a another browser it’s one of the fastest ones out there and i like how fast it loads pages on my laptop and desktop.
