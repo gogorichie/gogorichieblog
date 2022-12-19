@@ -28,4 +28,5 @@ Things to keep in mind about Azure Cache for Redis:
 4. Logging and Recommendations are handled through Log Analytics Workspaces. A key feature of the Azure Cache for Redis highlighted in its documentation is as the usage grows the Microsoft Advisor service will identify performance issues and recommend solutions.
 5. The Cache can be accessed and can be isolated so it’s hosted in the cloud but not available online when you use Azure Private Link which allows you to privately access services on the Azure platform as well as On-premises and peered networks while protecting against data leakage.
 
-A great place to learn more is https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/.
+A great place to learn more is <https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/>.
+[EOF]

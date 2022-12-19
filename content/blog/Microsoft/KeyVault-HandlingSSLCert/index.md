@@ -27,5 +27,5 @@ Next let’s update the issuance policy for the certificate. Begin by clicking o
 Within the Lifetime Actions Type you can set the action to take as the certificate ages as well as Number of Days prior to expiration before the notification is to be sent.
 ![](issuancepolicy.jpg)
 
-When the number of days before expiration of the certifcate an email notification will be sent to the to the certfcate contacts like the one listed below. 
+When the number of days before expiration of the certifcate an email notification will be sent to the to the certfcate contacts like the one listed below.
 ![](sample-email.jpg)
