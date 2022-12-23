@@ -18,7 +18,7 @@ sidebar: false
 
 Richard is a highly skilled and experienced IT professional with over 20 years of experience in the industry. With a focus on process improvement through automation, he has expertise in the practice of DevOps, which involves delivering high-quality software through a combination of people, processes, and products. Throughout his career, Richard has worked with a wide range of IT organizations, from startups to Fortune 500 companies, and has learned from some of the best in the industry.
 
-In addition to his technical expertise, Richard is driven by a passion for learning and a desire to help others through education and the use of new technologies. He holds Seven Cloud Certifications and is committed to staying up to date with the latest developments in the field.
+In addition to his technical expertise, Richard is driven by a passion for learning and a desire to help others through education and the use of new technologies. He holds Seven Cloud Certifications accross two cloud providers and is committed to staying up to date with the latest developments in the field.
 
 Outside of work, Richard is active in the community and volunteers with [Junior Chamber International (JCI)](https://www.jci.cc) also known as the Jaycees. He has served on the organization's executive board for many years and was honored with the highest honor any member can receive, a Senatorship, by his local chapter, the Mount Prospect Jaycees. In 2016, Richard became the first African American State President of the Illinois Jaycees, leading the growth and development of over 2000 members and 60 plus chapters throughout the state. Overall, Richard is a dedicated and driven individual who is committed to making a positive impact in his work and community.
 
