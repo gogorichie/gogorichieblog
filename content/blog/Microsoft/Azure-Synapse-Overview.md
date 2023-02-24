@@ -22,7 +22,7 @@ One of the key features of Azure Synapse is its ability to handle large volumes 
 
 Another key feature of Azure Synapse is its integration with other Azure services. This allows organizations to easily incorporate data from other Azure services such as Azure Cosmos DB and Azure Machine Learning, providing even more data sources to work with and expanding the capabilities of the platform.
 
-{{< figure src="https://www.btelligent.com/fileadmin/btelligent/Images/Blogs/advanced-analytics/IoT_Data_Processing/iot-data-processing-1-1.png" title="Architecture design of Azure Syanpse IoT Data Processing Example" >}}
+{{< figure src="https://www.btelligent.com/fileadmin/btelligent/Images/Blogs/advanced-analytics/IoT_Data_Processing/iot-data-processing-1-1.png" title="Architecture design of Azure Synapse IoT Data Processing Example" >}}
 
 Some common use cases include:
 
