@@ -80,10 +80,6 @@ enableRobotsTXT = true
   github = "gogorichie"
   RSS   = "index.xml"
 
-[[Params.widgets.social.custom]]
-  title = "Chicago Monitoring Meetup Group"
-  url = "http://monitoringchicago.com/"
-
   ## Main Menu
 [[menu.main]]
   name = "Home"
