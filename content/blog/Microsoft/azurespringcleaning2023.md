@@ -1,7 +1,7 @@
 ---
 title: "Azure Static Web Apps: The Cloud's New Electric Vehicle"
 description: ""
-date: "2023-03-13T00:00:56-06:00"
+date: "2023-03-12T00:00:56-06:00"
 draft: false
 thumbnail: ""
 
