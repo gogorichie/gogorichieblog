@@ -6,6 +6,12 @@ ignore:
     - https://github.com 
     - https://www.gogorichie.com/wp-content/*
   files: # Array of markdown file the shouldn't parse
-    - */Archieve/*.md # Relative path from the folder shared above
+    - content/blog/Archieve/2014-10-27-my-favorite-salesforce-tools.md
+    - content/blog/Archieve/2010-11-30-things-to-make-my-life-easier.md
+    - content/blog/Archieve/2009-11-12-my-fav-5-windows-home-server-add-ins.md
+    - content/blog/Archieve/2009-08-17-the-first-5-things-i-do-when-i-get-a-new-blackberry.md
+    - content/blog/Archieve/2009-11-01-the-day-after-the-120-days-are-up.md
+    - content/blog/Archieve/2009-04-11-spring-consolidation.md
+    
 delay:
   'https://gitlab.com': 500 # Perform a pause of 500ms at each call matching the url
