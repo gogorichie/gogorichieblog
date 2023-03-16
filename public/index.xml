@@ -6,7 +6,16 @@
     <description>Recent content on Richard Lewis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 15 Dec 2022 08:46:19 -0500</lastBuildDate><atom:link href="https://www.gogorichie.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 00:00:56 -0600</lastBuildDate><atom:link href="https://www.gogorichie.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Static Web Apps: The Cloud&#39;s New Electric Vehicle</title>
+      <link>https://www.gogorichie.com/blog/microsoft/azurespringcleaning2023/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:56 -0600</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/microsoft/azurespringcleaning2023/</guid>
+      <description>Write blog post here. https://gogorichie.com/blog/microsoft/azurespringcleaning2023/</description>
+    </item>
+    
     <item>
       <title>Azure Synapse Overview</title>
       <link>https://www.gogorichie.com/blog/microsoft/azure-synapse-overview/</link>
@@ -61,7 +70,7 @@ For my website, security has always been a second-class citizen I&amp;rsquo;ve n
       <pubDate>Wed, 27 Apr 2022 22:46:02 -0500</pubDate>
       
       <guid>https://www.gogorichie.com/blog/microsoft/terrafyknowledge/</guid>
-      <description>A little disclaimer here, these are notes from a demo on 4-28-22 sorry if this doesn&amp;rsquo;t make sense later.
+      <description>A little disclaimer here, these are notes from a live demo on 4-28-22 sorry if this doesn&amp;rsquo;t make sense later.
 Overview:
 Azure Terrafy is a new tool currently in preview as of April 27th from Microsoft designed to help you export Azure Resources listed within the AzureRM provider to a terraform main.tf file and maintain a state file.
 How To Install It:
@@ -120,7 +129,7 @@ What is Azure Key Vault? For those who are unfamiliar with The Azure service Azu
       <pubDate>Fri, 23 Oct 2020 23:53:00 +0100</pubDate>
       
       <guid>https://www.gogorichie.com/about/</guid>
-      <description>20+ year IT veteran, with a background in process improvement through automation. Richard focuses on the practice of what is referred to as &amp;ldquo;DevOps&amp;rdquo; the practice of delivering high-quality software through the method of unioning people, processes, and products. Richard over his career has had the privilege of working in both Operations and Software Development areas of IT shops sizing from Startups to Fortune 500 companies. Along the way learning from the best while doing it.</description>
+      <description>Richard is a highly skilled and experienced IT professional with over 20 years of experience in the industry. With a focus on process improvement through automation, he has expertise in the practice of DevOps, which involves delivering high-quality software through a combination of people, processes, and products. Throughout his career, Richard has worked with a wide range of IT organizations, from startups to Fortune 500 companies, and has learned from some of the best in the industry.</description>
     </item>
     
     <item>

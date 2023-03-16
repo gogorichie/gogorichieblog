@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Richard Lewis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 15 Dec 2022 08:46:19 -0500</lastBuildDate><atom:link href="https://www.gogorichie.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 00:00:56 -0600</lastBuildDate><atom:link href="https://www.gogorichie.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure</title>
       <link>https://www.gogorichie.com/tags/azure/</link>
-      <pubDate>Thu, 15 Dec 2022 08:46:19 -0500</pubDate>
+      <pubDate>Mon, 13 Mar 2023 00:00:56 -0600</pubDate>
       
       <guid>https://www.gogorichie.com/tags/azure/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>DevOps</title>
       <link>https://www.gogorichie.com/tags/devops/</link>
-      <pubDate>Thu, 15 Dec 2022 08:46:19 -0500</pubDate>
+      <pubDate>Mon, 13 Mar 2023 00:00:56 -0600</pubDate>
       
       <guid>https://www.gogorichie.com/tags/devops/</guid>
       <description></description>
@@ -28,9 +28,18 @@
     <item>
       <title>Microsoft</title>
       <link>https://www.gogorichie.com/tags/microsoft/</link>
-      <pubDate>Thu, 15 Dec 2022 08:46:19 -0500</pubDate>
+      <pubDate>Mon, 13 Mar 2023 00:00:56 -0600</pubDate>
       
       <guid>https://www.gogorichie.com/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StaticWebApps</title>
+      <link>https://www.gogorichie.com/tags/staticwebapps/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:56 -0600</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/staticwebapps/</guid>
       <description></description>
     </item>
     
