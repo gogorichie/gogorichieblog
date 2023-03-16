@@ -6,6 +6,6 @@ ignore:
     - https://github.com 
     - https://www.gogorichie.com/wp-content/*
   files: # Array of markdown file the shouldn't parse
-    - ./content/blog/Archieve/* # Relative path from the folder shared above
+    - */Archieve/*.md # Relative path from the folder shared above
 delay:
   'https://gitlab.com': 500 # Perform a pause of 500ms at each call matching the url
