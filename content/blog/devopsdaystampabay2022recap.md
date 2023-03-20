@@ -28,4 +28,3 @@ As I've previously stated, each DevOps Days conference is organized independentl
 
 {{< tweet user="devopsdaystb" id="1583487884740288512" >}}
 I'm a Meme ha!
-
