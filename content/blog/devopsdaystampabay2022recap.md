@@ -3,7 +3,7 @@ title: "Devops Days Tampa Bay 2022 Recap"
 description: ""
 date: "2022-10-23T07:24:08-05:00"
 thumbnail: ""
-draft: true
+draft: false
 tags: ["Conference-Talks", "DevOps", "DevOpsDays", "Conferences"]
 
 ---
