@@ -1,7 +1,7 @@
 ---
 title: "Azure Stream Analytics Overview"
 description: ""
-date: "4-14-2023"
+date: "2023-04-13T22:00:56-06:00"
 thumbnail: ""
 
 tags:
