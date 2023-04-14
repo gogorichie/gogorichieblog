@@ -1,7 +1,7 @@
 ---
 title: "Azure Stream Analytics Overview"
 description: ""
-date: "2023-4-13T08:46:19-05:00"
+date: "4-14-2023"
 thumbnail: ""
 
 tags:
@@ -37,13 +37,13 @@ Some common use cases include:
 1. Real-time analytics: Azure Stream Analytics can process and analyze data in real-time, allowing organizations to make decisions based on the most up-to-date information available..
 
 
-Overall
+Stream Analytics Query Language
 
 
 
 Below I've included some useful links to help you learn more about Azure Synapse:
 
-- [Get Started with Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started).
+- [Transform data by using Azure Stream Analytics](https://learn.microsoft.com/en-us/training/modules/transform-data-with-azure-stream-analytics/?source=recommendations).
 - [4 common analytics scenarios to build business agility](https://azure.microsoft.com/en-us/blog/4-common-analytics-scenarios-to-build-business-agility/).
 - [Six-minute crash course about Synapse Studio](https://www.kevinrchant.com/2022/12/08/six-minute-crash-course-about-synapse-studio/).
 - [How to use CI/CD integration to automate the deploy of a Synapse Workspace to multiple environments](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/how-to-use-ci-cd-integration-to-automate-the-deploy-of-a-synapse/ba-p/2248060).
