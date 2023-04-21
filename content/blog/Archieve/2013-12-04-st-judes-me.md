@@ -1,6 +1,6 @@
 ---
 id: 4223
-title: 'St. Judes &#038; Me'
+title: 'St. Judes & Me'
 date: '2013-12-04T10:06:45+00:00'
 author: gogorichie
 layout: post
