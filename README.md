@@ -10,7 +10,7 @@ Hey this is just another simple static blog out there running on Hugo and Netlif
     <img src ="https://img.shields.io/github/languages/top/gogorichie/gogorichie2021" alt="languages">
     <img src ="https://img.shields.io/github/last-commit/gogorichie/gogorichie2021" alt="Last Commit">
     <img src ="https://img.shields.io/github/issues/gogorichie/gogorichie2021?color=important" alt="Open Issues">
-    <img src ="https://img.shields.io/github/issues-pr/gogorichie/gogorichie2021?color=yellowgreen" alt="Open Pull Reqeusts">
+    <img src ="https://img.shields.io/github/issues-pr/gogorichie/gogorichie2021?color=yellowgreen" alt="Open Pull Requests">
     <img src ="https://github.com/gogorichie/gogorichie2021/actions/workflows/dependency-review.yml/badge.svg" alt="Dependency Review">
 </p>
 
