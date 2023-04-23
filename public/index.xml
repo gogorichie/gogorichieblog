@@ -6,14 +6,17 @@
     <description>Recent content on Richard Lewis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Mar 2023 00:00:56 -0600</lastBuildDate><atom:link href="https://www.gogorichie.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Mar 2023 22:00:56 -0600</lastBuildDate><atom:link href="https://www.gogorichie.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure Static Web Apps: The Cloud&#39;s New Electric Vehicle</title>
       <link>https://www.gogorichie.com/blog/microsoft/azurespringcleaning2023/</link>
-      <pubDate>Mon, 13 Mar 2023 00:00:56 -0600</pubDate>
+      <pubDate>Sun, 12 Mar 2023 22:00:56 -0600</pubDate>
       
       <guid>https://www.gogorichie.com/blog/microsoft/azurespringcleaning2023/</guid>
-      <description>Write blog post here. https://gogorichie.com/blog/microsoft/azurespringcleaning2023/</description>
+      <description>Live Recording
+See the following youtube video for a live demo recording of my talk.
+Overview
+Welcome to day one of Azure Spring Cleaning 2023!. Azure Static Web Apps have been generally available for about one and a half years now, and I&amp;rsquo;ve been excited about this service since day one. Professionally, I help customers reduce software delivery complexity, so for me, Static Web Apps are an amazing idea that reduces the time needed to get services up and running.</description>
     </item>
     
     <item>
@@ -23,6 +26,25 @@
       
       <guid>https://www.gogorichie.com/blog/microsoft/azure-synapse-overview/</guid>
       <description>Earlier this year I joined the Azure Synapse Influencer Program. But I don&amp;rsquo;t receive payments as an influencer instead I get a wide range of benefits, such as early access to new features and capabilities, access to exclusive training and resources, and opportunities to engage with the Azure Synapse product team and also the occasional free swag like a coffee cup and sticker. I joined the program to build my knowledge around the platform and be able to show its value of it to my clients.</description>
+    </item>
+    
+    <item>
+      <title>Devops Days Tampa Bay 2022 Recap</title>
+      <link>https://www.gogorichie.com/blog/devopsdaystampabay2022recap/</link>
+      <pubDate>Sun, 23 Oct 2022 07:24:08 -0500</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/devopsdaystampabay2022recap/</guid>
+      <description>Richard Presenting LMAO Helps During Outages In 2022, I had a fantastic year of reconnecting with my passions, meeting new individuals, delivering presentations, and gaining knowledge from experienced professionals. To conclude my travels and speaking engagements for the year, I had the privilege of journeying to Florida and delivering a talk at DevOps Days Tampa. Having attended DevOps conferences for many years, I was thrilled to create an engaging presentation that encouraged collaboration and prompted attendees to reflect on critical considerations when preparing for on-call duties.</description>
+    </item>
+    
+    <item>
+      <title>Built International Session 4: The Truth about Black Consultants Speakers Panel</title>
+      <link>https://www.gogorichie.com/blog/built-speakers-panel-appearance/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/built-speakers-panel-appearance/</guid>
+      <description>A few days ago the opportunity to joined a Blacks United In Leading Tech speakers panel event to discuss &amp;ldquo;The truth about Black Consultants&amp;rdquo;. This was my first event with this group, it was a great conversation we talked about our personal journeys in the industry of consulting while sharing valuable insights and advice around some key areas of interest:
+Transferable skills for various positions in consulting. How to set the right expectations and key behaviors.</description>
     </item>
     
     <item>
@@ -225,7 +247,7 @@ Click here to subscribe</description>
     </item>
     
     <item>
-      <title>St. Judes &amp;#038; Me</title>
+      <title>St. Judes &amp; Me</title>
       <link>https://www.gogorichie.com/blog/archieve/2013-12-04-st-judes-me/</link>
       <pubDate>Wed, 04 Dec 2013 10:06:45 +0000</pubDate>
       

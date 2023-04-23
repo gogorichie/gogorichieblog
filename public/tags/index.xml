@@ -6,20 +6,29 @@
     <description>Recent content in Tags on Richard Lewis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Mar 2023 00:00:56 -0600</lastBuildDate><atom:link href="https://www.gogorichie.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Mar 2023 22:00:56 -0600</lastBuildDate><atom:link href="https://www.gogorichie.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure</title>
       <link>https://www.gogorichie.com/tags/azure/</link>
-      <pubDate>Mon, 13 Mar 2023 00:00:56 -0600</pubDate>
+      <pubDate>Sun, 12 Mar 2023 22:00:56 -0600</pubDate>
       
       <guid>https://www.gogorichie.com/tags/azure/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Conference-Talks</title>
+      <link>https://www.gogorichie.com/tags/conference-talks/</link>
+      <pubDate>Sun, 12 Mar 2023 22:00:56 -0600</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/conference-talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DevOps</title>
       <link>https://www.gogorichie.com/tags/devops/</link>
-      <pubDate>Mon, 13 Mar 2023 00:00:56 -0600</pubDate>
+      <pubDate>Sun, 12 Mar 2023 22:00:56 -0600</pubDate>
       
       <guid>https://www.gogorichie.com/tags/devops/</guid>
       <description></description>
@@ -28,7 +37,7 @@
     <item>
       <title>Microsoft</title>
       <link>https://www.gogorichie.com/tags/microsoft/</link>
-      <pubDate>Mon, 13 Mar 2023 00:00:56 -0600</pubDate>
+      <pubDate>Sun, 12 Mar 2023 22:00:56 -0600</pubDate>
       
       <guid>https://www.gogorichie.com/tags/microsoft/</guid>
       <description></description>
@@ -37,7 +46,7 @@
     <item>
       <title>StaticWebApps</title>
       <link>https://www.gogorichie.com/tags/staticwebapps/</link>
-      <pubDate>Mon, 13 Mar 2023 00:00:56 -0600</pubDate>
+      <pubDate>Sun, 12 Mar 2023 22:00:56 -0600</pubDate>
       
       <guid>https://www.gogorichie.com/tags/staticwebapps/</guid>
       <description></description>
@@ -53,18 +62,9 @@
     </item>
     
     <item>
-      <title>Conference-Talks</title>
-      <link>https://www.gogorichie.com/tags/conference-talks/</link>
-      <pubDate>Mon, 26 Sep 2022 07:24:08 -0500</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/conference-talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Conferences</title>
       <link>https://www.gogorichie.com/tags/conferences/</link>
-      <pubDate>Mon, 26 Sep 2022 07:24:08 -0500</pubDate>
+      <pubDate>Sun, 23 Oct 2022 07:24:08 -0500</pubDate>
       
       <guid>https://www.gogorichie.com/tags/conferences/</guid>
       <description></description>
@@ -73,9 +73,18 @@
     <item>
       <title>DevOpsDays</title>
       <link>https://www.gogorichie.com/tags/devopsdays/</link>
-      <pubDate>Mon, 26 Sep 2022 07:24:08 -0500</pubDate>
+      <pubDate>Sun, 23 Oct 2022 07:24:08 -0500</pubDate>
       
       <guid>https://www.gogorichie.com/tags/devopsdays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>https://www.gogorichie.com/tags/work/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/work/</guid>
       <description></description>
     </item>
     
@@ -130,15 +139,6 @@
       <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.gogorichie.com/tags/podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Work</title>
-      <link>https://www.gogorichie.com/tags/work/</link>
-      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/work/</guid>
       <description></description>
     </item>
     
