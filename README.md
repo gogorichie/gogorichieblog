@@ -15,6 +15,6 @@ Hey this is just another simple static blog out there running on Hugo and Netlif
 </p>
 
 ## Notes
- - hugo new \blog\new_post.md
- - hugo serve --buildDrafts
 
+- hugo new \blog\new_post.md
+- hugo serve --buildDrafts
