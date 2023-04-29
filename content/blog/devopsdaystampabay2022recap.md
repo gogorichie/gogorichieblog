@@ -18,13 +18,11 @@ In 2022, I had a fantastic year of reconnecting with my passions, meeting new in
 |:--:|
 | *Group shot of the Lewis boys* |
 
-
 As I've previously stated, each DevOps Days conference is organized independently by local hosts, resulting in each event having its unique characteristics. My favorite aspect of Tampa's event is the presence of two tracks, namely DevOps and Security. The key lessons I learned from the conference centered on Azure DevOps and Github, emphasizing the significance of incorporating security measures from the onset by utilizing these tools to Shift Security Left. During the event, I was introduced to a new tool, the Cred Scan plugin for Azure DevOps, which was a noteworthy first-time encounter for me.
+
 - [Microsoft Security DevOps](https://marketplace.visualstudio.com/items?itemName=ms-securitydevops.microsoft-security-devops-azdevops)
 - [SARIF SAST Scans Tab](https://marketplace.visualstudio.com/items?itemName=sariftools.scans)
 - [ADO Security Scanner](https://marketplace.visualstudio.com/items?itemName=azsdktm.ADOSecurityScanner)
-
-
 
 {{< tweet user="devopsdaystb" id="1583487884740288512" >}}
 I'm a Meme ha!
