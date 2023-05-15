@@ -28,5 +28,4 @@ The first i would recommend is **Accelerate** by Nicole Forsgren, Jez Humble, an
 
 **Cloud Auditing Best Practices: Perform Security and IT Audits across AWS, Azure, and GCP by building effective cloud auditing plans** dispite the long title this book provides a comprehensive guide to performing security and IT audits across the major cloud providers. The book offers practical advice and effective strategies for building cloud auditing plans, making it a valuable resource for both beginners and experienced professionals. <https://amzn.to/3BpRcvv>
 
-
 I hope you find these recommendations helpful. If you have any other favorite DevOps books, please feel free to share them with me. Happy reading!
