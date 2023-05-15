@@ -93,7 +93,7 @@ enableRobotsTXT = true
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "About"
+  name = "About Richard"
   identifier = "About"
   weight = 2
   url = "/about/"
