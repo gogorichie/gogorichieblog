@@ -15,7 +15,7 @@ tags:
 
 |![Stream Analytics](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/WebAppStream.jpeg)|
 |:--:|
-| *Simple design of realtime streaming from a Application Insights* |
+| *Simple design of realtime streaming from Application Insights to PowerBI* |
 
 I recently dived into the exciting world of Azure Stream Analytics If you're scratching your head and wondering what the heck that is, don't worry - I've got you covered.
 
