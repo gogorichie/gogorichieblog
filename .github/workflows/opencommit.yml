@@ -1,20 +1,20 @@
-name: AI Commit Message Generator
+name: OpenAI Code Review
 
-on: [push]
+on:
+  pull_request:
+    types: [opened, synchronize]
 
 jobs:
-  ai_commit_message:
+  review:
+    permissions: write-all # Check permission when leave comment action failed
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-
-      - name: Replace commit message with AI-generated title
-        uses: salehhashemi1992/ai-commit-message@v0.3.0
+      - name: OpenAI PR Review
+        uses: detectiveCrow/ai-review-action@latest
         env:
-          OPENAI_API_KEY: ${{ secrets.OCO_OPENAI_API_KEY }}
-          OPENAI_MODEL: gpt-3.5-turbo # Optional, you can use 'gpt-4' or 'gpt-4-32k' as well.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          LANGUAGE: "korean"
+          MODEL: "gpt-3.5-turbo"
