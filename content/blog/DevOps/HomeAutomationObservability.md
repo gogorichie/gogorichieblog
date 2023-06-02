@@ -5,7 +5,7 @@ draft: false
 tags: ["Home Automation", "DevOps"]
 ---
 
-![](http://www.kjfwi.org/index/wp-content/uploads/2020/09/DG-circle-logo-copy-297x300.jpg)
+![Image](TGI-image.jpeg)
 
 Being a DevOps and SRE minded person professionally has a big benefit when it comes to home automation. Im constantly looking for ways to make my home automation more efficient and easier to manage. One of the important things to consider in your home automation is observability this usually comes via a some sort of Dashboard usually this is an application or two you use to interact with your smart devices. But as your ecosystem grows and more devices are brought online you need a way to see the full landscape at once. To achieve this I use a combination of Docker Containers running Grafana and InfluxDB. 
 
