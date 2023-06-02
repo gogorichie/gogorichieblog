@@ -9,7 +9,7 @@ permalink: /2017/11/01/what-wordpress-plugins-am-i-using/
 restapi_import_id:
     - 5b7e1e5a66c0f
 tags:
-    - Blog
+    - Wordpress
 ---
 
 It’s been four years since I wrote my last update about what plugins I’m using on my WordPress platform. I’ve gotten more simple about the plugins and what I need them to do for me. Last time I wrote a post about the plugins their were seven and now I’m only running five.

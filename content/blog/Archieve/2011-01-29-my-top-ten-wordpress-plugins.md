@@ -9,7 +9,6 @@ permalink: /2011/01/29/my-top-ten-wordpress-plugins/
 restapi_import_id:
     - 5b7e1e5a66c0f
 tags:
-    - Blog
     - Wordpress
 ---
 
