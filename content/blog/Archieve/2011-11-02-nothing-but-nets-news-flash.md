@@ -10,7 +10,6 @@ restapi_import_id:
     - 5b7e1e5a66c0f
 tags:
     - JCI
-    - 'Nothing But Nets'
 ---
 
 Great News Everyone, I talked to Anthony Colletti today via email. He’s in Brussels Belgium at the JCI World Congress and said that were \*#3 in the  

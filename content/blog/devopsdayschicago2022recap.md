@@ -11,11 +11,9 @@ I had the opportunity to attend another [DevOps Days Chicago](https://devopsdays
 
 {{< tweet user="PDXTimB" id="1572585762591502339" >}}
 
-
 |![Breakout Session Topic board](https://pbs.twimg.com/media/FdR31qiX0AIZQNE?format=jpg&name=4096x4096)|
 |:--:|
 | *Presenting the LMAO Helps During Outages reminder Iginite talk* |
-
 
 Attending DevOps Days Chicago, in 2022 was a different experience as it was my first time speaking and presenting in Chicago my home city! and thought it was an ignite talk it was still exciting nonetheless. While I'm thinking about it this year seems to have been the year of me talking about how to deal with outages while remaining common and building the psychological confidence within your  to do the same. Trying to frame this into a lighting talk was a completely different experience. Getting the slides down to 20 and then delivering points within five seconds per slide it’s teamquite a unique challenge but it can’t be done.
 
@@ -35,8 +33,6 @@ One of the things I really like about the conference is continuous feedback oppo
 - Tool sprawl isn’t as important to people as how to document their existence, and where to find documentation internally.
 - I get to catch so many of the talks on YouTube or while traveling to these conferences but the one I thought was the most interesting was Learning from your organization's latest incident: How We Got Here it was presented by [Vanessa from Jeli](https://devopsdays.org/events/2022-chicago/program/vanessa-huerta-granda/).
 
-
 {{< tweet user="devopsdaysChi" id="1573014471387525120" >}}
-
 
 {{< tweet user="gogorichie" id="1572965455740145664" >}}

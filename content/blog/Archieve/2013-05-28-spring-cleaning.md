@@ -9,7 +9,6 @@ permalink: /2013/05/28/spring-cleaning/
 restapi_import_id:
     - 5b7e1e5a66c0f
 tags:
-    - Blog
     - Wordpress
 ---
 

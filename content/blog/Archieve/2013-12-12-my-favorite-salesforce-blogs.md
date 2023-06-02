@@ -10,7 +10,6 @@ restapi_import_id:
     - 5b7e1e5a66c0f
 tags:
     - Salesforce
-    - Work
 ---
 
 I love to learn and talk SQL all day everyday which gave me the inspiration for my blog post about my favorite [SSIS Reference Points](https://www.gogorichie.com/2010/10/ssis-reference-points/) and my [Favorite Business Intelligence Blogs](https://www.gogorichie.com/2010/10/bi-blogs/) in the past. So without further adieu I present to my list of what I blogs I commonly read in the Salesforce area and of course there in no particular order. I’ve built on the platform and written functions around it off and on over the last 4 years. So when I want to learn a little something something I check out these cool blogs they’re cross products and industries and all wholesome goodness.

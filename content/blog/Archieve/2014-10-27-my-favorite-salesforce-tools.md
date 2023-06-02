@@ -9,7 +9,6 @@ permalink: /2014/10/27/my-favorite-salesforce-tools/
 restapi_import_id:
     - 5b7e1e5a66c0f
 tags:
-    - Blog
     - Salesforce
 ---
 

@@ -12,7 +12,6 @@ tags:
 
 ![Event Flyer](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/Built0928event.jpg)
 
-
 A few days ago the opportunity to joined a Blacks United In Leading Tech speakers panel event to discuss "The truth about Black Consultants". This was my first event with this group, it was a great conversation we talked about our personal journeys in the industry of consulting while sharing valuable insights and advice around some key areas of interest:
 
 - Transferable skills for various positions in consulting.
