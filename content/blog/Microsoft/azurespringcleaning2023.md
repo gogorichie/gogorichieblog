@@ -21,7 +21,6 @@ See the following youtube video for a live demo recording of my talk.
 
 {{< youtube mH3XxWU_vfI >}}
 
-
 **Overview**
 
 Welcome to day one of [Azure Spring Cleaning 2023!](https://www.azurespringclean.com/). Azure Static Web Apps have been generally available for about one and a half years now, and I've been excited about this service since day one. Professionally, I help customers reduce software delivery complexity, so for me, Static Web Apps are an amazing idea that reduces the time needed to get services up and running.

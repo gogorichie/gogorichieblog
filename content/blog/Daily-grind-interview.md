@@ -5,7 +5,7 @@ draft: false
 tags: ["Podcast", "Work"]
 ---
 
-![](http://www.kjfwi.org/index/wp-content/uploads/2020/09/DG-circle-logo-copy-297x300.jpg)
+![KJ foundation logo](http://www.kjfwi.org/index/wp-content/uploads/2020/09/DG-circle-logo-copy-297x300.jpg)
 
 Earlier this month I dropped by my friend Kelly Johnson's podcast she is just starting up [The Daily Grind Podcast](http://www.kjfwi.org/the-daily-grind//) check out our conversation as we talk about Pickleball, Jaycees, Software Conferences, and what i do as a Developer Advocate.
 
