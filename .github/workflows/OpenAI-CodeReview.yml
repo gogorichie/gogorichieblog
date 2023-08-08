@@ -9,6 +9,6 @@ jobs:
     steps:
       - uses: agogear/chatgpt-pr-review@0.0.2
         with:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          openai_api_key: ${{ secrets.OPENAI_API_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_pr_id: ${{ github.event.number }}
