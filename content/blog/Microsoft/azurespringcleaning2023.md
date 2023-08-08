@@ -13,7 +13,7 @@ tags:
   - "Conference-Talks"
 ---
 
-{{< figure src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/asc23.png">}}
+![Image](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/asc23.png)
 
 **Live Recording**
 

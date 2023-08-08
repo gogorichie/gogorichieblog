@@ -13,7 +13,7 @@ tags:
 ---
 
 
-{{< figure src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/synapse-swag-2022.jpg">}}
+![Image](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/synapse-swag-2022.jpg)
 
 Azure Stream Analytics is a cloud-based service that enables real-time processing of streaming data from various sources such as IoT devices, social media, and applications. It allows you to easily create and deploy real-time data processing solutions with low latency and high availability. With Stream Analytics, you can analyze data in motion and trigger actions in real-time, providing valuable insights into your business operations.
 
@@ -25,8 +25,7 @@ Azure Stream Analytics pricing is based on the number of streaming units require
 Azure offers several alternatives to Azure Stream Analytics, depending on your specific data processing needs. One popular option is Azure Event Hubs, which is a data streaming platform that can handle millions of events per second and integrates with various Azure services. Another option is Azure Functions, which enables serverless data processing and can be used to create event-driven applications. Additionally, Azure Data Factory is a cloud-based data integration service that can be used to transform and load data from various sources into Azure storage solutions, including Azure Synapse Analytics. Overall, Azure provides a range of tools and services to help you process and analyze your data in real-time or batch mode.
 
 
-
-{{< figure src="https://learn.microsoft.com/en-us/azure/stream-analytics/media/stream-analytics-introduction/stream-analytics-e2e-pipeline.png" title="Architecture design of Azure Synapse IoT Data Processing Example" >}}
+![Architecture design of Azure Synapse IoT Data Processing Example](https://learn.microsoft.com/en-us/azure/stream-analytics/media/stream-analytics-introduction/stream-analytics-e2e-pipeline.png)
 
 Some common use cases include:
 

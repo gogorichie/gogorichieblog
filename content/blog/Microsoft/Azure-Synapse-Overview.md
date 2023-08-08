@@ -11,8 +11,8 @@ tags:
   - "DevOps"
 ---
 
+![Image](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/synapse-swag-2022.jpg)
 
-{{< figure src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/synapse-swag-2022.jpg">}}
 
 Earlier this year I joined the [Azure Synapse Influencer Program](https://azure.github.io/Synapse/influencers/). But I don't receive payments as an influencer instead I get a wide range of benefits, such as early access to new features and capabilities, access to exclusive training and resources, and opportunities to engage with the Azure Synapse product team and also the occasional free swag like a coffee cup and sticker. I joined the program to build my knowledge around the platform and be able to show its value of it to my clients.
 
@@ -22,7 +22,7 @@ One of the key features of Azure Synapse is its ability to handle large volumes 
 
 Another key feature of Azure Synapse is its integration with other Azure services. This allows organizations to easily incorporate data from other Azure services such as Azure Cosmos DB and Azure Machine Learning, providing even more data sources to work with and expanding the capabilities of the platform.
 
-{{< figure src="https://www.btelligent.com/fileadmin/btelligent/Images/Blogs/advanced-analytics/IoT_Data_Processing/iot-data-processing-1-1.png" title="Architecture design of Azure Synapse IoT Data Processing Example" >}}
+![Architecture design of Azure Synapse IoT Data Processing Example](https://www.btelligent.com/fileadmin/btelligent/Images/Blogs/advanced-analytics/IoT_Data_Processing/iot-data-processing-1-1.png)
 
 Some common use cases include:
 
