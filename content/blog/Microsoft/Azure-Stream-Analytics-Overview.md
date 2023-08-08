@@ -24,7 +24,6 @@ Simply put, Azure Stream Analytics is a cloud-based service that lets you analyz
 Some common use cases include:
 
 1. Financial services: Azure Stream Analytics can be used to process and analyze real-time financial data, enabling organizations to make informed investment decisions, identify potential risks, and detect fraud.
-
 1. Social media analysis: Azure Stream Analytics can be used to analyze real-time social media data, allowing organizations to track customer sentiment, identify trends, and engage with customers in real-time.
 1. Predictive maintenance: By analyzing real-time data from sensors and other sources, Azure Stream Analytics can help organizations identify potential equipment failures before they occur, allowing for preventive maintenance.
 1. Internet of Things (IoT) data processing: Azure Stream Analytics can process and analyze data from IoT devices, enabling organizations to gain insights into device performance, usage patterns, and more.
