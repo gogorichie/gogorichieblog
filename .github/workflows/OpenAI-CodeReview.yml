@@ -16,5 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OCO_OPENAI_API_KEY }}
-          LANGUAGE: "korean"
+          LANGUAGE: "english"
           MODEL: "gpt-3.5-turbo"
