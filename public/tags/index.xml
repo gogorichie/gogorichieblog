@@ -6,29 +6,20 @@
     <description>Recent content in Tags on Richard Lewis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Mar 2023 22:00:56 -0600</lastBuildDate><atom:link href="https://www.gogorichie.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 08:08:56 -0600</lastBuildDate><atom:link href="https://www.gogorichie.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure</title>
       <link>https://www.gogorichie.com/tags/azure/</link>
-      <pubDate>Sun, 12 Mar 2023 22:00:56 -0600</pubDate>
+      <pubDate>Tue, 08 Aug 2023 08:08:56 -0600</pubDate>
       
       <guid>https://www.gogorichie.com/tags/azure/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Conference-Talks</title>
-      <link>https://www.gogorichie.com/tags/conference-talks/</link>
-      <pubDate>Sun, 12 Mar 2023 22:00:56 -0600</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/conference-talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DevOps</title>
       <link>https://www.gogorichie.com/tags/devops/</link>
-      <pubDate>Sun, 12 Mar 2023 22:00:56 -0600</pubDate>
+      <pubDate>Tue, 08 Aug 2023 08:08:56 -0600</pubDate>
       
       <guid>https://www.gogorichie.com/tags/devops/</guid>
       <description></description>
@@ -37,9 +28,63 @@
     <item>
       <title>Microsoft</title>
       <link>https://www.gogorichie.com/tags/microsoft/</link>
-      <pubDate>Sun, 12 Mar 2023 22:00:56 -0600</pubDate>
+      <pubDate>Tue, 08 Aug 2023 08:08:56 -0600</pubDate>
       
       <guid>https://www.gogorichie.com/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stream Analytics</title>
+      <link>https://www.gogorichie.com/tags/stream-analytics/</link>
+      <pubDate>Tue, 08 Aug 2023 08:08:56 -0600</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/stream-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home Automation</title>
+      <link>https://www.gogorichie.com/tags/home-automation/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/home-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://www.gogorichie.com/tags/books/</link>
+      <pubDate>Sun, 14 May 2023 20:36:01 -0500</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference-Talks</title>
+      <link>https://www.gogorichie.com/tags/conference-talks/</link>
+      <pubDate>Sat, 29 Apr 2023 07:24:08 -0500</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/conference-talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>https://www.gogorichie.com/tags/conferences/</link>
+      <pubDate>Sat, 29 Apr 2023 07:24:08 -0500</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOpsDays</title>
+      <link>https://www.gogorichie.com/tags/devopsdays/</link>
+      <pubDate>Sat, 29 Apr 2023 07:24:08 -0500</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/devopsdays/</guid>
       <description></description>
     </item>
     
@@ -58,24 +103,6 @@
       <pubDate>Thu, 15 Dec 2022 08:46:19 -0500</pubDate>
       
       <guid>https://www.gogorichie.com/tags/synapse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conferences</title>
-      <link>https://www.gogorichie.com/tags/conferences/</link>
-      <pubDate>Sun, 23 Oct 2022 07:24:08 -0500</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/conferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DevOpsDays</title>
-      <link>https://www.gogorichie.com/tags/devopsdays/</link>
-      <pubDate>Sun, 23 Oct 2022 07:24:08 -0500</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/devopsdays/</guid>
       <description></description>
     </item>
     
@@ -152,11 +179,11 @@
     </item>
     
     <item>
-      <title>Blog</title>
-      <link>https://www.gogorichie.com/tags/blog/</link>
+      <title>Wordpress</title>
+      <link>https://www.gogorichie.com/tags/wordpress/</link>
       <pubDate>Wed, 01 Nov 2017 16:31:01 +0000</pubDate>
       
-      <guid>https://www.gogorichie.com/tags/blog/</guid>
+      <guid>https://www.gogorichie.com/tags/wordpress/</guid>
       <description></description>
     </item>
     
@@ -175,6 +202,15 @@
       <pubDate>Mon, 27 Oct 2014 07:38:07 +0000</pubDate>
       
       <guid>https://www.gogorichie.com/tags/salesforce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://www.gogorichie.com/tags/blog/</link>
+      <pubDate>Wed, 20 Aug 2014 18:56:55 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/tags/blog/</guid>
       <description></description>
     </item>
     
@@ -215,15 +251,6 @@
     </item>
     
     <item>
-      <title>Wordpress</title>
-      <link>https://www.gogorichie.com/tags/wordpress/</link>
-      <pubDate>Tue, 28 May 2013 15:29:59 +0000</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/wordpress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kapow</title>
       <link>https://www.gogorichie.com/tags/kapow/</link>
       <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
@@ -247,33 +274,6 @@
       <pubDate>Tue, 20 Nov 2012 13:51:50 +0000</pubDate>
       
       <guid>https://www.gogorichie.com/tags/windows-home-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nothing But Nets</title>
-      <link>https://www.gogorichie.com/tags/nothing-but-nets/</link>
-      <pubDate>Wed, 02 Nov 2011 18:34:57 +0000</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/nothing-but-nets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Support Our Troops</title>
-      <link>https://www.gogorichie.com/tags/support-our-troops/</link>
-      <pubDate>Mon, 04 Apr 2011 10:49:00 +0000</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/support-our-troops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Website Development</title>
-      <link>https://www.gogorichie.com/tags/website-development/</link>
-      <pubDate>Fri, 10 Dec 2010 15:14:00 +0000</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/website-development/</guid>
       <description></description>
     </item>
     

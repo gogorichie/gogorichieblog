@@ -6,7 +6,46 @@
     <description>Recent content on Richard Lewis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Mar 2023 22:00:56 -0600</lastBuildDate><atom:link href="https://www.gogorichie.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 08:08:56 -0600</lastBuildDate><atom:link href="https://www.gogorichie.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Stream Analytics Overview</title>
+      <link>https://www.gogorichie.com/blog/microsoft/azure-stream-analytics-overview/</link>
+      <pubDate>Tue, 08 Aug 2023 08:08:56 -0600</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/microsoft/azure-stream-analytics-overview/</guid>
+      <description>Simple design of realtime streaming from Application Insights to PowerBI I recently dived into the exciting world of Azure Stream Analytics If you&amp;rsquo;re scratching your head and wondering what the heck that is, don&amp;rsquo;t worry - I&amp;rsquo;ve got you covered.
+Simply put, Azure Stream Analytics is a cloud-based service that lets you analyze data in real-time as it&amp;rsquo;s being streamed in from various sources. Think of it as your personal data magician that can extract insights from your data as soon as it hits the cloud.</description>
+    </item>
+    
+    <item>
+      <title>Home Automation Observability With Terraform and Grafana</title>
+      <link>https://www.gogorichie.com/blog/homeautomationobservability/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/homeautomationobservability/</guid>
+      <description>Being a DevOps and SRE minded person professionally has a big benefit when it comes to home automation. Im constantly looking for ways to make my home automation more efficient and easier to manage. One of the important things to consider in your home automation is observability this usually comes via a some sort of Dashboard usually this is an application or two you use to interact with your smart devices.</description>
+    </item>
+    
+    <item>
+      <title>Recommended DevOps Books</title>
+      <link>https://www.gogorichie.com/blog/recommendeddevopsbooks/</link>
+      <pubDate>Sun, 14 May 2023 20:36:01 -0500</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/recommendeddevopsbooks/</guid>
+      <description>As a seasoned DevOps professional, I am often asked to recommend resources that can help newcomers to the field understand its core principles and best practices. Over the years, I have read many excellent books on DevOps, but there are five in particular that stand out to me as essential reads for anyone looking to gain a comprehensive understanding of this practice.
+The first i would recommend is Accelerate by Nicole Forsgren, Jez Humble, and Gene Kim it is a must-read for anyone interested in software development and delivery.</description>
+    </item>
+    
+    <item>
+      <title>Devops Days Nashville 2023 Recap</title>
+      <link>https://www.gogorichie.com/blog/devopsdaysnashville2023recap/</link>
+      <pubDate>Sat, 29 Apr 2023 07:24:08 -0500</pubDate>
+      
+      <guid>https://www.gogorichie.com/blog/devopsdaysnashville2023recap/</guid>
+      <description>2023 DevOps Conference Speakers I recently attended the 2023 DevOps Days Nashville conference in Tennessee, and it was an incredible experience. As with all DevOps Days conferences, the themes and speakers were decided by the local organizers, which made for a unique and diverse range of sessions.
+On the first day of the conference, I attended some fantastic sessions that provided some great ideas that I can use with my clients.</description>
+    </item>
+    
     <item>
       <title>Azure Static Web Apps: The Cloud&#39;s New Electric Vehicle</title>
       <link>https://www.gogorichie.com/blog/microsoft/azurespringcleaning2023/</link>
@@ -824,15 +863,6 @@ GROUP BY FirstName</description>
       
       <guid>https://www.gogorichie.com/blog/archieve/2009-11-01-the-day-after-the-120-days-are-up/</guid>
       <description>First let me start by saying Microsoft allows you to download any of there new operating systems for trial period usually 120 days but some are 90. My 120 day trial period for windows home server ended on September 15th. I waited all the way to 121st day to upgrade even though I knew by the 90th day I was planning on buying it. So when I finally got around to getting a licensed copy, which I actually ended up getting it for my birthday.</description>
-    </item>
-    
-    <item>
-      <title>Sox Pride !!!!</title>
-      <link>https://www.gogorichie.com/blog/archieve/2009-09-07-sox-pride/</link>
-      <pubDate>Mon, 07 Sep 2009 13:52:09 +0000</pubDate>
-      
-      <guid>https://www.gogorichie.com/blog/archieve/2009-09-07-sox-pride/</guid>
-      <description>So as the 2009 season wraps up unhopeful unless a major blessing happens, today I started playing with the photo collage feature on Picasa 3 and I thought I would put together a White Sox one from all my photos over years with family and friends.</description>
     </item>
     
     <item>
