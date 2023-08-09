@@ -13,7 +13,7 @@ tags:
     - Work
 ---
 
-Just like the title said it’s not that hard and it one of the most important things in software and process ![fridgeNotebookHack.jpg](http://blog.makezine.com/upload/2009/03/recent_makers_notebook_hacks/fridgeNotebookHack.jpg)development is the the Documentation part. But it’s most often the most over looked do to time and no short term benefit. But long term after the developer has forgotten what they did back then the documentation they have written will still be there for the next developer to come along and revise, enhance, or just get a better understanding of what is taking place and how it done. Below are a couple of things everyone should remember when documenting.
+Just like the title said it’s not that hard and it one of the most important things in software and process ![fridgeNotebookHack.jpg](https://blog.makezine.com/upload/2009/03/recent_makers_notebook_hacks/fridgeNotebookHack.jpg)development is the the Documentation part. But it’s most often the most over looked do to time and no short term benefit. But long term after the developer has forgotten what they did back then the documentation they have written will still be there for the next developer to come along and revise, enhance, or just get a better understanding of what is taking place and how it done. Below are a couple of things everyone should remember when documenting.
 
 1. Don’t forget to spell check, what you say will live on forever so try not to look so dumb with all the spelling error. As for grammar who cares right? your a developer not a English teacher.
 2. Process flow charts are golden, everyone likes pretty pictures and maps to follow.
