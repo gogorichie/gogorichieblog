@@ -1,7 +1,7 @@
 ---
 title: "How to Enable GitHub Copilot Within Your Organization"
 description: "How to Enable GitHub Copilot Within Your Organization"
-date: "2023-11-05T16:27:02-05:00"
+date: "2023-11-05T06:27:02-05:00"
 thumbnail: ""
 draft: false
 tags:
@@ -9,11 +9,11 @@ tags:
   - "Github-Copilot"
   - "DevOps"
 ---
-This blog post was written for future Richard and anyone else who might be looking for documentation on where to start with enabling GitHub Copilot within an organization.
+This blog post was written for future Richard and anyone else who might be looking for documentation on where to start with enabling GitHub Copilot within an organization. The process is pretty simple but might be diffcult to find where to start.
 
 **What is GitHub Copilot?**
 
-GitHub Copilot is an AI-powered autocomplete tool that acts as a peer programmer, assisting in writing code. You can find more information about GitHub Copilot [here](<https://resources.github.com/copilot-for-business/?ef_id=_k_e65e07530d46189e67c96210e860b6be_k_&OCID=AIDcmmc3fhtaow_SEM__k_e65e07530d46189e67c96210e860b6be_k_&msclkid=e65e07530d46189e67c96210e860b6be>).
+GitHub Copilot is an AI-powered autocomplete tool that acts as a peer programmer, assisting in writing code. if you want to dive deeper into Copilot you can find more information about GitHub Copilot on the [github resource](<https://resources.github.com/copilot-for-business/?ef_id=_k_e65e07530d46189e67c96210e860b6be_k_&OCID=AIDcmmc3fhtaow_SEM__k_e65e07530d46189e67c96210e860b6be_k_&msclkid=e65e07530d46189e67c96210e860b6be>) site.
 
 **How to Enable**
 
