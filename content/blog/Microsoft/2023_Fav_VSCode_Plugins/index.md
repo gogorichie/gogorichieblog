@@ -1,7 +1,7 @@
 ---
 title: "My Favorite VSCode Plugins Of 2023"
 description: ""
-date: "2023-11-02T22:00:56-06:00"
+date: "2023-12-02T22:00:56-06:00"
 draft: true
 thumbnail: ""
 
@@ -18,7 +18,7 @@ First, let's talk about theme i'm using last time talked using Yonce and now i'v
 
 1. [Winter is Coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming) I've never seen Game of Thrones but I love this theme still. I talked about using this theme in 2019 and still using it.
 
-1. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets).
+1. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 
 1. [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.) This plugin is pretty simple, it autocompletes my file name paths.
 
