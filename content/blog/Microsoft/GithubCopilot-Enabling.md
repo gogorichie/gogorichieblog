@@ -8,6 +8,7 @@ tags:
   - "Github"
   - "Github-Copilot"
   - "DevOps"
+  - "Microsoft"
 ---
 This blog post was written for future Richard and anyone else who might be looking for documentation on where to start with enabling GitHub Copilot within an organization. The process is pretty simple but might be diffcult to find where to start.
 
