@@ -1,7 +1,7 @@
 ---
 title: "How to Enable GitHub Copilot Within Your Organization"
 description: "How to Enable GitHub Copilot Within Your Organization"
-date: "2023-11-02T16:27:02-05:00"
+date: "2023-11-05T16:27:02-05:00"
 thumbnail: ""
 draft: false
 tags:
@@ -9,7 +9,7 @@ tags:
   - "Github-Copilot"
   - "DevOps"
 ---
-This blog post was written for future Richard and anyone else who might be be looking for documentation on where to start with enabling GitHub Copilot within an organization.
+This blog post was written for future Richard and anyone else who might be looking for documentation on where to start with enabling GitHub Copilot within an organization.
 
 **What is GitHub Copilot?**
 
