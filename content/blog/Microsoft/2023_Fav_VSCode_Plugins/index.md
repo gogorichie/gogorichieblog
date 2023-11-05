@@ -1,7 +1,7 @@
 ---
 title: "My Favorite VSCode Plugins Of 2023"
 description: ""
-date: "2023-09-02T22:00:56-06:00"
+date: "2023-11-02T22:00:56-06:00"
 draft: true
 thumbnail: ""
 
