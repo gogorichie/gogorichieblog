@@ -26,7 +26,7 @@ jobs:
     - name: Fetch YouTube video information
       run: |
         API_KEY= ${{ secrets.YOUTUBE_API_KEY }}
-        VIDEO_ID= ${{ secrets.YOUTUBE_VIDEO_ID }}"YOUR_YOUTUBE_VIDEO_ID"
+        VIDEO_ID= ${{ secrets.YOUTUBE_VIDEO_ID }}
         curl "https://www.googleapis.com/youtube/v3/videos?id=${VIDEO_ID}&key=${API_KEY}&part=snippet" > video_info.json
 
     - name: Create Hugo blog post
