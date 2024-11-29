@@ -1,7 +1,7 @@
 ---
 title: "Office Meeting Indicator Version 2"
 date: 2024-11-28T23:16:44-06:00
-draft: true
+draft: false
 tags: ["Home Assistant","Github"]
 ---
 
