@@ -5,7 +5,7 @@ draft: false
 tags: ["Home Assistant","Github"]
 ---
 
-![ESP32 S3 Matrix 8x8 64 LED](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/esp32-s3-matrix-5.jpg)
+![ESP32 S3 Matrix 8x8 64 LED](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/Designer.jfif)
 
 Previously I made a YouTube video about how to automate identifying if there is a meeting going on or not using home assistant and a light. in the YouTube video I used and ESP32 board and some led light strips controlled by WLED configured in Home Assistant for the automation. I've since then discovered The [ESP32-S3 Matrix](https://amzn.to/3CPVFLV) a compact and versatile development board featuring an ESP32-S3 processor and an integrated with 64 LEDs in an 8x8 RGB LED matrix configuration, making it ideal for creating interactive lighting projects, digital art, and real-time visual displays. Making this the perfect small package  to go which is inside a wine press located outside my office to signal my current meeting status with lights.
 
