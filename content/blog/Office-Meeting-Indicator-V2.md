@@ -7,11 +7,23 @@ tags: ["Home Assistant","Github"]
 
 ![ESP32 S3 Matrix 8x8 64 LED](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/esp32-s3-matrix-5.jpg)
 
-Previously I made a YouTube video about how to automate identifying if there is a meeting going on or not using home assistant and a light. in the YouTube video I used and ESP32 board and some led light strips controlled by WLED configured in Home Assistant for the automation. I've since then discovered The [ESP32-S3 Matrix](https://amzn.to/3CPVFLV) a compact and versatile development board featuring an ESP32-S3 processor and an integrated with 64 LEDs in an 8x8 RGB LED matrix configuration, making it ideal for creating interactive lighting projects, digital art, and real-time visual displays. Making this the perfect small package  to go which is inside a wine press located outside my office to signal my current meeting status with lights.
+Previously, I made a YouTube video demonstrating how to automate the detection of whether a meeting is happening using Home Assistant and a light. In that video, I used an ESP32 board and LED light strips controlled by WLED, integrated with Home Assistant for the automation. Since then, I’ve discovered the [ESP32-S3 Matrix](https://amzn.to/3CPVFLV) a compact and versatile development board featuring an ESP32-S3 processor and an 8x8 RGB LED matrix with 64 integrated LEDs. This board is perfect for creating interactive lighting projects, digital art, and real-time visual displays. Its compact design makes it ideal for my setup: a small device placed inside a wine press located outside my office to signal my current meeting status with lights.
 
-In this blog post I'm going to go into the technical aspects of how I configured the ESP32 S3 Matrix 8x8 64 LED to be able to turn on and off with the selected color depending on the situation. For this project I chose to use [FastLED](https://fastled.io/docs/). It is a powerful library specifically designed for controlling addressable LEDs like the ones on the ESP32 S3 Matrix, offering fine-grained control over individual pixels and enabling complex lighting effects. While WLED is versatile for this project I wanted to be able to manage this device through [ESPHome](https://esphome.io/) and [Home Assistant](https://www.home-assistant.io/).
+In this blog post, I’ll delve into the technical aspects of how I configured the ESP32-S3 Matrix (8x8 LED) to display a specific color based on the situation. For this project, I chose to use [FastLED](https://fastled.io/docs/), a powerful library designed for controlling addressable LEDs like those on the ESP32-S3 Matrix. FastLED offers precise control over individual pixels and supports complex lighting effects. While WLED is versatile, I opted to manage this device through [ESPHome](https://esphome.io/) and [Home Assistant](https://www.home-assistant.io/) for better integration into my setup.
 
-Setting Up the ESP32-S3 Matrix is pretty simple all you'll need is a ESP32-S3 Matrix Development Board, ESPHome Hosted on a computer, and a USB-C cable as the device doesn't include one. Once Connect to the device and flash the firmware with ESPHome using the code in the github repo below and you should be off and running. The real magic of using FastLED lies in the light section around line 78 of the YAML file.
+Getting started with the ESP32-S3 Matrix is straightforward. You’ll need:
+
+- An ESP32-S3 Matrix development board,
+- ESPHome hosted on a computer, and
+- A USB-C cable (note: the board does not include one).
+
+To set it up:
+
+1) Connect the device to your computer via USB-C.
+1) Flash the firmware using ESPHome with the provided YAML configuration (available in the GitHub repository linked below).
+1) Once the firmware is uploaded, the device should be ready to go.
+
+The real power of this setup lies in the light configuration section of the YAML file, particularly around line 78. Using FastLED within ESPHome, you can unlock a variety of lighting effects and fine-tune the device's behavior to suit your needs.
 
 {{< gist gogorichie 45c86c6faa31b1411e475bae184d88fa >}}
 
