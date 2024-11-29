@@ -53,7 +53,7 @@ enableRobotsTXT = true
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/20170225_171223.jpg" # Logo image. Path relative to "static"
+  image = "img/1710885445289.jfif" # Logo image. Path relative to "static"
   title = "Richard Lewis" # Logo title, otherwise will use site title
   subtitle = "Ramblings From A Guy Who Works With Clouds" # Logo subtitle
 
