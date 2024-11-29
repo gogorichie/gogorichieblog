@@ -87,8 +87,13 @@ enableRobotsTXT = true
   RSS   = "index.xml"
 
 [[Params.widgets.social.custom]]
+  title = "Bluesky"
+  url = "https://bsky.app/profile/gogorichie.com"
+
+[[Params.widgets.social.custom]]
   title = "Mastodon"
   url = "https://mastodon.world/@gogorichie"
+
 
   
 
