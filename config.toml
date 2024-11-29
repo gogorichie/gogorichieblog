@@ -1,12 +1,13 @@
 baseURL = "https://www.gogorichie.com/"
 languageCode = "en-US"
 title = "Richard Lewis"
-paginate = "6" # Number of posts per page
 theme = "mainroad"
 disqusShortname = ""
 googleAnalytics = "G-P8LY2Y6KSV"
 enableRobotsTXT = true
 
+[pagination]
+  pagerSize = 6 # Number of posts per page
 
 [Author] # Used in authorbox
   name = "Richard Lewis"
@@ -32,6 +33,11 @@ enableRobotsTXT = true
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
   customCSS = ["css/custom.css"] # Include custom CSS files
   customJS = ["js/custom.js"] # Include custom JS files
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
   # DEPRECATED PARAMS
   subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
