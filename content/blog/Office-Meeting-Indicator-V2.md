@@ -15,13 +15,15 @@ Setting Up the ESP32-S3 Matrix is pretty simple all you'll need is a ESP32-S3 Ma
 
 {{< gist gogorichie 45c86c6faa31b1411e475bae184d88fa >}}
 
-• **platform:** fastled_clockless: Specifies the FastLED library for controlling the LED matrix.
-• **chipset: WS2812B:** Indicates the type of LED chips used in the matrix.
-• **pin: GPIO14:** Defines the GPIO pin connected to the data pin of the LED matrix.
-• **num_leds: 64:** Sets the total number of LEDs in the matrix.
-• **rgb_order: RGB:** Specifies the order of the color channels (Red, Green, Blue).
-• **name: "8x8 LED Matrix":** Assigns a name to the light entity.
-• **id: led_matrix:** Provides a unique identifier for the light entity.
-• **effects:** Defines a list of built-in effects that can be applied to the LED matrix.
+- **platform:** fastled_clockless: Specifies the FastLED library for controlling the LED matrix.
+- **chipset: WS2812B:** Indicates the type of LED chips used in the matrix.
+- **pin: GPIO14:** Defines the GPIO pin connected to the data pin of the LED matrix.
+- **num_leds: 64:** Sets the total number of LEDs in the matrix.
+- **rgb_order: RGB:** Specifies the order of the color channels (Red, Green, Blue).
+- **name: "8x8 LED Matrix":** Assigns a name to the light entity.
+- **id: led_matrix:** Provides a unique identifier for the light entity.
+- **effects:** Defines a list of built-in effects that can be applied to the LED matrix.
 
-Hope this blog post helps I would love some suggestions for improvements and I hope this helps others. [https://github.com/gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+Hope this blog post helps I would love some suggestions for improvements and I hope this helps others.
+
+[https://github.com/gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
