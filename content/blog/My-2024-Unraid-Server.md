@@ -1,9 +1,12 @@
 ---
-title: "My 2024 Unraid Server"
-date: 2024-1-21
+title: "My 2024 Unraid Server Setup"
+date: "2024-1-21"
 draft: false
-tags: ["Home Automation", "Homelab"]
+tags: 
+    - "Home Automation"
+    - "Homelab"
 ---
+
 
 
 I’m thrilled to share my latest YouTube video showcasing my 2024 Unraid server setup! In just 10 minutes, I walk you through how I use the power of Unraid to create the ultimate centralized platform for all my digital needs.
