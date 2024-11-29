@@ -1,7 +1,6 @@
 ---
 title: "My 2024 Unraid Server"
-date: 2024-1-21T22:35:48-06:00
-draft: false
+date: 2024-1-21
 tags: ["Home Automation", "Homelab"]
 ---
 
