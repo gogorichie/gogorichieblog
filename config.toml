@@ -1,12 +1,13 @@
 baseURL = "https://www.gogorichie.com/"
 languageCode = "en-US"
 title = "Richard Lewis"
-paginate = "6" # Number of posts per page
 theme = "mainroad"
 disqusShortname = ""
 googleAnalytics = "G-P8LY2Y6KSV"
 enableRobotsTXT = true
 
+[pagination]
+  pagerSize = 6 # Number of posts per page
 
 [Author] # Used in authorbox
   name = "Richard Lewis"
@@ -33,6 +34,11 @@ enableRobotsTXT = true
   customCSS = ["css/custom.css"] # Include custom CSS files
   customJS = ["js/custom.js"] # Include custom JS files
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
   # DEPRECATED PARAMS
   subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
   highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
@@ -47,7 +53,7 @@ enableRobotsTXT = true
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/20170225_171223.jpg" # Logo image. Path relative to "static"
+  image = "img/1710885445289.jfif" # Logo image. Path relative to "static"
   title = "Richard Lewis" # Logo title, otherwise will use site title
   subtitle = "Ramblings From A Guy Who Works With Clouds" # Logo subtitle
 
@@ -81,8 +87,13 @@ enableRobotsTXT = true
   RSS   = "index.xml"
 
 [[Params.widgets.social.custom]]
+  title = "Bluesky"
+  url = "https://bsky.app/profile/gogorichie.com"
+
+[[Params.widgets.social.custom]]
   title = "Mastodon"
   url = "https://mastodon.world/@gogorichie"
+
 
   
 
