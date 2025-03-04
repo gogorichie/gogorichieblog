@@ -19,7 +19,7 @@ DevOpsDays is not your typical tech conference. It blends expert-led talks with 
 # Why Attend in 2025?
 
 
-| <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/dod/2025(1).png" alt="Speaker from AWS presenting Navagating DevOps with ADHD" width="400">
+<img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/dod/2025(1).png" alt="Speaker from AWS presenting Navagating DevOps with ADHD" width="500">
 
 
 **1. Learn from Top Industry Experts**
@@ -28,12 +28,15 @@ Each year, DevOpsDays Chicago brings together some of the brightest minds in Dev
 
 
 
-| <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/dod/2025(2).png" alt="Open Spaces Board" width="400">
+<img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/dod/2025(2).png" alt="Open Spaces Board" width="500">
 
 
 **2. Engage in Meaningful Open Spaces**
 
 One of my favorite parts of DevOpsDays has always been the Open Spaces. Unlike pre-planned sessions, Open Spaces are discussions driven by attendees. In past years, I’ve joined conversations about everything from security in the software supply chain to the blurred lines between SRE and DevOps roles. These spaces allow you to dig into real-world challenges, share your experiences, and gain insights from others in the field.
+
+
+<img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/dod/2025(1).jpg" alt="DevOpsDays Chicago 2025" width="500">
 
 **3. Networking that Actually Matters**
 
@@ -41,7 +44,7 @@ Attending DevOpsDays in person is a game-changer, especially after years of virt
 
 
 
-| <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/dod/2025(3).png" alt="DevOpsDays Chicago 2025" width="400">
+<img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/dod/2025(3).png" alt="DevOpsDays Chicago 2025" width="500">
 
 
 **4. Actionable Takeaways for Your Organization**
