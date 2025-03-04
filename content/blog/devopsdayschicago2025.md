@@ -7,7 +7,7 @@ draft: false
 tags: ["Conference-Talks", "DevOps", "DevOpsDays", "Conferences"]
 
 ---
-If you’re a developer, DevOps Engineer, Operations Engineer, SRE, or anyone passionate about improving collaboration in tech, then [DevOpsDays Chicago 2025](https://devopsdays.org/events/2025-chicago/welcome/) is the conference you don’t want to miss. Having attended DevOpsDays in 2018, 2019, 2021, 2022, and 2023—and even speaking in 2022—I can confidently say that this event is one of the best opportunities to grow your skills, connect with peers, and stay ahead of industry trends.
+If you’re a developer, DevOps Engineer, Operations Engineer, SRE, or anyone passionate about improving collaboration in tech, then [DevOpsDays Chicago 2025](https://devopsdays.org/events/2025-chicago/welcome/) is the conference you don’t want to miss. Having attended DevOpsDays in 2018, 2019, 2021, 2022, and 2023—and even speaking in 2022 I can confidently say that this event is one of the best opportunities to grow your skills, connect with peers, and stay ahead of industry trends.
 
 
 
