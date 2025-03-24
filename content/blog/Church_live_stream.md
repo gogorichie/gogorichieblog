@@ -26,5 +26,3 @@ Each Sunday, I set up early, run tests, and hit that “Go Live” button. It’
 I’m grateful that I had the skills to do this, and even more grateful I could use them to give back to God and serve others in a small but meaningful way.
 
 If you're thinking about doing something similar, I’m happy to share more details or help however I can. Just reach out!
-
-Would you like me to help generate a featured image for the post as well?
