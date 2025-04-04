@@ -20,8 +20,7 @@ The setup might sound a bit old-school-meets-modern, but it works beautifully:
 - **Vintage soundboard from the 80’s** — Yep, still going strong! But instead of running cables everywhere, I use a **Lekato WS-60 wireless system** to send the audio signal from that old board to the Scarlett 2i2.  <https://amzn.to/4i3ohAl>
 - **Elgato Camlink 4K** — This lets me bring in slides and other video feeds. It’s simple, reliable, and makes the stream feel polished. <https://amzn.to/4iTOVNb>
 - **PC running vMix** — The amazing part? vMix gives churches free licenses! It’s professional streaming software that lets me mix video, slides, and audio like a pro.  <https://bit.ly/3G7wBl2>
-- **Video Camera** — Any camera with an HDMI output or that can be streamed over your internal network will work. You can spend any where from $50 dollars to 100,000 on this easily. But i would avoid the web cameras when possible. If I had to choose again i would pick some of new Logitech cameras <https://amzn.to/43DwGqE>  
-
+- **Video Camera** — Any camera with an HDMI output or that can be streamed over your internal network will work. You can spend any where from $50 dollars to 100,000 on this easily. But I would avoid the webcams when possible. If I had to choose again I would pick some of new Logitech cameras <https://amzn.to/43DwGqE>
 
 Each Sunday, I set up early, run tests, and hit that “Go Live” button. It’s not just tech — it’s ministry. People who haven’t been to church in years, or couldn’t leave home, started watching. Some reached out to say thank you, and that’s when I realized this was bigger than just streaming — it was about connection, comfort, and community.
 
