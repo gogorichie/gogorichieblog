@@ -16,8 +16,7 @@ From time to time, I see folks confusing the products of [GitHub](https://github
 - **Branching and Merging**: You can create multiple branches to develop new features or fix bugs independently. Later, you can merge these branches into the main project without affecting other branches.
 - **Distributed System**: Git stores copies of the project repository both on a local machine and a remote server. Each user has a full copy of the project history, making collaboration easy, even offline.
 
-Git is entirely a command-line tool, though it has many graphical interfaces. It’s a core part of most modern software development workflows but is not tied to any specific hosting platform. So Gitlab, GitHub,Bitbucket,Azure DevOps, or GitTea all are products designed around version control.
-
+Git is entirely a command-line tool, though it has many graphical interfaces. It’s a core part of most modern software development workflows but is not tied to any specific hosting platform. So Gitlab, GitHub, Bitbucket, Azure DevOps, or GitTea all are products designed around version control.
 If you want to learn more about Git check out this book [Pro Git](https://amzn.to/3RhFwTG).
 
 ## 2. GitHub: Git Repository Hosting Service
