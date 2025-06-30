@@ -3,13 +3,13 @@ title: "How I Automated Meeting Presence for My Family"
 description: "Using Home Assistant, ESPHome, and an ESP32-S3 Matrix to let my family know when I’m in a meeting"
 date: 2025-06-30T08:00:00-05:00
 draft: false
-tags: ["Home Assistant", "Automation", "Docker", "ESP32-S3", "ESPHome", "Work From Home"]
+tags: ["Home Assistant", "Automation", "ESP32-S3", "ESPHome", "Work From Home"]
 ---
 
 <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/esphome+halogo.png" alt="ESPHome + Home Assistant" style="width:50%; display:block; margin:auto;" />
 
 
-Like many folks post-2020, I’ve been working from home a lot more, and with that came the new set of challenges — one of them being how to let my family know when I’m in a meeting without yelling across the house or hanging a note on the door. I decided to solve that problem the way any tech nerd would — with a bit of home automation magic.
+Like many folks post-2020, I’ve been working from home a lot more, and with that came a new set of challenges — one of them being how to let my family know when I’m in a meeting without yelling across the house or hanging a note on the door. I decided to solve that problem the way any tech nerd would — with a bit of home automation magic.
 
 ### The Idea
 
