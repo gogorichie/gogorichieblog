@@ -1,7 +1,7 @@
 ---
 title: "How I Automated Meeting Presence for My Family"
 description: "Using Home Assistant, ESPHome, and an ESP32-S3 Matrix to let my family know when I’m in a meeting"
-date: 2025-06-30T08:00:00-05:00
+date: 2025-07-06T08:00:00-05:00
 draft: false
 tags: ["Home Assistant", "Automation", "ESP32-S3", "ESPHome", "Work From Home"]
 ---
