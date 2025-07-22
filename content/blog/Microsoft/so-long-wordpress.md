@@ -4,14 +4,14 @@ description: "After nearly two decades, I finally ditched WordPress for somethin
 date: 2025-07-22T08:00:00-05:00
 draft: false
 categories: []
-tags: ["Hugo", "WordPress", "Static Sites", "LLM", "Azure", "AppInsights"]
+tags: ["Hugo", "WordPress", "StaticWebApps", "LLM", "Azure", "AppInsights"]
 ---
 
 <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/trashing_wp.png" alt="WordPress" style="width:50%; display:block; margin:auto;" />
 
 Back in college on July 9th, 2002, I registered *gogorichie.com* through GoDaddy. It was a spur-of-the-moment decision, driven by the curiosity of owning my own slice of the internet. Little did I know that domain would become my digital home for decades of blogging, experimentation, and tech journaling.
 
-# A Love Letter to WordPress... With Conditions
+# The Breakup With WordPress
 
 From LiveJournal to Blogspot and eventually to a self-hosted WordPress install in 2011, my blog has lived many lives. WordPress gave me ultimate flexibility. I could mold my blog into anything I wanted thanks to its massive plugin ecosystem. Over the years, I posted nearly 3000 blog entries — trust me, a lot of it was garbage — but it was mine, and I loved that freedom.
 
