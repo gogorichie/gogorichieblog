@@ -73,8 +73,8 @@ enableRobotsTXT = true
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = false # Enable counter for each category in "Categories" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
-  img_src = "https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"
-  img_alt = "Microsoft Certified: DevOps Engineer Expert Badge"
+  img_src = "https://gogorichiesitefiles.blob.core.windows.net/publicfiles/certification_collage.png"
+  img_alt = "Collage of professional certification badges"
 
 
 [Params.widgets.social]
