@@ -1,13 +1,13 @@
 ---
 title: "Why I Left WordPress (And Never Looked Back)"
 description: "After nearly two decades, I finally ditched WordPress for something leaner and more manageable"
-date: 2025-07-03T18:00:00-05:00
+date: 2025-07-22T18:00:00-05:00
 draft: true
 categories: []
 tags: ["Hugo", "WordPress", "Static Sites", "Dev Blogging", "LLM", "Azure", "AppInsights"]
 ---
 
-![html5site.JPG](html5site.JPG)
+<img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/trashing_wp.png" alt="WordPress" style="width:50%; display:block; margin:auto;" />
 
 Back in college on July 9th, 2002, I registered *gogorichie.com* through GoDaddy. It was a spur-of-the-moment decision, driven by the curiosity of owning my own slice of the internet. Little did I know that domain would become my digital home for decades of blogging, experimentation, and tech journaling.
 
@@ -63,4 +63,4 @@ Leaving WordPress felt like saying goodbye to an old friend — one who had beco
 
 I’ve come full circle since that dorm room domain registration in 2002. Back then, I just wanted a place to share my thoughts. Today, I still do — but now, I don’t need a CMS empire to make that happen.
 
-Thanks for the memories, WordPress. I’m finally home.
+Thanks for the memories, WordPress It's time to move on to a less needy content system.
