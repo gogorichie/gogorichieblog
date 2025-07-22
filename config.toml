@@ -74,7 +74,7 @@ enableRobotsTXT = true
   categories_counter = false # Enable counter for each category in "Categories" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
   img_src = "https://gogorichiesitefiles.blob.core.windows.net/publicfiles/certification_collage.png"
-  img_alt = "certification collage"
+  img_alt = "Collage of professional certification badges"
 
 
 [Params.widgets.social]
