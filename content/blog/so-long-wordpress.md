@@ -1,8 +1,8 @@
 ---
 title: "Why I Left WordPress (And Never Looked Back)"
 description: "After nearly two decades, I finally ditched WordPress for something leaner and more manageable"
-date: 2025-07-22T18:00:00-05:00
-draft: true
+date: 2025-07-22T08:00:00-05:00
+draft: false
 categories: []
 tags: ["Hugo", "WordPress", "Static Sites", "Dev Blogging", "LLM", "Azure", "AppInsights"]
 ---
