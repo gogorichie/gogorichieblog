@@ -5,9 +5,12 @@ date: 2025-07-06T08:00:00-05:00
 draft: false
 tags: ["Home Assistant", "Automation", "ESP32-S3", "ESPHome", "Work From Home"]
 ---
+<div style="display: flex; justify-content: center; gap: 2rem;">
+    <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/osf/ESP_Home_logo3.svg" alt="ESPHome logo" style="width: 200px;"/>
+    <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/osf/home-assistant-wordmark-monochrome-on-light.png" alt="Home Assistant logo" style="width: 200px;"/>
+</div>
 
-<img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/esphome+halogo.png" alt="ESPHome + Home Assistant" style="width:50%; display:block; margin:auto;" />
-
+<br/>
 
 Like many folks post-2020, I’ve been working from home a lot more, and with that came a new set of challenges — one of them being how to let my family know when I’m in a meeting without yelling across the house or hanging a note on the door. I decided to solve that problem the way any tech nerd would — with a bit of home automation magic.
 
