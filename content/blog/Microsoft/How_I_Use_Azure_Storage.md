@@ -5,9 +5,9 @@ draft: true
 tags: ["Azure", "Storage", "Backup"]
 ---
 
-I've been using Azure Storage for quite some time now, and it's become an essential part of how I manage my blog images and family files. But before I dive into how I use it, here’s a quick overview of what Azure Storage is.
+I've been using Azure Storage for quite some time now, and it's become an essential part of how I manage my blog images and family files. But before I explain how I use it, here’s a quick overview of what Azure Storage is.
 
-Azure Storage is a cloud-based storage solution from Microsoft, first launched back in 2010 as part of the Azure cloud platform. It offers scalable, durable, and secure storage for a wide variety of data types.
+Azure Storage is a cloud-based storage solution from Microsoft, first launched back in 2010 as part of the Azure cloud platform. It offers scalable, durable, and secure storage for a wide variety of data types. Think of it like a hard drive in the cloud but not tied to a reseller.
 
 ### Hosting Blog Images for Free
 
