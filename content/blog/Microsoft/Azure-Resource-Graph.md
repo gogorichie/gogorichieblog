@@ -10,6 +10,8 @@ In this post, I’ll share two practical Azure Resource Graph queries I’ve use
 
 And if you’re practicing FinOps, ARG can be a powerful ally for understanding resource allocation, identifying unused assets, and making data-driven cost optimization decisions across teams.
 
+|![SARG-Query](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/ARG-Query.png)|
+|:--:|
 
 ## Query 1: Count of Azure Resources by Region
 
