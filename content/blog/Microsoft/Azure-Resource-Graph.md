@@ -1,7 +1,7 @@
 ---
 title: "Exploring Azure Resource Usage and Ownership with Azure Resource Graph"
 date: 2025-07-30
-tags: ["azure", "infrastructure"]
+tags: ["azure", "microsoft"]
 ---
 
 [Azure Resource Graph (ARG)](https://learn.microsoft.com/en-us/azure/governance/resource-graph/overview) is one of those underrated tools in the Azure portal. If you're managing multiple subscriptions or large environments, ARG is a lifesaver when it comes to quickly querying your Azure estate at scale. It's built for performance and provides fast and efficient access to your resource metadata.
@@ -39,4 +39,3 @@ If you're looking to expand your library of Azure Resource Graph examples, these
 - [Azure Resource Graph Community Samples by Wilfried Woivre](https://woivre.com/blog/2020/09/azure-resource-graph-community-samples)
 
 These are great starting points whether you're just getting familiar with Kusto Query Language (KQL) or looking to build out automated inventory and governance tooling.
-
