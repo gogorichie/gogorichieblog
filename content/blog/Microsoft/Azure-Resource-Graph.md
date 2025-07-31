@@ -13,7 +13,7 @@ And if you’re practicing FinOps, ARG can be a powerful ally for understanding 
 |![SARG-Query](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/ARG-Query.png)|
 |:--:|
 
-## Query 1: Count of Azure Resources by Region
+**Query 1: Count of Azure Resources by Region**
 
 This query helps you understand the geographic distribution of your cloud resources:
 
@@ -23,7 +23,7 @@ Resources
 | order by resourceCount desc
 ```
 
-## Query 2: Identify Resources Managed by Terraform
+**Query 2: Identify Resources Managed by Terraform**
 
 When managing infrastructure with Terraform, it's common practice to tag resources for clarity and lifecycle tracking. The following ARG query filters resources that include a specific tag indicating they are managed by Terraform:
 
