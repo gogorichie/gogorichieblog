@@ -1,6 +1,6 @@
 ---
 title: "Exploring Azure Resource Usage and Ownership with Azure Resource Graph"
-date: 2025-07-30
+date: 2025-07-31
 tags: ["azure", "microsoft"]
 ---
 
