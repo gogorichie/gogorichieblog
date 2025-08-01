@@ -29,6 +29,12 @@ Outside of work, Richard is active in the community and volunteers with [Junior 
  <tbody>
   <tr>
    <td>
+            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c8290241-1f13-440a-8081-25625cbceb9b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+            </td>
+   <td>
+            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2353f058-fa79-40bc-a58b-31319e145317" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+            </td>
+   <td>
             <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="01c6ba14-2202-4f0e-a112-b61b649fc89e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </td>
    <td>
@@ -36,12 +42,6 @@ Outside of work, Richard is active in the community and volunteers with [Junior 
             </td>
    <td>
          <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f5f62a89-980d-455f-b43c-87947807fd38" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-            </td>
-   <td>
-            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c8290241-1f13-440a-8081-25625cbceb9b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-            </td>
-   <td>
-            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2353f058-fa79-40bc-a58b-31319e145317" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </td>
   </tr>
  </tbody>
