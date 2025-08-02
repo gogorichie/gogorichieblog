@@ -29,19 +29,19 @@ Outside of work, Richard is active in the community and volunteers with [Junior 
  <tbody>
   <tr>
    <td>
-            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7b9b3760-504b-4a43-b296-e2cb5c3cdfc5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c8290241-1f13-440a-8081-25625cbceb9b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </td>
    <td>
             <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2353f058-fa79-40bc-a58b-31319e145317" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </td>
    <td>
-         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5a1e22e5-7112-460b-8a51-7b3530e5b9e7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="01c6ba14-2202-4f0e-a112-b61b649fc89e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </td>
    <td>
-            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7488b720-2c15-46ea-ba22-a646e9351eaa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="57b981fb-b298-4182-99d2-2cdcad0c3d51" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </td>
    <td>
-            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="24c60269-c7ed-4682-9a26-95160fa89f20" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f5f62a89-980d-455f-b43c-87947807fd38" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </td>
   </tr>
  </tbody>
@@ -49,7 +49,3 @@ Outside of work, Richard is active in the community and volunteers with [Junior 
 {{< /rawhtml >}}
 
 You can find him regularly speaking and attending user groups in the greater Chicagoland area. He loves talking about Observability, Cloud Migration, DevOps Transformation battle stories among many other things.
-
-{{< rawhtml >}}
-I'm also on <a rel="me" href="https://mastodon.world/@gogorichie">Mastodon!</a>
-{{< /rawhtml >}}
