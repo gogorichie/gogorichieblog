@@ -3,7 +3,6 @@ title: "Git vs Azure DevOps vs GitHub: Understanding the Differences"
 date: 2025-04-14
 draft: false
 tags: ["Git", "GitHub", "Azure DevOps", "DevOps", "Version Control"]
-categories: ["Microsoft", "DevOps"]
 ---
 
 From time to time, I see folks confusing the products of [GitHub](https://github.com) and [Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops) with the version control of [Git](https://git-scm.com/) and the practices of [DevOps](https://www.ibm.com/think/topics/devops). In this post, I will break down terms like Git, GitHub, Azure DevOps, and DevOps to help clarify what each one does, their relationship with one another, and how they contribute to the software development lifecycle.
