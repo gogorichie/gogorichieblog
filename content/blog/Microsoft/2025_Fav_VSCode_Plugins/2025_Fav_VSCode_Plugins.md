@@ -2,7 +2,7 @@
 title: "My Favorite VSCode Plugins Of 2025"
 date: 2025-08-24T22:00:56-06:00
 draft: false
-tags: ["vscode", "microsoft"]
+tags: ["vscode","github-copilot","microsoft", "github"]
 ---
 ![Yonce Theme](Yonce.jpg)
 
