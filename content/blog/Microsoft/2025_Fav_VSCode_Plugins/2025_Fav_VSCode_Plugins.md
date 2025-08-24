@@ -1,6 +1,6 @@
 ---
 title: "My Favorite VSCode Plugins Of 2025"
-date: 2025-08-24T22:00:56-06:00
+date: "2025-08-24T08:08:56-06:00"
 draft: false
 tags: ["vscode","github-copilot","microsoft", "github"]
 ---
