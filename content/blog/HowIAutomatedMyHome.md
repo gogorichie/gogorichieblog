@@ -12,4 +12,9 @@ I started automating my home last December. I needed to replace some ceiling lig
 
 In the summer of 2017 I bought a Smartthings hub this gave me the ability to grow beyond the OSRAM products to a wide range of devices.
 
-Bridging everything together
+Bridging everything together. The next thing added was Belkin Wemo switches. these were great as they added the abiltiy to control 
+
+
+What makes up my Automated home landscape
+Samsung smartthings
+S
