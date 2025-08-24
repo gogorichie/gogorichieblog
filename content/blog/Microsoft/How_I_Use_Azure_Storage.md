@@ -35,7 +35,3 @@ Overall, Azure Storage has proven to be a versatile, reliable, and cost-effectiv
 
 If you want to learn more about Azure Storage, Microsoft has plenty of resources to get started:  
 <https://azure.microsoft.com/en-us/services/storage/>
-
----
-
-*Do you use cloud storage for your blog or personal backups? I’d love to hear your setup in the comments!*
