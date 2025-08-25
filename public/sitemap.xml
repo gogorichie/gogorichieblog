@@ -2,32 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gogorichie.com/blog/</loc>
+    <lastmod>2025-08-24T08:08:56-06:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/github/</loc>
+    <lastmod>2025-08-24T08:08:56-06:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/github-copilot/</loc>
+    <lastmod>2025-08-24T08:08:56-06:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/microsoft/</loc>
+    <lastmod>2025-08-24T08:08:56-06:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/microsoft/2025_fav_vscode_plugins/2025_fav_vscode_plugins/</loc>
+    <lastmod>2025-08-24T08:08:56-06:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/</loc>
+    <lastmod>2025-08-24T08:08:56-06:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/</loc>
+    <lastmod>2025-08-24T08:08:56-06:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/vscode/</loc>
+    <lastmod>2025-08-24T08:08:56-06:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/appinsights/</loc>
+    <lastmod>2025-07-22T08:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://www.gogorichie.com/tags/azure/</loc>
-    <lastmod>2023-08-08T08:08:56-06:00</lastmod>
+    <lastmod>2025-07-22T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/hugo/</loc>
+    <lastmod>2025-07-22T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/llm/</loc>
+    <lastmod>2025-07-22T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/staticwebapps/</loc>
+    <lastmod>2025-07-22T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/microsoft/so-long-wordpress/</loc>
+    <lastmod>2025-07-22T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/wordpress/</loc>
+    <lastmod>2025-07-22T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/automation/</loc>
+    <lastmod>2025-07-06T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/esp32-s3/</loc>
+    <lastmod>2025-07-06T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/esphome/</loc>
+    <lastmod>2025-07-06T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/home-assistant/</loc>
+    <lastmod>2025-07-06T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/office-meeting-indicator/</loc>
+    <lastmod>2025-07-06T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/work-from-home/</loc>
+    <lastmod>2025-07-06T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/azure-devops/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/devops/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/git/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/microsoft/gitvsghvsado/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/version-control/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/church/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/covid/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/faith/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/church_live_stream/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/streaming/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/tech/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/conference-talks/</loc>
+    <lastmod>2025-03-03T07:24:08-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/conferences/</loc>
+    <lastmod>2025-03-03T07:24:08-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/devopsdays/</loc>
+    <lastmod>2025-03-03T07:24:08-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/devopsdayschicago2025/</loc>
+    <lastmod>2025-03-03T07:24:08-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/office-meeting-indicator-v2/</loc>
+    <lastmod>2024-12-01T07:24:08-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/home-automation/</loc>
+    <lastmod>2024-04-07T16:27:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/home-network/</loc>
+    <lastmod>2024-04-07T16:27:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/homelab/</loc>
+    <lastmod>2024-04-07T16:27:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/my-2024-network-rack-tour/</loc>
+    <lastmod>2024-04-07T16:27:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/ubiquiti/</loc>
+    <lastmod>2024-04-07T16:27:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/tags/unifi/</loc>
+    <lastmod>2024-04-07T16:27:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/my-2024-unraid-server/</loc>
+    <lastmod>2024-01-21T06:27:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gogorichie.com/blog/microsoft/githubcopilot-enabling/</loc>
+    <lastmod>2023-11-05T06:27:02-05:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/blog/microsoft/azure-stream-analytics-overview/</loc>
     <lastmod>2023-08-08T08:08:56-06:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/blog/</loc>
-    <lastmod>2023-08-08T08:08:56-06:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/devops/</loc>
-    <lastmod>2023-08-08T08:08:56-06:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/microsoft/</loc>
-    <lastmod>2023-08-08T08:08:56-06:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/</loc>
-    <lastmod>2023-08-08T08:08:56-06:00</lastmod>
-  </url><url>
     <loc>https://www.gogorichie.com/tags/stream-analytics/</loc>
     <lastmod>2023-08-08T08:08:56-06:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/</loc>
-    <lastmod>2023-08-08T08:08:56-06:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/home-automation/</loc>
-    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/blog/homeautomationobservability/</loc>
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
@@ -38,22 +152,10 @@
     <loc>https://www.gogorichie.com/blog/recommendeddevopsbooks/</loc>
     <lastmod>2023-05-14T20:36:01-05:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/tags/conference-talks/</loc>
-    <lastmod>2023-04-29T07:24:08-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/conferences/</loc>
-    <lastmod>2023-04-29T07:24:08-05:00</lastmod>
-  </url><url>
     <loc>https://www.gogorichie.com/blog/devopsdaysnashville2023recap/</loc>
     <lastmod>2023-04-29T07:24:08-05:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/tags/devopsdays/</loc>
-    <lastmod>2023-04-29T07:24:08-05:00</lastmod>
-  </url><url>
     <loc>https://www.gogorichie.com/blog/microsoft/azurespringcleaning2023/</loc>
-    <lastmod>2023-03-12T22:00:56-06:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/staticwebapps/</loc>
     <lastmod>2023-03-12T22:00:56-06:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/blog/microsoft/azure-synapse-overview/</loc>
@@ -77,20 +179,8 @@
     <loc>https://www.gogorichie.com/blog/microsoft/thoughts-on-azure-cache-4-redis/</loc>
     <lastmod>2022-08-03T08:46:19-05:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/tags/home-network/</loc>
-    <lastmod>2022-06-26T17:05:31-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/ubiquiti/</loc>
-    <lastmod>2022-06-26T17:05:31-05:00</lastmod>
-  </url><url>
     <loc>https://www.gogorichie.com/blog/ubiquiti-unifi-setup-iteration-four/</loc>
     <lastmod>2022-06-26T17:05:31-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/unifi/</loc>
-    <lastmod>2022-06-26T17:05:31-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/hugo/</loc>
-    <lastmod>2022-06-05T20:21:20-05:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/tags/security/</loc>
     <lastmod>2022-06-05T20:21:20-05:00</lastmod>
@@ -125,9 +215,6 @@
     <loc>https://www.gogorichie.com/blog/microsoft/2019_fav_vscode_plugins/</loc>
     <lastmod>2019-12-29T23:53:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.gogorichie.com/tags/vscode/</loc>
-    <lastmod>2019-12-29T23:53:00+01:00</lastmod>
-  </url><url>
     <loc>https://www.gogorichie.com/blog/the-future-of-tomorrow/</loc>
     <lastmod>2019-10-19T22:49:37-05:00</lastmod>
   </url><url>
@@ -135,9 +222,6 @@
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/blog/archieve/2017-11-01-what-wordpress-plugins-am-i-using/</loc>
-    <lastmod>2017-11-01T16:31:01+00:00</lastmod>
-  </url><url>
-    <loc>https://www.gogorichie.com/tags/wordpress/</loc>
     <lastmod>2017-11-01T16:31:01+00:00</lastmod>
   </url><url>
     <loc>https://www.gogorichie.com/tags/jci/</loc>

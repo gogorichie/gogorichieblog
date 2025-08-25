@@ -4,314 +4,373 @@
     <title>Tags on Richard Lewis</title>
     <link>https://www.gogorichie.com/tags/</link>
     <description>Recent content in Tags on Richard Lewis</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 08 Aug 2023 08:08:56 -0600</lastBuildDate><atom:link href="https://www.gogorichie.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Aug 2025 08:08:56 -0600</lastBuildDate>
+    <atom:link href="https://www.gogorichie.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Azure</title>
-      <link>https://www.gogorichie.com/tags/azure/</link>
-      <pubDate>Tue, 08 Aug 2023 08:08:56 -0600</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/azure/</guid>
+      <title>Github</title>
+      <link>https://www.gogorichie.com/tags/github/</link>
+      <pubDate>Sun, 24 Aug 2025 08:08:56 -0600</pubDate>
+      <guid>https://www.gogorichie.com/tags/github/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>DevOps</title>
-      <link>https://www.gogorichie.com/tags/devops/</link>
-      <pubDate>Tue, 08 Aug 2023 08:08:56 -0600</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/devops/</guid>
+      <title>Github-Copilot</title>
+      <link>https://www.gogorichie.com/tags/github-copilot/</link>
+      <pubDate>Sun, 24 Aug 2025 08:08:56 -0600</pubDate>
+      <guid>https://www.gogorichie.com/tags/github-copilot/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microsoft</title>
       <link>https://www.gogorichie.com/tags/microsoft/</link>
-      <pubDate>Tue, 08 Aug 2023 08:08:56 -0600</pubDate>
-      
+      <pubDate>Sun, 24 Aug 2025 08:08:56 -0600</pubDate>
       <guid>https://www.gogorichie.com/tags/microsoft/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Vscode</title>
+      <link>https://www.gogorichie.com/tags/vscode/</link>
+      <pubDate>Sun, 24 Aug 2025 08:08:56 -0600</pubDate>
+      <guid>https://www.gogorichie.com/tags/vscode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AppInsights</title>
+      <link>https://www.gogorichie.com/tags/appinsights/</link>
+      <pubDate>Tue, 22 Jul 2025 08:00:00 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/appinsights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure</title>
+      <link>https://www.gogorichie.com/tags/azure/</link>
+      <pubDate>Tue, 22 Jul 2025 08:00:00 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/azure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://www.gogorichie.com/tags/hugo/</link>
+      <pubDate>Tue, 22 Jul 2025 08:00:00 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://www.gogorichie.com/tags/llm/</link>
+      <pubDate>Tue, 22 Jul 2025 08:00:00 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>StaticWebApps</title>
+      <link>https://www.gogorichie.com/tags/staticwebapps/</link>
+      <pubDate>Tue, 22 Jul 2025 08:00:00 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/staticwebapps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WordPress</title>
+      <link>https://www.gogorichie.com/tags/wordpress/</link>
+      <pubDate>Tue, 22 Jul 2025 08:00:00 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://www.gogorichie.com/tags/automation/</link>
+      <pubDate>Sun, 06 Jul 2025 08:00:00 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ESP32-S3</title>
+      <link>https://www.gogorichie.com/tags/esp32-s3/</link>
+      <pubDate>Sun, 06 Jul 2025 08:00:00 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/esp32-s3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ESPHome</title>
+      <link>https://www.gogorichie.com/tags/esphome/</link>
+      <pubDate>Sun, 06 Jul 2025 08:00:00 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/esphome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home Assistant</title>
+      <link>https://www.gogorichie.com/tags/home-assistant/</link>
+      <pubDate>Sun, 06 Jul 2025 08:00:00 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/home-assistant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work From Home</title>
+      <link>https://www.gogorichie.com/tags/work-from-home/</link>
+      <pubDate>Sun, 06 Jul 2025 08:00:00 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/work-from-home/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure DevOps</title>
+      <link>https://www.gogorichie.com/tags/azure-devops/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gogorichie.com/tags/azure-devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>https://www.gogorichie.com/tags/devops/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gogorichie.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://www.gogorichie.com/tags/git/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gogorichie.com/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Version Control</title>
+      <link>https://www.gogorichie.com/tags/version-control/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gogorichie.com/tags/version-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Church</title>
+      <link>https://www.gogorichie.com/tags/church/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gogorichie.com/tags/church/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Covid</title>
+      <link>https://www.gogorichie.com/tags/covid/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gogorichie.com/tags/covid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Faith</title>
+      <link>https://www.gogorichie.com/tags/faith/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gogorichie.com/tags/faith/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Streaming</title>
+      <link>https://www.gogorichie.com/tags/streaming/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gogorichie.com/tags/streaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://www.gogorichie.com/tags/tech/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gogorichie.com/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conference-Talks</title>
+      <link>https://www.gogorichie.com/tags/conference-talks/</link>
+      <pubDate>Mon, 03 Mar 2025 07:24:08 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/conference-talks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conferences</title>
+      <link>https://www.gogorichie.com/tags/conferences/</link>
+      <pubDate>Mon, 03 Mar 2025 07:24:08 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/conferences/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOpsDays</title>
+      <link>https://www.gogorichie.com/tags/devopsdays/</link>
+      <pubDate>Mon, 03 Mar 2025 07:24:08 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/devopsdays/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home Automation</title>
+      <link>https://www.gogorichie.com/tags/home-automation/</link>
+      <pubDate>Sun, 07 Apr 2024 16:27:02 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/home-automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home Network</title>
+      <link>https://www.gogorichie.com/tags/home-network/</link>
+      <pubDate>Sun, 07 Apr 2024 16:27:02 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/home-network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homelab</title>
+      <link>https://www.gogorichie.com/tags/homelab/</link>
+      <pubDate>Sun, 07 Apr 2024 16:27:02 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/homelab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubiquiti</title>
+      <link>https://www.gogorichie.com/tags/ubiquiti/</link>
+      <pubDate>Sun, 07 Apr 2024 16:27:02 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/ubiquiti/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unifi</title>
+      <link>https://www.gogorichie.com/tags/unifi/</link>
+      <pubDate>Sun, 07 Apr 2024 16:27:02 -0500</pubDate>
+      <guid>https://www.gogorichie.com/tags/unifi/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Stream Analytics</title>
       <link>https://www.gogorichie.com/tags/stream-analytics/</link>
       <pubDate>Tue, 08 Aug 2023 08:08:56 -0600</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/stream-analytics/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Home Automation</title>
-      <link>https://www.gogorichie.com/tags/home-automation/</link>
-      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/home-automation/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Books</title>
       <link>https://www.gogorichie.com/tags/books/</link>
       <pubDate>Sun, 14 May 2023 20:36:01 -0500</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/books/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Conference-Talks</title>
-      <link>https://www.gogorichie.com/tags/conference-talks/</link>
-      <pubDate>Sat, 29 Apr 2023 07:24:08 -0500</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/conference-talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conferences</title>
-      <link>https://www.gogorichie.com/tags/conferences/</link>
-      <pubDate>Sat, 29 Apr 2023 07:24:08 -0500</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/conferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DevOpsDays</title>
-      <link>https://www.gogorichie.com/tags/devopsdays/</link>
-      <pubDate>Sat, 29 Apr 2023 07:24:08 -0500</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/devopsdays/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>StaticWebApps</title>
-      <link>https://www.gogorichie.com/tags/staticwebapps/</link>
-      <pubDate>Sun, 12 Mar 2023 22:00:56 -0600</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/staticwebapps/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Synapse</title>
       <link>https://www.gogorichie.com/tags/synapse/</link>
       <pubDate>Thu, 15 Dec 2022 08:46:19 -0500</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/synapse/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Work</title>
       <link>https://www.gogorichie.com/tags/work/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/work/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Home Network</title>
-      <link>https://www.gogorichie.com/tags/home-network/</link>
-      <pubDate>Sun, 26 Jun 2022 17:05:31 -0500</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/home-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ubiquiti</title>
-      <link>https://www.gogorichie.com/tags/ubiquiti/</link>
-      <pubDate>Sun, 26 Jun 2022 17:05:31 -0500</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/ubiquiti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unifi</title>
-      <link>https://www.gogorichie.com/tags/unifi/</link>
-      <pubDate>Sun, 26 Jun 2022 17:05:31 -0500</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/unifi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://www.gogorichie.com/tags/hugo/</link>
-      <pubDate>Sun, 05 Jun 2022 20:21:20 -0500</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Security</title>
       <link>https://www.gogorichie.com/tags/security/</link>
       <pubDate>Sun, 05 Jun 2022 20:21:20 -0500</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/security/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Podcast</title>
       <link>https://www.gogorichie.com/tags/podcast/</link>
       <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/podcast/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>vscode</title>
-      <link>https://www.gogorichie.com/tags/vscode/</link>
-      <pubDate>Sun, 29 Dec 2019 23:53:00 +0100</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/vscode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wordpress</title>
-      <link>https://www.gogorichie.com/tags/wordpress/</link>
-      <pubDate>Wed, 01 Nov 2017 16:31:01 +0000</pubDate>
-      
-      <guid>https://www.gogorichie.com/tags/wordpress/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>JCI</title>
       <link>https://www.gogorichie.com/tags/jci/</link>
       <pubDate>Tue, 17 Oct 2017 15:43:51 -0500</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/jci/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Salesforce</title>
       <link>https://www.gogorichie.com/tags/salesforce/</link>
       <pubDate>Mon, 27 Oct 2014 07:38:07 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/salesforce/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Blog</title>
       <link>https://www.gogorichie.com/tags/blog/</link>
       <pubDate>Wed, 20 Aug 2014 18:56:55 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/blog/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PASS</title>
       <link>https://www.gogorichie.com/tags/pass/</link>
       <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/pass/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL</title>
       <link>https://www.gogorichie.com/tags/sql/</link>
       <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/sql/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sqlfamily</title>
+      <title>Sqlfamily</title>
       <link>https://www.gogorichie.com/tags/sqlfamily/</link>
       <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/sqlfamily/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>T-SQL Tuesday</title>
       <link>https://www.gogorichie.com/tags/t-sql-tuesday/</link>
       <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/t-sql-tuesday/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kapow</title>
       <link>https://www.gogorichie.com/tags/kapow/</link>
       <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/kapow/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>RPA</title>
       <link>https://www.gogorichie.com/tags/rpa/</link>
       <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/rpa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Windows Home Server</title>
       <link>https://www.gogorichie.com/tags/windows-home-server/</link>
       <pubDate>Tue, 20 Nov 2012 13:51:50 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/windows-home-server/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SSIS</title>
       <link>https://www.gogorichie.com/tags/ssis/</link>
       <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/ssis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Joomla</title>
       <link>https://www.gogorichie.com/tags/joomla/</link>
       <pubDate>Fri, 12 Feb 2010 10:00:00 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/joomla/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>twitter</title>
+      <title>Twitter</title>
       <link>https://www.gogorichie.com/tags/twitter/</link>
       <pubDate>Fri, 08 May 2009 12:11:56 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/twitter/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Livejournal</title>
       <link>https://www.gogorichie.com/tags/livejournal/</link>
       <pubDate>Sat, 11 Apr 2009 14:15:31 +0000</pubDate>
-      
       <guid>https://www.gogorichie.com/tags/livejournal/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
