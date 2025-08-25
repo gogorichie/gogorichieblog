@@ -4,15 +4,11 @@ title = "Richard Lewis"
 theme = "mainroad"
 disqusShortname = ""
 enableRobotsTXT = true
+authorbox = false
 
 
 [pagination]
   pagerSize = 6 # Number of posts per page
-
-[params.author]
-  name = "Richard Lewis"
-  avatar = "img/profile.png"
-  bio = "I'm a DevOps Consulting Manager focused on the Microsoft Azure platform. Been hacking hardware and code since '95. Set my 1st PC on fire at 8 got my A+ Cert at 15. Some days of the week i'm a Dev, BA, DBA, SysAdmin, TV Producer, Community Organizer & Motivational Speaker."
 
 [Params]
   description = "Richard's Personal blog about everything" # Site description. Used in meta description
