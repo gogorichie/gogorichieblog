@@ -5,6 +5,11 @@ theme = "mainroad"
 disqusShortname = ""
 enableRobotsTXT = true
 
+[services]
+  [services.googleAnalytics]
+    id = "G-P8LY2Y6KSV"
+
+
 [pagination]
   pagerSize = 6 # Number of posts per page
 
