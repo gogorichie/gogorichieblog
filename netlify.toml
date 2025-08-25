@@ -23,7 +23,7 @@
 	[plugins.inputs]
 
 	# The base url of your site (optional, default: main URL set in Netlify)
-	baseUrl = "https://gogorichie.com"
+	baseUrl = "https://www.gogorichie.com"
 
 	# Path to the feed URL (optional, default: /feed.xml)
 	feedPath = "/blog/index.xml"
