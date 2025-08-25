@@ -13,14 +13,7 @@
       <link>https://www.gogorichie.com/blog/microsoft/2025_fav_vscode_plugins/2025_fav_vscode_plugins/</link>
       <pubDate>Sun, 24 Aug 2025 08:08:56 -0600</pubDate>
       <guid>https://www.gogorichie.com/blog/microsoft/2025_fav_vscode_plugins/2025_fav_vscode_plugins/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;Yonce.jpg&#34; alt=&#34;Yonce Theme&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Back in 2019 I wrote a post about my favorite &lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;VS Code&lt;/a&gt; plugins and here we are in 2025 and I’m still using it every single day. At this point VS Code has become my main IDE for both work and home projects. I still run Visual Studio from time to time, but VS Code has really become the Swiss Army knife for just about everything i run it for work task and home side projects and if i&amp;rsquo;m traveling i run it on my iPad via &lt;a href=&#34;https://vscode.dev/&#34;&gt;vscode.dev&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How I Use Azure Storage for My Blog Images and Family Backup</title>
-      <link>https://www.gogorichie.com/blog/microsoft/how_i_use_azure_storage/</link>
-      <pubDate>Thu, 14 Aug 2025 10:19:29 -0500</pubDate>
-      <guid>https://www.gogorichie.com/blog/microsoft/how_i_use_azure_storage/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been using Azure Storage for quite some time now, and it&amp;rsquo;s become an essential part of how I manage my blog images and family files. But before I explain how I use it, here’s a quick overview of what Azure Storage is.&lt;/p&gt;&#xA;&lt;p&gt;Azure Storage is a cloud-based storage solution from Microsoft, first launched back in 2010 as part of the Azure cloud platform. It offers scalable, durable, and secure storage for a wide variety of data types. Think of it like a hard drive in the cloud but not tied to a reseller.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://gogorichiesitefiles.blob.core.windows.net/publicfiles/Yonce.jpg&#34; alt=&#34;Yonce Theme&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Back in 2019 I wrote a post about my favorite &lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;VS Code&lt;/a&gt; plugins and here we are in 2025 and I’m still using it every single day. At this point VS Code has become my main IDE for both work and home projects. I still run Visual Studio from time to time, but VS Code has really become the Swiss Army knife for just about everything i run it for work task and home side projects and if i&amp;rsquo;m traveling i run it on my iPad via &lt;a href=&#34;https://vscode.dev/&#34;&gt;vscode.dev&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why I Left WordPress (And Never Looked Back)</title>
@@ -154,13 +147,6 @@
       <pubDate>Wed, 03 Aug 2022 08:46:19 -0500</pubDate>
       <guid>https://www.gogorichie.com/blog/microsoft/thoughts-on-azure-cache-4-redis/</guid>
       <description>&lt;p&gt;Recently I took some time to revisit Azure Cache for Redis I got first introduced to the service in 2018 and a lot has changed since then. I won’t go into detail about &lt;a href=&#34;https://redis.io/docs/about/&#34;&gt;Redis&lt;/a&gt; and what it is or What is &lt;a href=&#34;https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-caching/#overview&#34;&gt;caching&lt;/a&gt;. But instead, I want to share my thoughts on using it on the Azure platform.&lt;/p&gt;&#xA;&lt;p&gt;A particular use benefit of using Azure Cache for Redis instead of the self-hosting version for data cache needs is it will allow a business to bring the frequently called data to the cloud so that the data can be called faster with higher availability. This is perfect for situations where you have a frequently queried data source stored within a private network with high latency and an even higher constraint on memory usage from on-prem servers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How I Automate My Home</title>
-      <link>https://www.gogorichie.com/blog/howiautomatedmyhome/</link>
-      <pubDate>Mon, 11 Jul 2022 16:50:56 -0600</pubDate>
-      <guid>https://www.gogorichie.com/blog/howiautomatedmyhome/</guid>
-      <description>&lt;p&gt;I started automating my home last December. I needed to replace some ceiling lights and found the OSRAM lightify pretty cheap so I bought two. Since in that room I only have a floor light I picked up a third bulb and the OSRAM lightify hub too. I tied them all together with my Amazon Echo and I was off and rolling. Added in a couple of Wemo devices which I tied into the Echo as well.  Fast forward to six months later  I&amp;rsquo;m at 7 lights, 1 wall switch, and 1 outlet switch.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ubiquiti Unifi Setup Iteration Four</title>
