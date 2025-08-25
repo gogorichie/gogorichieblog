@@ -6,8 +6,8 @@ draft: false
 tags: ["Home Assistant", "Automation", "ESP32-S3", "ESPHome", "Work From Home"]
 ---
 <div style="display: flex; justify-content: center; gap: 2rem;">
-    <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/osf/ESP_Home_logo3.svg" alt="ESPHome" style="width: 200px;"/>
-    <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/osf/home-assistant-wordmark-monochrome-on-light.png" alt="Home Assistant" style="width: 200px;"/>
+    <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/osf/ESP_Home_logo3.svg" alt="ESPHome logo" style="width: 200px;"/>
+    <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/osf/home-assistant-wordmark-monochrome-on-light.png" alt="Home Assistant logo" style="width: 200px;"/>
 </div>
 
 <br/>
