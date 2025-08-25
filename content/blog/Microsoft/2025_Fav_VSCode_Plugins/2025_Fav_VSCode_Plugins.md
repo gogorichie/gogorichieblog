@@ -4,7 +4,7 @@ date: "2025-08-24T08:08:56-06:00"
 draft: false
 tags: ["vscode","github-copilot","microsoft", "github"]
 ---
-![Yonce Theme](Yonce.jpg)
+![Yonce Theme](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/Yonce.jpg)
 
 Back in 2019 I wrote a post about my favorite [VS Code](https://code.visualstudio.com/) plugins and here we are in 2025 and I’m still using it every single day. At this point VS Code has become my main IDE for both work and home projects. I still run Visual Studio from time to time, but VS Code has really become the Swiss Army knife for just about everything i run it for work task and home side projects and if i'm traveling i run it on my iPad via [vscode.dev](https://vscode.dev/).  
 
