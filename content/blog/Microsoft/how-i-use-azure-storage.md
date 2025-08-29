@@ -1,6 +1,6 @@
 ---
 title: "How I Use Azure Storage for My Blog Images and Family Backup"
-date: 2025-08-29T10:19:29-05:00
+date: 2025-08-29T00:19:29-05:00
 draft: true
 tags: ["Azure", "Storage", "Backup"]
 ---
