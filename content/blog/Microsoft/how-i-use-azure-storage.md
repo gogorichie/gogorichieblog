@@ -1,6 +1,7 @@
 ---
 title: "How I Use Azure Storage for My Blog Images and Family Backup"
-date: 2025-08-14T10:19:29-05:00
+description: ""
+date: "2025-08-30T08:08:56-06:00"
 draft: true
 tags: ["Azure", "Storage", "Backup"]
 ---
@@ -35,7 +36,3 @@ Overall, Azure Storage has proven to be a versatile, reliable, and cost-effectiv
 
 If you want to learn more about Azure Storage, Microsoft has plenty of resources to get started:  
 <https://azure.microsoft.com/en-us/services/storage/>
-
----
-
-*Do you use cloud storage for your blog or personal backups? I’d love to hear your setup in the comments!*
