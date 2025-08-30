@@ -32,4 +32,4 @@ Another topic of discussion that I found interesting was the way of Docker and o
 
 Overall, the 2023 DevOps Days Nashville conference was a fantastic experience, and I look forward to attending more DevOps Days conferences in the future.
 
-{{< tweet user="gogorichie" id="1644382589510090759" >}}
+{{< x user="gogorichie" id="1644382589510090759" >}}

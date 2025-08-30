@@ -25,7 +25,9 @@ To set it up:
 
 The real power of this setup lies in the light configuration section of the YAML file, particularly around line 78. Using FastLED within ESPHome, you can unlock a variety of lighting effects and fine-tune the device's behavior to suit your needs.
 
-{{< gist gogorichie 45c86c6faa31b1411e475bae184d88fa >}}
+{{< rawhtml >}}
+<script src="https://gist.github.com/gogorichie/45c86c6faa31b1411e475bae184d88fa.js"></script>
+{{< /rawhtml >}}
 
 - **platform:** fastled_clockless: Specifies the FastLED library for controlling the LED matrix.
 - **chipset: WS2812B:** Indicates the type of LED chips used in the matrix.

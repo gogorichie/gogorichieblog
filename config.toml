@@ -9,7 +9,7 @@ enableRobotsTXT = true
 [pagination]
   pagerSize = 6 # Number of posts per page
 
-[Author] # Used in authorbox
+[Params.author] # Used in authorbox
   name = "Richard Lewis"
   bio = "I'm a DevOps Consulting Manager focused on the Microsoft Azure platform. Been hacking hardware and code since '95. Set my 1st PC on fire at 8 got my A+ Cert at 15. Some days of the week i'm a Dev, BA, DBA, SysAdmin, TV Producer, Community Organizer & Motivational Speaker."
   avatar = "img/profile.png"

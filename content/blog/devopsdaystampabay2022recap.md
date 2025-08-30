@@ -24,5 +24,5 @@ As I've previously stated, each DevOps Days conference is organized independentl
 - [SARIF SAST Scans Tab](https://marketplace.visualstudio.com/items?itemName=sariftools.scans)
 - [ADO Security Scanner](https://marketplace.visualstudio.com/items?itemName=azsdktm.ADOSecurityScanner)
 
-{{< tweet user="devopsdaystb" id="1583487884740288512" >}}
+{{< x user="devopsdaystb" id="1583487884740288512" >}}
 I'm a Meme ha!
