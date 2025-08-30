@@ -3,7 +3,7 @@ languageCode = "en-US"
 title = "Richard Lewis"
 theme = "mainroad"
 disqusShortname = ""
-googleAnalytics = "G-P8LY2Y6KSV"
+googleAnalytics = ""
 enableRobotsTXT = true
 
 [pagination]
