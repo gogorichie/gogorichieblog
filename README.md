@@ -67,7 +67,7 @@ The site is automatically deployed when changes are pushed to the `main` branch:
 - **CI/CD**: GitHub Actions
 - **Content**: Markdown files
 
-## �📜 License
+## 📜 License
 
 This project is licensed under the Creative Commons Zero (CC0) license - see the [LICENSE](LICENSE) file for details.
 
