@@ -6,6 +6,7 @@ disqusShortname = ""
 googleAnalytics = ""
 enableRobotsTXT = true
 
+
 [pagination]
   pagerSize = 6 # Number of posts per page
 
@@ -21,7 +22,7 @@ enableRobotsTXT = true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
   readmore = true # Show "Read more" button in list if true
-  authorbox = true # Show authorbox at bottom of pages if true
+  authorbox = false # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
@@ -33,6 +34,7 @@ enableRobotsTXT = true
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
   customCSS = ["css/custom.css"] # Include custom CSS files
   customJS = ["js/custom.js"] # Include custom JS files
+  
 
 [markup]
   [markup.goldmark]

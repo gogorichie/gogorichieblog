@@ -6,6 +6,10 @@
     <description>Recent content in Categories on Richard Lewis</description>
     <generator>Hugo</generator>
     <language>en-US</language>
+<<<<<<< HEAD
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <atom:link href="https://www.gogorichie.com/categories/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> de9f006371ff75b9f7c0fcc1b378d8f2b3210c8c
   </channel>
 </rss>

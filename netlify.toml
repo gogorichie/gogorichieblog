@@ -16,10 +16,10 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
     Strict-Transport-Security = "max-age=2592000"
     Feature-Policy = "vibrate 'none'; geolocation 'none'; midi 'none'; notifications 'none'; push 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'none'; vibrate 'none'; fullscreen 'none'; payment 'none'"
-    
+
 [[plugins]]
   package = "netlify-plugin-webmentions"
-  
+
 	[plugins.inputs]
 
 	# The base url of your site (optional, default: main URL set in Netlify)
@@ -29,4 +29,4 @@
 	feedPath = "/blog/index.xml"
 
 	# Maximum number of feed entries to check for mentions (optional, default: 1)
-	limit = 1    
+	limit = 1
