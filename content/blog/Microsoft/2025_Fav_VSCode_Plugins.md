@@ -32,4 +32,4 @@ So here’s my 2025 list of extensions I’m using day-to-day:
 
 1. [Hugo Language and Syntax Support](https://marketplace.visualstudio.com/items?itemName=budparr.language-hugo-vscode) – Given that my blog runs on Hugo, this one is essential. Syntax highlighting for shortcodes and front matter makes editing so much easier.  
 
-That’s my current lineup. It’s funny comparing this to my [2019 list](/blog/my-favorite-vscode-plugins-of-2019/) has some overlap, but overall it’s a completely different set of tools now. Goes to show how much both my workflow and the ecosystem have evolved in just a few years.
+That’s my current lineup. It’s funny comparing this to my [2019 list](/blog/microsoft/2019_fav_vscode_plugins) has some overlap, but overall it’s a completely different set of tools now. Goes to show how much both my workflow and the ecosystem have evolved in just a few years.
