@@ -20,7 +20,7 @@ Having the images hosted separately also makes it easy to manage and update cont
 
 Beyond the blog, Azure Storage plays a critical role in my family's backup strategy. We have about 4 TB of important family photos, videos, and files — memories and documents we want to protect long-term.
 
-I use Azure’s **cool** and **cold** storage tiers to keep costs low. By storing most of our data in the cold storage SKU, I pay a fraction of what Dropbox or Google Drive would charge for the same amount of storage. The trade-off is that cold storage is optimized for data that is accessed infrequently, which fits perfect with family backups.
+I use Azure’s **cool** and **cold** storage tiers to keep costs low. By storing most of our data in the cold storage SKU, I pay a fraction of what Dropbox or Google Drive would charge for the same amount of storage. The trade-off is that cold storage is optimized for data that is accessed infrequently, which fits perfectly with family backups.
 
 To add resilience, this Azure storage is part of a **3-2-1 backup strategy**:
 
