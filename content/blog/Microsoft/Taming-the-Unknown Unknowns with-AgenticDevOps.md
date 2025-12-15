@@ -1,5 +1,5 @@
 ---
-title: “Taming the Unknown Unknowns with Agentic DevOps”
+title: "Taming the Unknown Unknowns with Agentic DevOps"
 date: "2025-12-11T08:00:00-06:00"
 draft: false
 tags: [“DevOps”, “AI”, “Agentic DevOps”, “GitHub Copilot”, “MCP”]
