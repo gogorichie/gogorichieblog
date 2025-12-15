@@ -1,8 +1,9 @@
+---
 title: “Taming the Unknown Unknowns with Agentic DevOps”
-date: 2025-12-11T08:00:00-06:00
+date: "2025-12-11T08:00:00-06:00"
 draft: false
 tags: [“DevOps”, “AI”, “Agentic DevOps”, “GitHub Copilot”, “MCP”]
-categories: [“DevOps”]
+---
 
 “There are known knowns… there are known unknowns… but there are also unknown unknowns — the ones we don’t know we don’t know.”
 — Donald Rumsfeld
