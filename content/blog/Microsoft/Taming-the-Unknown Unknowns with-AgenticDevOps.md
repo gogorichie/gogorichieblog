@@ -5,7 +5,7 @@ draft: false
 tags: [“DevOps”, “AI”, “Agentic DevOps”, “GitHub Copilot”, “MCP”]
 ---
 
-“There are known knowns… there are known unknowns… but there are also unknown unknowns — the ones we don’t know we don’t know.”
+“There are known knowns... there are known unknowns... but there are also unknown unknowns — the ones we don’t know we don’t know.”
 — Donald Rumsfeld
 
 Rumsfeld definitely wasn’t talking about AI coding assistants when he said that, but the quote fits this moment in software development a little too well.
