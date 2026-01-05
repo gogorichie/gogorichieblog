@@ -9,7 +9,7 @@ tags: [“DevOps”, “AI”, “Agentic DevOps”, “GitHub Copilot”, “MC
   <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/Classroom-rules-for-robot-students.png"
        alt="Teaching Agents The Rules"
        style="width:50%; height:auto;">
-</div>
+</div><br><br>
 
 
 I remember this qoute from Donald Rumsfeld who was once the Secretary of defense and it goes ***“There are known knowns... there are known unknowns... but there are also unknown unknowns — the ones we don’t know we don’t know.”***
@@ -73,7 +73,7 @@ Some examples:
 
 The value isn’t just in catching issues; it’s in surfacing risks early, while it’s still cheap to fix them.
 
-Role Specialization: Agents Like Real Team Members
+**Role Specialization: Agents Like Real Team Members**
 
 Just like on a real DevOps team, you don’t ask one person to be the performance engineer, security architect, product owner, and DBA all at once (at least, you shouldn’t).
 
@@ -89,7 +89,7 @@ That specialization lets you encode your organizational knowledge directly into 
 
 Over time, your agents become a living expression of “how we build and run software here.”
 
-Bringing It Back to the Unknown Unknowns
+**Bringing It Back to the Unknown Unknowns**
 
 So how does all this help with the Rumsfeld problem?
 
@@ -99,11 +99,7 @@ You still won’t catch everything. That’s just reality. But with agentic DevO
 - You codify your standards once and reuse them across teams via agents instead of hoping everyone reads the same wiki page.
 
 GitHub Copilot (and others) are great at helping you move faster. Custom agents help you move safer. Here is a link to some of the custom [agents](https://github.com/Gogorichielab/.github/tree/main/agents) I've built and I'm currently using within my side projects. The combination of agents is where things get interesting.
+<br>
+<br>
 
-
-
-This is still an emerging space, and I fully expect my definition of “Agentic DevOps” to evolve over time. But if you’re already using AI coding assistants today, the next natural question is:
-
-“How do I give this thing a real job on my team?”
-
-That’s where custom, specialized, human-in-the-loop agents start to shine.
+This is still an emerging space, and I fully expect my definition of “Agentic DevOps” to evolve over time. But if you’re already using AI coding assistants today, the next natural question is *“How do I give this thing a real job on my team?”* That’s where custom, specialized, human-in-the-loop agents start to shine.
