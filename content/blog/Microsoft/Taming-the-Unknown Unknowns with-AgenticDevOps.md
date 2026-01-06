@@ -2,7 +2,12 @@
 title: "Taming the Unknown Unknowns with Agentic DevOps"
 date: "2026-01-05T08:00:00-06:00"
 draft: false
-tags: [“DevOps”, “AI”, “Agentic DevOps”, “GitHub Copilot”, “MCP”]
+tags:
+  - "Github"
+  - "Github-Copilot"
+  - "DevOps"
+  - "MCP"
+  - "AI"
 ---
 
 <div style="display:flex; justify-content:center;">
