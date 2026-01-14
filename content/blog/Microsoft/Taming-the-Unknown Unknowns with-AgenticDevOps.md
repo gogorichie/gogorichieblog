@@ -7,7 +7,7 @@ tags:
   - "DevOps"
   - "GitHub Copilot"
   - "MCP"
-  - "Github"
+  - "GitHub"
   - "Agentic DevOps"
 ---
 
