@@ -10,7 +10,7 @@
     {{ range $projectPages }}
     <li>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      <span>({{ .Date.Format "2006-01-02" }})</span>
+      <span>({{ .Date.Format "01-02-2006" }})</span>
     </li>
     {{ end }}
   </ul>
