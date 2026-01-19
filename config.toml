@@ -115,3 +115,9 @@ enableRobotsTXT = true
   identifier = "Talks"
   weight = 3
   url = "https://sessionize.com/gogorichie/"
+
+[[menu.main]]
+  name = "Projects"
+  identifier = "Projects"
+  weight = 4
+  url = "/projects/"

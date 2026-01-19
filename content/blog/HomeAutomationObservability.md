@@ -2,7 +2,7 @@
 title: "Home Automation Observability With Terraform and Grafana"
 date: 2023-06-02
 draft: false
-tags: ["Home Automation", "DevOps"]
+tags: ["Home Automation", "DevOps", "Project"]
 ---
 
 ![Image](https://gogorichiesitefiles.blob.core.windows.net/publicfiles/tgi-image.jpg)

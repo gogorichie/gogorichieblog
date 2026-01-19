@@ -3,12 +3,14 @@ title: "Taming the Unknown Unknowns with Agentic DevOps"
 date: "2026-01-05T08:00:00-06:00"
 draft: false
 tags:
-  - "Github"
-  - "Github-Copilot"
-  - "DevOps"
-  - "MCP"
   - "AI"
+  - "DevOps"
+  - "GitHub Copilot"
+  - "MCP"
+  - "GitHub"
+  - "Agentic DevOps"
 ---
+
 
 <div style="display:flex; justify-content:center;">
   <img src="https://gogorichiesitefiles.blob.core.windows.net/publicfiles/Classroom-rules-for-robot-students.png"
