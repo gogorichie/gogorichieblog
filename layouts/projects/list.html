@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main class="main list" role="main">
+  <header class="main__header">
+    <h1 class="main__title">Side Projects</h1>
+  </header>
+  <div class="content main__content clearfix">{{ .Content }}</div>
+  {{ $projectPages := where .Site.RegularPages "Params.tags" "intersect" (slice
+  "Project") }} {{ if gt (len $projectPages) 0 }}
+  <ul>
+    {{ range $projectPages }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <span>({{ .Date.Format "01-02-2006" }})</span>
+    </li>
+    {{ end }}
+  </ul>
+  {{ else }}
+  <p>No project posts found.</p>
+  {{ end }}
+</main>
+{{ end }}
