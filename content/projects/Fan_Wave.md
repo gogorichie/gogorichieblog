@@ -21,5 +21,6 @@ Rules were simple put code in a public github repo and submitted before December
 - The DevOps Agent
 - The Documentation Agent
 - The Test and QA Agent
+
 ## Being Decriptive
 The are of story telling is so import when comes to working with Agents.
