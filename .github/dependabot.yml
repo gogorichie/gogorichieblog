@@ -1,27 +1,86 @@
+# Dependabot configuration
+#
+# Cadence:  one batched run per month at 03:00 America/Los_Angeles.
+# Grouping: every ecosystem below feeds the same `multi-ecosystem-group`, so a
+#           run produces ONE pull request covering Go modules, workflow actions
+#           and the theme submodule together.
+# Security: Dependabot security updates are NOT bound by this schedule, by the
+#           grouping, or by the cooldown below. They open on their own as soon
+#           as an advisory lands and ignore `open-pull-requests-limit`. Slow
+#           cadence for routine bumps, fast lane for vulnerabilities.
+#
+# Guidance:
+#   https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/
+#   https://github.blog/security/application-security/cutting-through-the-noise-how-to-prioritize-dependabot-alerts/
+#   https://docs.github.com/en/code-security/dependabot/working-with-dependabot/configuring-multi-ecosystem-updates
+
 version: 2
+
+# One consolidated pull request across every ecosystem listed under `updates`.
+multi-ecosystem-groups:
+  all-dependencies:
+    schedule:
+      interval: "monthly"
+      day: "sunday"
+      time: "03:00"
+      timezone: "America/Los_Angeles"
+    labels:
+      - "dependencies"
+    # Set here, not per ecosystem: Dependabot rejects `commit-message`
+    # on updates that belong to a multi-ecosystem group.
+    commit-message:
+      prefix: "chore"
+      include: "scope"
+
 updates:
+  # Hugo modules / Go dependencies.
   - package-ecosystem: "gomod"
     directory: "/"
+    patterns:
+      - "*"
+    multi-ecosystem-group: "all-dependencies"
     schedule:
-      interval: "weekly"
-      time: "06:00"
-      timezone: "America/Chicago"
-    open-pull-requests-limit: 5
+      interval: "monthly"
+      day: "sunday"
+      time: "03:00"
+      timezone: "America/Los_Angeles"
+    # Let a release sit for a week before adopting it, so the community has a
+    # chance to surface bad publishes. Never applied to security updates.
+    cooldown:
+      default-days: 7
     labels:
       - "dependencies"
       - "go"
-    commit-message:
-      prefix: "chore(deps)"
 
+  # Workflow actions used by .github/workflows.
   - package-ecosystem: "github-actions"
     directory: "/"
+    patterns:
+      - "*"
+    multi-ecosystem-group: "all-dependencies"
     schedule:
-      interval: "weekly"
-      time: "06:00"
-      timezone: "America/Chicago"
-    open-pull-requests-limit: 5
+      interval: "monthly"
+      day: "sunday"
+      time: "03:00"
+      timezone: "America/Los_Angeles"
+    cooldown:
+      default-days: 7
     labels:
       - "dependencies"
       - "github-actions"
-    commit-message:
-      prefix: "chore(deps)"
+
+  # themes/mainroad, pinned in .gitmodules.
+  - package-ecosystem: "gitsubmodule"
+    directory: "/"
+    patterns:
+      - "*"
+    multi-ecosystem-group: "all-dependencies"
+    schedule:
+      interval: "monthly"
+      day: "sunday"
+      time: "03:00"
+      timezone: "America/Los_Angeles"
+    cooldown:
+      default-days: 7
+    labels:
+      - "dependencies"
