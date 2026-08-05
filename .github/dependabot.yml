@@ -26,6 +26,11 @@ multi-ecosystem-groups:
       timezone: "America/Los_Angeles"
     labels:
       - "dependencies"
+    # Set here, not per ecosystem: Dependabot rejects `commit-message`
+    # on updates that belong to a multi-ecosystem group.
+    commit-message:
+      prefix: "chore"
+      include: "scope"
 
 updates:
   # Hugo modules / Go dependencies.
@@ -46,9 +51,6 @@ updates:
     labels:
       - "dependencies"
       - "go"
-    commit-message:
-      prefix: "chore"
-      include: "scope"
 
   # Workflow actions used by .github/workflows.
   - package-ecosystem: "github-actions"
@@ -66,9 +68,6 @@ updates:
     labels:
       - "dependencies"
       - "github-actions"
-    commit-message:
-      prefix: "chore"
-      include: "scope"
 
   # themes/mainroad, pinned in .gitmodules.
   - package-ecosystem: "gitsubmodule"
@@ -85,6 +84,3 @@ updates:
       default-days: 7
     labels:
       - "dependencies"
-    commit-message:
-      prefix: "chore"
-      include: "scope"
