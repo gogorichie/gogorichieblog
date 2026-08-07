@@ -15,6 +15,9 @@ conversational, and grounded in real experience.
 - Use clear headings, short paragraphs, and practical examples.
 - Do not invent personal experiences, technical results, quotes, or sources.
 - Keep technical explanations accurate but accessible.
+- Every newly created blog post must begin as a draft. Include `draft: true` in
+  its Hugo front matter. Change it to `false` only when explicitly asked to
+  prepare the post for publication.
 
 ## Repository Structure
 
@@ -59,9 +62,10 @@ Every repository change must be made through a pull request.
 ## Authoring Workflow
 
 1. Find two or three related existing posts for tone, structure, and front matter.
-2. Draft or update the Markdown source under `content/`.
-3. Verify internal links, image paths, code fences, headings, and front matter.
-4. Build the site locally before considering the work complete.
+2. Create new posts with `draft: true` in their front matter.
+3. Draft or update the Markdown source under `content/`.
+4. Verify internal links, image paths, code fences, headings, and front matter.
+5. Build the site locally before considering the work complete.
 
 ## Validation
 
