@@ -25,20 +25,26 @@ conversational, and grounded in real experience.
 
 ## Branch Naming
 
-Create draft branches using the date they are started:
+Create a draft branch for each new blog post using its start date and title:
 
 ```text
-draft/YYYY-MM-DD
+draft/YYYY-MM-DD/post-title
 ```
 
 For example:
 
 ```text
-draft/2026-08-07
+draft/2026-08-07/backlog-bankruptcy
 ```
 
-Use one draft branch per post or focused update. Keep the branch scoped to
-that work and avoid unrelated changes.
+Use the post title in lowercase, with words separated by hyphens. Keep one draft
+branch per post and avoid unrelated changes.
+
+For a focused non-post update, use the same format with a short descriptive title:
+
+```text
+draft/YYYY-MM-DD/update-title
+```
 
 ## Pull Requests
 
