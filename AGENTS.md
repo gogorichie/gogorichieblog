@@ -40,6 +40,16 @@ draft/2026-08-07
 Use one draft branch per post or focused update. Keep the branch scoped to
 that work and avoid unrelated changes.
 
+## Pull Requests
+
+Every repository change must be made through a pull request.
+
+- Never commit directly to `main`.
+- Create or update a focused draft branch, then open a pull request targeting
+  `main`.
+- Keep the pull request scoped to one post or focused update.
+- Do not merge a pull request unless explicitly asked.
+
 ## Authoring Workflow
 
 1. Find two or three related existing posts for tone, structure, and front matter.
