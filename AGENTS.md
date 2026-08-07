@@ -34,7 +34,10 @@ for publication.
 
 ## Repository Structure
 
-- `content/` contains blog posts and pages.
+- `content/blog/` contains every blog post. Create and keep all blog-post
+  source files in this directory.
+- `content/` may contain other Hugo pages and sections, but must not contain
+  blog posts outside `content/blog/`.
 - `themes/` contains the Hugo theme.
 - Site configuration controls navigation, taxonomy, and publishing behavior.
 - Do not modify generated output unless the repository explicitly tracks it.
@@ -70,7 +73,7 @@ Every repository change must be made through a pull request.
 ## Authoring Workflow
 
 1. Find two or three related existing posts for tone, structure, and front matter.
-2. Draft or update the Markdown source under `content/`.
+2. Create or update blog-post Markdown source under `content/blog/`.
 3. Verify internal links, image paths, code fences, headings, and front matter.
 4. Build the site locally before considering the work complete.
 
