@@ -16,6 +16,22 @@ conversational, and grounded in real experience.
 - Do not invent personal experiences, technical results, quotes, or sources.
 - Keep technical explanations accurate but accessible.
 
+## Required Post Header
+
+Every new blog post must begin as a Hugo draft using this front-matter template.
+Replace the title and date values for the new post; keep `draft: true`.
+
+```yaml
+---
+title: "Post Title"
+date: "YYYY-MM-DDTHH:MM:SS-05:00"
+draft: true
+---
+```
+
+Do not change a post to `draft: false` unless explicitly asked to prepare it
+for publication.
+
 ## Repository Structure
 
 - `content/` contains blog posts and pages.
@@ -25,16 +41,17 @@ conversational, and grounded in real experience.
 
 ## Branch Naming
 
-Create draft branches using the date they are started:
+Create draft branches for new blog posts using the date they are started and a
+kebab-case version of the post title:
 
 ```text
-draft/YYYY-MM-DD
+draft/YYYY-MM-DD/post-title
 ```
 
 For example:
 
 ```text
-draft/2026-08-07
+draft/2026-08-07/backlog-bankruptcy
 ```
 
 Use one draft branch per post or focused update. Keep the branch scoped to
